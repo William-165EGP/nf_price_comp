@@ -30,12 +30,19 @@ jobs:
       - name: Run API script
         run: python api.py
 
-      - name: Run Static script
-        run: python static.py
-
-      - name: Commit and Push Changes
+      - name: Commit and Push api.csv
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add static.json api.csv  # Add both static.json and api.csv
-          git diff --cached --quiet || (git commit -m "Update static.json and api.csv via GitHub Actions" && git push)
+          git add api.csv  # Add api.csv after running api.py
+          git diff --cached --quiet || (git commit -m "Update api.csv via GitHub Actions" && git push)
+
+      - name: Run Static script
+        run: python static.py
+
+      - name: Commit and Push static.json
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add static.json  # Add static.json after running static.py
+          git diff --cached --quiet || (git commit -m "Update static.json via GitHub Actions" && git push)
