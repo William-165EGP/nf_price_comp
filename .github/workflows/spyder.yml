@@ -1,4 +1,4 @@
-name: Run Python Scripts
+name: Run Python Scripts and Update static.json
 
 on:
   push:
@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false  # avoid GITHUB_TOKEN affecting commit permission
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -30,3 +32,10 @@ jobs:
 
       - name: Run Static script
         run: python static.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add static.json
+          git diff --cached --quiet || (git commit -m "Update static.json via GitHub Actions" && git push)
