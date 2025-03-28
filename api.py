@@ -9,14 +9,14 @@ for i in range(0, 300, 100):
     raw_json = json.loads(response.text)
     for one_country in raw_json['results']:
         country_codes.append(one_country['iso2_code'])
-    print(i)
+#    print(i)
 
 with open('api.csv', 'w') as f:
     for code in country_codes:
         f.write(f"{code}\n")
 
-print(country_codes)
-print(len(country_codes))
+#print(country_codes)
+#print(len(country_codes))
 
 
 

@@ -1,4 +1,4 @@
-name: Run Python Scripts and Update static.json
+name: Run Python Scripts and Update static.json and api.csv
 
 on:
   push:
@@ -37,5 +37,5 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add static.json
-          git diff --cached --quiet || (git commit -m "Update static.json via GitHub Actions" && git push)
+          git add static.json api.csv  # Add both static.json and api.csv
+          git diff --cached --quiet || (git commit -m "Update static.json and api.csv via GitHub Actions" && git push)
