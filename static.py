@@ -24,10 +24,10 @@ def get_current_price(country_codes):
             try:
                 pricing_sections = soup.find_all(string=lambda text: ": " in text and "month" in text)
                 pricing_sections=pricing_sections[len(pricing_sections)-1]
-                print(len(pricing_sections))
-                print(pricing_sections)
+#                print(len(pricing_sections))
+#                print(pricing_sections)
                 raw_price = pricing_sections
-                print(raw_price)
+#                print(raw_price)
                 # print(raw_text)
                 # print(country_code, plan_name, raw_price)
                 # price like 9699,99 in AR or 229.99 in TR can also be applied
