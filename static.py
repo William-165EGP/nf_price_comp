@@ -54,16 +54,18 @@ def get_country_codes():
 def comparison(prev_price_list, cur_price_list):
     msg = ''
     if prev_price_list == cur_price_list:
-       msg += 'Previous price list is equal to current price list'
+       return msg
     else:
         msg += 'List of different price:'
         for key, value in prev_price_list.items():
             if value != cur_price_list.get(key):
-                msg += '\nPrice of {} is different.'.format(key) + ' Fuck you Netflix!!'
+                msg += '\nPrice of {} is different.'.format(key) + ' Fxxk you Netflix!!'
 
     return msg
 
 def sendMSG(token, msg):
+    if not msg:
+        return
     debugMode = False
     chat_id = os.getenv("MY_TG_CHAT_ID")
     if debugMode:
