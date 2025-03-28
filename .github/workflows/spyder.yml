@@ -8,6 +8,8 @@ on:
     branches:
       - main
   workflow_dispatch:  # Allows manual triggering of the workflow
+  schedule:
+    - cron: '0 3 * * *'
 
 jobs:
   run-scripts:
