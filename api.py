@@ -13,6 +13,7 @@ for i in range(0, 300, 100):
         if one_country['iso2_code'] not in country_not_exist:
             country_codes.append(one_country['iso2_code'])
 #    print(i)
+country_codes.sort()
 
 with open('api.csv', 'w') as f:
     for code in country_codes:
