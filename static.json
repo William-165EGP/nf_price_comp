@@ -14,7 +14,6 @@
         "Standard": "13.99",
         "Premium": "17.99"
     },
-    "RU": {},
     "VG": {
         "Basic/Ads": "10.99",
         "Standard": "15.49",
@@ -65,7 +64,6 @@
         "Standard": "15.49",
         "Premium": "19.99"
     },
-    "CS": {},
     "DO": {
         "Basic/Ads": "6.99",
         "Standard": "9.99",
@@ -126,7 +124,6 @@
         "Standard": "7.99",
         "Premium": "9.99"
     },
-    "SY": {},
     "TO": {
         "Basic/Ads": "3.99",
         "Standard": "7.99",
@@ -517,7 +514,6 @@
         "Standard": "7.99",
         "Premium": "9.99"
     },
-    "SU": {},
     "DJ": {
         "Basic/Ads": "3.99",
         "Standard": "7.99",
@@ -548,7 +544,6 @@
         "Standard": "12.49",
         "Premium": "15.99"
     },
-    "KP": {},
     "SC": {
         "Basic/Ads": "3.99",
         "Standard": "7.99",
@@ -769,7 +764,6 @@
         "Standard": "13.99",
         "Premium": "19.99"
     },
-    "CN": {},
     "SE": {
         "Basic/Ads": "109",
         "Standard": "149",
@@ -1090,7 +1084,6 @@
         "Standard": "7.99",
         "Premium": "9.99"
     },
-    "AN": {},
     "MM": {
         "Basic/Ads": "3.99",
         "Standard": "7.99",
