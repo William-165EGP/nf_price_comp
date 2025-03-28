@@ -15,7 +15,7 @@ def get_current_price(country_codes):
         while response.url!=url:
             time.sleep(0.5)
             print('reget')
-            print(response.url)
+#            print(response.url)
             response=requests.get(url)
         #print(country_code)
         if response.status_code == 200:
