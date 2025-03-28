@@ -1,729 +1,1134 @@
 {
     "IR": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "GM": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "NC": {
+        "Basic/Ads": "10.99",
+        "Standard": "13.99",
         "Premium": "17.99"
-    },
-    "KS": {
-        "Premium": "24.99"
     },
     "RU": {},
     "VG": {
+        "Basic/Ads": "10.99",
+        "Standard": "15.49",
         "Premium": "19.99"
     },
-    "C1": {
-        "Premium": "24.99"
-    },
     "SB": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "SN": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "NF": {
+        "Basic/Ads": "12.99",
+        "Standard": "18.99",
         "Premium": "25.99"
     },
     "KN": {
+        "Basic/Ads": "10.99",
+        "Standard": "15.49",
         "Premium": "19.99"
     },
     "BT": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "PW": {
+        "Basic/Ads": "7.99",
+        "Standard": "17.99",
         "Premium": "24.99"
     },
     "KZ": {
+        "Basic/Ads": "7.99",
+        "Standard": "9.99",
         "Premium": "11.99"
     },
     "BJ": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "AW": {
+        "Basic/Ads": "10.99",
+        "Standard": "15.49",
         "Premium": "19.99"
     },
     "CS": {},
     "DO": {
+        "Basic/Ads": "6.99",
+        "Standard": "9.99",
         "Premium": "13.99"
     },
-    "Y1": {
-        "Premium": "24.99"
-    },
     "LB": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "LR": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "AZ": {
+        "Basic/Ads": "7.99",
+        "Standard": "9.99",
         "Premium": "11.99"
     },
     "ES": {
+        "Basic/Ads": "6.99",
+        "Standard": "13.99",
         "Premium": "19.99"
     },
     "QA": {
+        "Basic/Ads": "8.99",
+        "Standard": "11.99",
         "Premium": "17.99"
     },
     "OM": {
+        "Basic/Ads": "8.39",
+        "Standard": "10.49",
         "Premium": "15.79"
     },
     "SK": {
+        "Basic/Ads": "9.49",
+        "Standard": "11.49",
         "Premium": "13.99"
     },
     "CV": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "GB": {
+        "Basic/Ads": "5.99",
+        "Standard": "12.99",
         "Premium": "18.99"
     },
-    "T1": {
-        "Premium": "24.99"
-    },
     "UA": {
+        "Basic/Ads": "4.99",
+        "Standard": "7.49",
         "Premium": "9.99"
     },
     "ZW": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "SY": {},
     "TO": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "SM": {
+        "Basic/Ads": "6.99",
+        "Standard": "13.99",
         "Premium": "19.99"
     },
     "ER": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "GL": {
+        "Basic/Ads": "89",
+        "Standard": "129",
         "Premium": "169"
     },
     "TM": {
+        "Basic/Ads": "7.99",
+        "Standard": "9.99",
         "Premium": "11.99"
     },
     "KE": {
+        "Basic/Ads": "300",
+        "Standard": "700",
         "Premium": "1,100"
     },
     "TJ": {
+        "Basic/Ads": "9.39",
+        "Standard": "11.79",
         "Premium": "13.99"
     },
     "AI": {
+        "Basic/Ads": "10.99",
+        "Standard": "15.49",
         "Premium": "19.99"
     },
     "FO": {
+        "Basic/Ads": "89",
+        "Standard": "129",
         "Premium": "169"
     },
     "MG": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "LI": {
+        "Basic/Ads": "12,90",
+        "Standard": "20,90",
         "Premium": "27,90"
     },
     "CF": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "DZ": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "GU": {
+        "Basic/Ads": "7.99",
+        "Standard": "17.99",
         "Premium": "24.99"
     },
     "GD": {
+        "Basic/Ads": "3.99",
+        "Standard": "5.99",
         "Premium": "7.99"
     },
     "FR": {
+        "Basic/Ads": "5.99",
+        "Standard": "13.49",
         "Premium": "19.99"
     },
     "MZ": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "EE": {
+        "Basic/Ads": "7.99",
+        "Standard": "9.99",
         "Premium": "11.99"
     },
     "CL": {
+        "Basic/Ads": "6,540",
+        "Standard": "9,190",
         "Premium": "11,790"
     },
     "PR": {
+        "Basic/Ads": "7.99",
+        "Standard": "17.99",
         "Premium": "24.99"
     },
     "CR": {
+        "Basic/Ads": "8.99",
+        "Standard": "12.99",
         "Premium": "15.99"
     },
     "AM": {
+        "Basic/Ads": "7.99",
+        "Standard": "9.99",
         "Premium": "11.99"
     },
     "GG": {
+        "Basic/Ads": "5.99",
+        "Standard": "12.99",
         "Premium": "18.99"
     },
     "FK": {
+        "Basic/Ads": "11.99",
+        "Standard": "17.99",
         "Premium": "24.99"
     },
     "MD": {
+        "Basic/Ads": "7.99",
+        "Standard": "9.99",
         "Premium": "11.99"
     },
     "GT": {
+        "Basic/Ads": "5.99",
+        "Standard": "8.99",
         "Premium": "12.49"
     },
     "AO": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "VN": {
+        "Basic/Ads": "108,000",
+        "Standard": "220,000",
         "Premium": "260,000"
     },
     "RS": {
+        "Basic/Ads": "4.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "KM": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "GH": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "TZ": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "MQ": {
+        "Basic/Ads": "10.99",
+        "Standard": "13.49",
         "Premium": "17.99"
     },
     "SZ": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "WF": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "TH": {
+        "Basic/Ads": "169",
+        "Standard": "349",
         "Premium": "419"
     },
     "TL": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "BE": {
+        "Basic/Ads": "9.99",
+        "Standard": "14.99",
         "Premium": "19.99"
     },
     "IS": {
+        "Basic/Ads": "9.99",
+        "Standard": "14.99",
         "Premium": "20.99"
     },
     "BG": {
+        "Basic/Ads": "4.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "SS": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "TR": {
+        "Basic/Ads": "149.99",
+        "Standard": "229.99",
         "Premium": "299.99"
     },
     "MW": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "GN": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "MY": {
+        "Basic/Ads": "29.90",
+        "Standard": "49.90",
         "Premium": "62.90"
     },
     "BB": {
+        "Basic/Ads": "10.59",
+        "Standard": "15.29",
         "Premium": "18.79"
     },
     "IE": {
+        "Basic/Ads": "10.99",
+        "Standard": "16.99",
         "Premium": "23.99"
     },
     "CI": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "RW": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "TV": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "VE": {
+        "Basic/Ads": "3.99",
+        "Standard": "5.99",
         "Premium": "7.99"
     },
     "RE": {
+        "Basic/Ads": "10.99",
+        "Standard": "13.49",
         "Premium": "17.99"
     },
     "GY": {
+        "Basic/Ads": "3.99",
+        "Standard": "5.99",
         "Premium": "7.99"
     },
     "BI": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "KI": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "JO": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "AU": {
+        "Basic/Ads": "7.99",
+        "Standard": "18.99",
         "Premium": "25.99"
     },
     "EH": {
+        "Basic/Ads": "7.99",
+        "Standard": "9.99",
         "Premium": "11.99"
     },
     "GE": {
+        "Basic/Ads": "9.39",
+        "Standard": "11.79",
         "Premium": "13.99"
     },
     "EC": {
+        "Basic/Ads": "5.99",
+        "Standard": "8.99",
         "Premium": "11.99"
     },
     "NI": {
+        "Basic/Ads": "4.99",
+        "Standard": "6.99",
         "Premium": "9.99"
     },
     "CU": {
+        "Basic/Ads": "3.99",
+        "Standard": "5.99",
         "Premium": "7.99"
     },
     "KW": {
+        "Basic/Ads": "8.99",
+        "Standard": "11.99",
         "Premium": "17.99"
     },
     "PT": {
+        "Basic/Ads": "8.99",
+        "Standard": "12.99",
         "Premium": "17.99"
     },
-    "Y2": {
-        "Premium": "24.99"
-    },
     "GR": {
+        "Basic/Ads": "8.99",
+        "Standard": "12.49",
         "Premium": "15.99"
     },
     "MT": {
+        "Basic/Ads": "8.99",
+        "Standard": "13.99",
         "Premium": "19.99"
     },
     "IL": {
+        "Basic/Ads": "32.90",
+        "Standard": "54.90",
         "Premium": "69.90"
     },
     "LS": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "LA": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "BF": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "VC": {
+        "Basic/Ads": "3.99",
+        "Standard": "5.99",
         "Premium": "7.99"
     },
     "PM": {
+        "Basic/Ads": "10.99",
+        "Standard": "13.49",
         "Premium": "19.99"
     },
     "SI": {
+        "Basic/Ads": "4.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "BN": {
+        "Basic/Ads": "10.99",
+        "Standard": "13.99",
         "Premium": "17.99"
     },
     "BR": {
+        "Basic/Ads": "20,90",
+        "Standard": "44,90",
         "Premium": "59,90"
     },
     "NO": {
+        "Basic/Ads": "99",
+        "Standard": "129",
         "Premium": "189"
     },
     "GA": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
-    "T2": {
-        "Premium": "24.99"
-    },
     "IQ": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "SU": {},
     "DJ": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "PL": {
+        "Basic/Ads": "33",
+        "Standard": "49",
         "Premium": "67"
     },
     "SO": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "NL": {
+        "Basic/Ads": "8.99",
+        "Standard": "13.99",
         "Premium": "18.99"
     },
     "TN": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "CY": {
+        "Basic/Ads": "8.99",
+        "Standard": "12.49",
         "Premium": "15.99"
-    },
-    "M3": {
-        "Premium": "24.99"
     },
     "KP": {},
     "SC": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "MO": {
+        "Basic/Ads": "7.99",
+        "Standard": "9.99",
         "Premium": "11.99"
     },
     "UG": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "MA": {
+        "Basic/Ads": "35",
+        "Standard": "65",
         "Premium": "95"
     },
     "IN": {
+        "Basic/Ads": "199",
+        "Standard": "499",
         "Premium": "649"
     },
     "JE": {
+        "Basic/Ads": "5.99",
+        "Standard": "12.99",
         "Premium": "18.99"
     },
     "MS": {
+        "Basic/Ads": "10.99",
+        "Standard": "15.49",
         "Premium": "19.99"
     },
     "MN": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "HU": {
+        "Basic/Ads": "2890",
+        "Standard": "3990",
         "Premium": "5090"
     },
     "ID": {
+        "Basic/Ads": "65,000",
+        "Standard": "120,000",
         "Premium": "186,000"
     },
     "BM": {
+        "Basic/Ads": "10.99",
+        "Standard": "15.49",
         "Premium": "19.99"
     },
     "DM": {
+        "Basic/Ads": "3.99",
+        "Standard": "5.99",
         "Premium": "7.99"
     },
     "NE": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "FJ": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "CM": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "DK": {
+        "Basic/Ads": "89",
+        "Standard": "129",
         "Premium": "169"
     },
     "PF": {
+        "Basic/Ads": "10.99",
+        "Standard": "13.99",
         "Premium": "17.99"
     },
     "EG": {
+        "Basic/Ads": "100",
+        "Standard": "170",
         "Premium": "240"
     },
     "WS": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "BY": {
+        "Basic/Ads": "7.99",
+        "Standard": "9.99",
         "Premium": "11.99"
     },
     "PA": {
+        "Basic/Ads": "5.99",
+        "Standard": "9.99",
         "Premium": "13.99"
     },
     "HT": {
+        "Basic/Ads": "3.99",
+        "Standard": "5.99",
         "Premium": "7.99"
     },
     "BD": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "BW": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "TK": {
+        "Basic/Ads": "14.99",
+        "Standard": "20.99",
         "Premium": "27.99"
     },
     "HK": {
+        "Basic/Ads": "73",
+        "Standard": "88",
         "Premium": "108"
     },
     "SG": {
+        "Basic/Ads": "13.98",
+        "Standard": "19.98",
         "Premium": "25.98"
     },
     "KR": {
+        "Basic/Ads": "5,500",
+        "Standard": "13,500",
         "Premium": "17,000"
     },
     "ML": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "AS": {
+        "Basic/Ads": "7.99",
+        "Standard": "17.99",
         "Premium": "24.99"
     },
     "LT": {
+        "Basic/Ads": "7.99",
+        "Standard": "9.99",
         "Premium": "11.99"
     },
     "ZA": {
+        "Basic/Ads": "99",
+        "Standard": "159",
         "Premium": "199"
     },
     "SH": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "NA": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "AD": {
+        "Basic/Ads": "8.99",
+        "Standard": "13.99",
         "Premium": "19.99"
     },
     "NP": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "UY": {
+        "Basic/Ads": "9.99",
+        "Standard": "13.99",
         "Premium": "17.99"
     },
     "LC": {
+        "Basic/Ads": "3.99",
+        "Standard": "5.99",
         "Premium": "7.99"
     },
-    "D1": {
-        "Premium": "24.99"
-    },
     "GI": {
+        "Basic/Ads": "8.99",
+        "Standard": "13.99",
         "Premium": "19.99"
     },
     "TW": {
+        "Basic/Ads": "290",
+        "Standard": "380",
         "Premium": "460"
     },
     "CD": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "MP": {
+        "Basic/Ads": "7.99",
+        "Standard": "17.99",
         "Premium": "24.99"
     },
     "ET": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "AT": {
+        "Basic/Ads": "8.99",
+        "Standard": "13.99",
         "Premium": "19.99"
     },
     "CN": {},
-    "M1": {
-        "Premium": "24.99"
-    },
     "SE": {
+        "Basic/Ads": "109",
+        "Standard": "149",
         "Premium": "199"
     },
     "PK": {
+        "Basic/Ads": "450",
+        "Standard": "800",
         "Premium": "1,100"
     },
     "KY": {
+        "Basic/Ads": "10.99",
+        "Standard": "15.49",
         "Premium": "19.99"
     },
     "MC": {
+        "Basic/Ads": "10.99",
+        "Standard": "13.49",
         "Premium": "19.99"
     },
     "BS": {
+        "Basic/Ads": "10.99",
+        "Standard": "15.49",
         "Premium": "19.99"
     },
-    "E1": {
-        "Premium": "24.99"
-    },
     "CO": {
+        "Basic/Ads": "18,900",
+        "Standard": "29,900",
         "Premium": "44,900"
     },
     "SV": {
+        "Basic/Ads": "5.99",
+        "Standard": "8.99",
         "Premium": "12.49"
     },
     "PH": {
+        "Basic/Ads": "249",
+        "Standard": "399",
         "Premium": "549"
     },
     "LU": {
+        "Basic/Ads": "9.99",
+        "Standard": "14.99",
         "Premium": "19.99"
     },
     "JP": {
+        "Basic/Ads": "890",
+        "Standard": "1,590",
         "Premium": "2,290"
     },
     "BO": {
+        "Basic/Ads": "3.99",
+        "Standard": "5.99",
         "Premium": "7.99"
     },
-    "D2": {
-        "Premium": "24.99"
-    },
     "AL": {
+        "Basic/Ads": "4.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "ME": {
+        "Basic/Ads": "4.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "US": {
+        "Basic/Ads": "7.99",
+        "Standard": "17.99",
         "Premium": "24.99"
     },
     "BA": {
+        "Basic/Ads": "4.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "PG": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "LV": {
+        "Basic/Ads": "7.99",
+        "Standard": "9.99",
         "Premium": "11.99"
     },
     "YE": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
-    "M2": {
-        "Premium": "24.99"
-    },
     "IM": {
+        "Basic/Ads": "5.99",
+        "Standard": "12.99",
         "Premium": "18.99"
     },
     "TC": {
+        "Basic/Ads": "10.99",
+        "Standard": "15.49",
         "Premium": "19.99"
     },
     "LY": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "HR": {
+        "Basic/Ads": "5.99",
+        "Standard": "9.99",
         "Premium": "12.99"
     },
     "TG": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "KH": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "CH": {
+        "Basic/Ads": "12,90",
+        "Standard": "20,90",
         "Premium": "27,90"
     },
     "NG": {
+        "Basic/Ads": "3,500",
+        "Standard": "5,500",
         "Premium": "7,000"
     },
     "CZ": {
+        "Basic/Ads": "239,00",
+        "Standard": "309,00",
         "Premium": "379,00"
     },
     "UZ": {
+        "Basic/Ads": "7.99",
+        "Standard": "9.99",
         "Premium": "11.99"
     },
     "GF": {
+        "Basic/Ads": "10.99",
+        "Standard": "13.49",
         "Premium": "17.99"
     },
     "DE": {
+        "Basic/Ads": "4.99",
+        "Standard": "13.99",
         "Premium": "19.99"
     },
     "BH": {
+        "Basic/Ads": "7.99",
+        "Standard": "10.49",
         "Premium": "15.79"
     },
     "MH": {
+        "Basic/Ads": "7.99",
+        "Standard": "17.99",
         "Premium": "24.99"
     },
     "VU": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "ST": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "TD": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "NZ": {
+        "Basic/Ads": "14.99",
+        "Standard": "20.99",
         "Premium": "27.99"
     },
     "CA": {
+        "Basic/Ads": "7.99",
+        "Standard": "18.99",
         "Premium": "23.99"
     },
     "KG": {
+        "Basic/Ads": "7.99",
+        "Standard": "9.99",
         "Premium": "11.99"
     },
-    "JG": {
-        "Premium": "24.99"
-    },
     "TT": {
+        "Basic/Ads": "10.99",
+        "Standard": "15.49",
         "Premium": "19.99"
     },
     "GQ": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "SD": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "NU": {
+        "Basic/Ads": "14.99",
+        "Standard": "20.99",
         "Premium": "27.99"
     },
-    "D3": {
-        "Premium": "24.99"
-    },
     "BZ": {
+        "Basic/Ads": "3.99",
+        "Standard": "5.99",
         "Premium": "7.99"
     },
     "IT": {
+        "Basic/Ads": "6.99",
+        "Standard": "13.99",
         "Premium": "19.99"
     },
     "FI": {
+        "Basic/Ads": "9.49",
+        "Standard": "13.99",
         "Premium": "17.99"
     },
     "PY": {
+        "Basic/Ads": "3.99",
+        "Standard": "5.99",
         "Premium": "7.99"
     },
     "AF": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "AE": {
+        "Basic/Ads": "35",
+        "Standard": "49",
         "Premium": "71"
     },
     "PE": {
+        "Basic/Ads": "28.90",
+        "Standard": "40.90",
         "Premium": "52.90"
     },
     "CG": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "HN": {
+        "Basic/Ads": "6.99",
+        "Standard": "9.99",
         "Premium": "13.99"
     },
     "VI": {
+        "Basic/Ads": "7.99",
+        "Standard": "17.99",
         "Premium": "24.99"
     },
     "CK": {
+        "Basic/Ads": "14.99",
+        "Standard": "20.99",
         "Premium": "27.99"
     },
     "SL": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "AG": {
+        "Basic/Ads": "10.99",
+        "Standard": "15.49",
         "Premium": "19.99"
     },
     "AR": {
+        "Basic/Ads": "5,999",
+        "Standard": "9,999",
         "Premium": "13,499"
     },
     "RO": {
+        "Basic/Ads": "5.99",
+        "Standard": "10.99",
         "Premium": "13.99"
     },
     "PS": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "JM": {
+        "Basic/Ads": "4.99",
+        "Standard": "6.99",
         "Premium": "9.99"
     },
     "MV": {
+        "Basic/Ads": "10.99",
+        "Standard": "13.99",
         "Premium": "17.99"
     },
     "GW": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "MR": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "SR": {
+        "Basic/Ads": "3.99",
+        "Standard": "5.99",
         "Premium": "7.99"
     },
     "ZM": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "AN": {},
-    "Y3": {
-        "Premium": "24.99"
-    },
     "MM": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "GP": {
+        "Basic/Ads": "10.99",
+        "Standard": "13.49",
         "Premium": "17.99"
     },
     "MX": {
+        "Basic/Ads": "119",
+        "Standard": "249",
         "Premium": "329"
     },
     "MU": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "SA": {
+        "Basic/Ads": "35",
+        "Standard": "49",
         "Premium": "71"
     },
     "LK": {
+        "Basic/Ads": "3.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     },
     "NR": {
+        "Basic/Ads": "10.99",
+        "Standard": "13.99",
         "Premium": "17.99"
     },
     "MK": {
+        "Basic/Ads": "4.99",
+        "Standard": "7.99",
         "Premium": "9.99"
     }
 }

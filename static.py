@@ -23,24 +23,28 @@ def get_current_price(country_codes):
             price_plans = {}
             try:
                 pricing_sections = soup.find_all(string=lambda text: ": " in text and "month" in text)
-                pricing_sections=pricing_sections[len(pricing_sections)-1]
+                test=pricing_sections[len(pricing_sections)-1]
 #                print(len(pricing_sections))
 #                print(pricing_sections)
-                raw_price = pricing_sections
-#                print(raw_price)
-                # print(raw_text)
-                # print(country_code, plan_name, raw_price)
-                # price like 9699,99 in AR or 229.99 in TR can also be applied
-                price = re.sub(r"[^\d.,]", "", raw_price)
+                if len(pricing_sections) == 4:
+                    plan_names = ['Mobile', 'Basic/Ads', 'Standard', 'Premium']
+                    start = 1
+                else:
+                    plan_names = ['Basic/Ads', 'Standard', 'Premium']
+                    start = 0
+                for i in range(start, len(pricing_sections)):
+                    raw_price = pricing_sections[i]
+                    #                print(raw_price)
+                    # print(raw_text)
+                    # print(country_code, plan_name, raw_price)
+                    # price like 9699,99 in AR or 229.99 in TR can also be applied
+                    price = re.sub(r"[^\d.,]", "", raw_price)
+                    price_plans[plan_names[i]] = price
             except IndexError:  # For country like China, Russia aren't available.
                 price = 0
-            if price != 0:
-                price_plans['Premium'] = price
-
-
-            #print(price_plans)
-
-            price_list[country_code] = price_plans
+#           print(country_code, price_plans)
+            if price_plans:
+                price_list[country_code] = price_plans
 
         else:
             print("Request failed.")
