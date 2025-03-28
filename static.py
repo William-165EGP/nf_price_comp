@@ -77,7 +77,6 @@ def sendMSG(token, msg):
         res = requests.post(url, data=payload)
 
 if __name__ == '__main__':
-    print(os.getenv("MY_TG_CHAT_ID"))
     country_codes = get_country_codes()
     price_list = get_current_price(country_codes)
 

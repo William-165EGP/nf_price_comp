@@ -39,6 +39,9 @@ jobs:
 
       - name: Run Static script
         run: python static.py
+        env:
+          MY_TG_CHAT_ID: ${{ secrets.MY_TG_CHAT_ID }}
+          MY_TGBOT_TOKEN: ${{ secrets.MY_TGBOT_TOKEN }}
 
       - name: Commit and Push static.json
         run: |
