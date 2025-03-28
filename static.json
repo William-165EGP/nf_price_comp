@@ -1,0 +1,729 @@
+{
+    "IR": {
+        "Premium": "9.99"
+    },
+    "GM": {
+        "Premium": "9.99"
+    },
+    "NC": {
+        "Premium": "17.99"
+    },
+    "KS": {
+        "Premium": "460"
+    },
+    "RU": {},
+    "VG": {
+        "Premium": "19.99"
+    },
+    "C1": {
+        "Premium": "460"
+    },
+    "SB": {
+        "Premium": "9.99"
+    },
+    "SN": {
+        "Premium": "9.99"
+    },
+    "NF": {
+        "Premium": "25.99"
+    },
+    "KN": {
+        "Premium": "19.99"
+    },
+    "BT": {
+        "Premium": "9.99"
+    },
+    "PW": {
+        "Premium": "24.99"
+    },
+    "KZ": {
+        "Premium": "11.99"
+    },
+    "BJ": {
+        "Premium": "9.99"
+    },
+    "AW": {
+        "Premium": "19.99"
+    },
+    "CS": {},
+    "DO": {
+        "Premium": "13.99"
+    },
+    "Y1": {
+        "Premium": "460"
+    },
+    "LB": {
+        "Premium": "9.99"
+    },
+    "LR": {
+        "Premium": "9.99"
+    },
+    "AZ": {
+        "Premium": "11.99"
+    },
+    "ES": {
+        "Premium": "19.99"
+    },
+    "QA": {
+        "Premium": "17.99"
+    },
+    "OM": {
+        "Premium": "15.79"
+    },
+    "SK": {
+        "Premium": "13.99"
+    },
+    "CV": {
+        "Premium": "9.99"
+    },
+    "GB": {
+        "Premium": "18.99"
+    },
+    "T1": {
+        "Premium": "460"
+    },
+    "UA": {
+        "Premium": "9.99"
+    },
+    "ZW": {
+        "Premium": "9.99"
+    },
+    "SY": {},
+    "TO": {
+        "Premium": "9.99"
+    },
+    "SM": {
+        "Premium": "19.99"
+    },
+    "ER": {
+        "Premium": "9.99"
+    },
+    "GL": {
+        "Premium": "169"
+    },
+    "TM": {
+        "Premium": "11.99"
+    },
+    "KE": {
+        "Premium": "1,100"
+    },
+    "TJ": {
+        "Premium": "13.99"
+    },
+    "AI": {
+        "Premium": "19.99"
+    },
+    "FO": {
+        "Premium": "169"
+    },
+    "MG": {
+        "Premium": "9.99"
+    },
+    "LI": {
+        "Premium": "27,90"
+    },
+    "CF": {
+        "Premium": "9.99"
+    },
+    "DZ": {
+        "Premium": "9.99"
+    },
+    "GU": {
+        "Premium": "24.99"
+    },
+    "GD": {
+        "Premium": "7.99"
+    },
+    "FR": {
+        "Premium": "19.99"
+    },
+    "MZ": {
+        "Premium": "9.99"
+    },
+    "EE": {
+        "Premium": "11.99"
+    },
+    "CL": {
+        "Premium": "11,790"
+    },
+    "PR": {
+        "Premium": "24.99"
+    },
+    "CR": {
+        "Premium": "15.99"
+    },
+    "AM": {
+        "Premium": "11.99"
+    },
+    "GG": {
+        "Premium": "18.99"
+    },
+    "FK": {
+        "Premium": "24.99"
+    },
+    "MD": {
+        "Premium": "11.99"
+    },
+    "GT": {
+        "Premium": "12.49"
+    },
+    "AO": {
+        "Premium": "9.99"
+    },
+    "VN": {
+        "Premium": "260,000"
+    },
+    "RS": {
+        "Premium": "9.99"
+    },
+    "KM": {
+        "Premium": "9.99"
+    },
+    "GH": {
+        "Premium": "9.99"
+    },
+    "TZ": {
+        "Premium": "9.99"
+    },
+    "MQ": {
+        "Premium": "17.99"
+    },
+    "SZ": {
+        "Premium": "9.99"
+    },
+    "WF": {
+        "Premium": "9.99"
+    },
+    "TH": {
+        "Premium": "419"
+    },
+    "TL": {
+        "Premium": "9.99"
+    },
+    "BE": {
+        "Premium": "19.99"
+    },
+    "IS": {
+        "Premium": "20.99"
+    },
+    "BG": {
+        "Premium": "9.99"
+    },
+    "SS": {
+        "Premium": "9.99"
+    },
+    "TR": {
+        "Premium": "299.99"
+    },
+    "MW": {
+        "Premium": "9.99"
+    },
+    "GN": {
+        "Premium": "9.99"
+    },
+    "MY": {
+        "Premium": "62.90"
+    },
+    "BB": {
+        "Premium": "18.79"
+    },
+    "IE": {
+        "Premium": "23.99"
+    },
+    "CI": {
+        "Premium": "9.99"
+    },
+    "RW": {
+        "Premium": "9.99"
+    },
+    "TV": {
+        "Premium": "9.99"
+    },
+    "VE": {
+        "Premium": "7.99"
+    },
+    "RE": {
+        "Premium": "17.99"
+    },
+    "GY": {
+        "Premium": "7.99"
+    },
+    "BI": {
+        "Premium": "9.99"
+    },
+    "KI": {
+        "Premium": "9.99"
+    },
+    "JO": {
+        "Premium": "9.99"
+    },
+    "AU": {
+        "Premium": "25.99"
+    },
+    "EH": {
+        "Premium": "11.99"
+    },
+    "GE": {
+        "Premium": "13.99"
+    },
+    "EC": {
+        "Premium": "11.99"
+    },
+    "NI": {
+        "Premium": "9.99"
+    },
+    "CU": {
+        "Premium": "7.99"
+    },
+    "KW": {
+        "Premium": "17.99"
+    },
+    "PT": {
+        "Premium": "17.99"
+    },
+    "Y2": {
+        "Premium": "460"
+    },
+    "GR": {
+        "Premium": "15.99"
+    },
+    "MT": {
+        "Premium": "19.99"
+    },
+    "IL": {
+        "Premium": "69.90"
+    },
+    "LS": {
+        "Premium": "9.99"
+    },
+    "LA": {
+        "Premium": "9.99"
+    },
+    "BF": {
+        "Premium": "9.99"
+    },
+    "VC": {
+        "Premium": "7.99"
+    },
+    "PM": {
+        "Premium": "19.99"
+    },
+    "SI": {
+        "Premium": "9.99"
+    },
+    "BN": {
+        "Premium": "17.99"
+    },
+    "BR": {
+        "Premium": "59,90"
+    },
+    "NO": {
+        "Premium": "189"
+    },
+    "GA": {
+        "Premium": "9.99"
+    },
+    "T2": {
+        "Premium": "460"
+    },
+    "IQ": {
+        "Premium": "9.99"
+    },
+    "SU": {},
+    "DJ": {
+        "Premium": "9.99"
+    },
+    "PL": {
+        "Premium": "67"
+    },
+    "SO": {
+        "Premium": "9.99"
+    },
+    "NL": {
+        "Premium": "18.99"
+    },
+    "TN": {
+        "Premium": "9.99"
+    },
+    "CY": {
+        "Premium": "15.99"
+    },
+    "M3": {
+        "Premium": "460"
+    },
+    "KP": {},
+    "SC": {
+        "Premium": "9.99"
+    },
+    "MO": {
+        "Premium": "11.99"
+    },
+    "UG": {
+        "Premium": "9.99"
+    },
+    "MA": {
+        "Premium": "95"
+    },
+    "IN": {
+        "Premium": "649"
+    },
+    "JE": {
+        "Premium": "18.99"
+    },
+    "MS": {
+        "Premium": "19.99"
+    },
+    "MN": {
+        "Premium": "9.99"
+    },
+    "HU": {
+        "Premium": "5090"
+    },
+    "ID": {
+        "Premium": "186,000"
+    },
+    "BM": {
+        "Premium": "19.99"
+    },
+    "DM": {
+        "Premium": "7.99"
+    },
+    "NE": {
+        "Premium": "9.99"
+    },
+    "FJ": {
+        "Premium": "9.99"
+    },
+    "CM": {
+        "Premium": "9.99"
+    },
+    "DK": {
+        "Premium": "169"
+    },
+    "PF": {
+        "Premium": "17.99"
+    },
+    "EG": {
+        "Premium": "240"
+    },
+    "WS": {
+        "Premium": "9.99"
+    },
+    "BY": {
+        "Premium": "11.99"
+    },
+    "PA": {
+        "Premium": "13.99"
+    },
+    "HT": {
+        "Premium": "7.99"
+    },
+    "BD": {
+        "Premium": "9.99"
+    },
+    "BW": {
+        "Premium": "9.99"
+    },
+    "TK": {
+        "Premium": "27.99"
+    },
+    "HK": {
+        "Premium": "108"
+    },
+    "SG": {
+        "Premium": "25.98"
+    },
+    "KR": {
+        "Premium": "17,000"
+    },
+    "ML": {
+        "Premium": "9.99"
+    },
+    "AS": {
+        "Premium": "24.99"
+    },
+    "LT": {
+        "Premium": "11.99"
+    },
+    "ZA": {
+        "Premium": "199"
+    },
+    "SH": {
+        "Premium": "9.99"
+    },
+    "NA": {
+        "Premium": "9.99"
+    },
+    "AD": {
+        "Premium": "19.99"
+    },
+    "NP": {
+        "Premium": "9.99"
+    },
+    "UY": {
+        "Premium": "17.99"
+    },
+    "LC": {
+        "Premium": "7.99"
+    },
+    "D1": {
+        "Premium": "460"
+    },
+    "GI": {
+        "Premium": "19.99"
+    },
+    "TW": {
+        "Premium": "460"
+    },
+    "CD": {
+        "Premium": "9.99"
+    },
+    "MP": {
+        "Premium": "24.99"
+    },
+    "ET": {
+        "Premium": "9.99"
+    },
+    "AT": {
+        "Premium": "19.99"
+    },
+    "CN": {},
+    "M1": {
+        "Premium": "460"
+    },
+    "SE": {
+        "Premium": "199"
+    },
+    "PK": {
+        "Premium": "1,100"
+    },
+    "KY": {
+        "Premium": "19.99"
+    },
+    "MC": {
+        "Premium": "19.99"
+    },
+    "BS": {
+        "Premium": "19.99"
+    },
+    "E1": {
+        "Premium": "460"
+    },
+    "CO": {
+        "Premium": "44,900"
+    },
+    "SV": {
+        "Premium": "12.49"
+    },
+    "PH": {
+        "Premium": "549"
+    },
+    "LU": {
+        "Premium": "19.99"
+    },
+    "JP": {
+        "Premium": "2,290"
+    },
+    "BO": {
+        "Premium": "7.99"
+    },
+    "D2": {
+        "Premium": "460"
+    },
+    "AL": {
+        "Premium": "9.99"
+    },
+    "ME": {
+        "Premium": "9.99"
+    },
+    "US": {
+        "Premium": "24.99"
+    },
+    "BA": {
+        "Premium": "9.99"
+    },
+    "PG": {
+        "Premium": "9.99"
+    },
+    "LV": {
+        "Premium": "11.99"
+    },
+    "YE": {
+        "Premium": "9.99"
+    },
+    "M2": {
+        "Premium": "460"
+    },
+    "IM": {
+        "Premium": "18.99"
+    },
+    "TC": {
+        "Premium": "19.99"
+    },
+    "LY": {
+        "Premium": "9.99"
+    },
+    "HR": {
+        "Premium": "12.99"
+    },
+    "TG": {
+        "Premium": "9.99"
+    },
+    "KH": {
+        "Premium": "9.99"
+    },
+    "CH": {
+        "Premium": "27,90"
+    },
+    "NG": {
+        "Premium": "7,000"
+    },
+    "CZ": {
+        "Premium": "379,00"
+    },
+    "UZ": {
+        "Premium": "11.99"
+    },
+    "GF": {
+        "Premium": "17.99"
+    },
+    "DE": {
+        "Premium": "19.99"
+    },
+    "BH": {
+        "Premium": "15.79"
+    },
+    "MH": {
+        "Premium": "24.99"
+    },
+    "VU": {
+        "Premium": "9.99"
+    },
+    "ST": {
+        "Premium": "9.99"
+    },
+    "TD": {
+        "Premium": "9.99"
+    },
+    "NZ": {
+        "Premium": "27.99"
+    },
+    "CA": {
+        "Premium": "23.99"
+    },
+    "KG": {
+        "Premium": "11.99"
+    },
+    "JG": {
+        "Premium": "460"
+    },
+    "TT": {
+        "Premium": "19.99"
+    },
+    "GQ": {
+        "Premium": "9.99"
+    },
+    "SD": {
+        "Premium": "9.99"
+    },
+    "NU": {
+        "Premium": "27.99"
+    },
+    "D3": {
+        "Premium": "460"
+    },
+    "BZ": {
+        "Premium": "7.99"
+    },
+    "IT": {
+        "Premium": "19.99"
+    },
+    "FI": {
+        "Premium": "17.99"
+    },
+    "PY": {
+        "Premium": "7.99"
+    },
+    "AF": {
+        "Premium": "9.99"
+    },
+    "AE": {
+        "Premium": "71"
+    },
+    "PE": {
+        "Premium": "52.90"
+    },
+    "CG": {
+        "Premium": "9.99"
+    },
+    "HN": {
+        "Premium": "13.99"
+    },
+    "VI": {
+        "Premium": "24.99"
+    },
+    "CK": {
+        "Premium": "27.99"
+    },
+    "SL": {
+        "Premium": "9.99"
+    },
+    "AG": {
+        "Premium": "19.99"
+    },
+    "AR": {
+        "Premium": "13,499"
+    },
+    "RO": {
+        "Premium": "13.99"
+    },
+    "PS": {
+        "Premium": "9.99"
+    },
+    "JM": {
+        "Premium": "9.99"
+    },
+    "MV": {
+        "Premium": "17.99"
+    },
+    "GW": {
+        "Premium": "9.99"
+    },
+    "MR": {
+        "Premium": "9.99"
+    },
+    "SR": {
+        "Premium": "7.99"
+    },
+    "ZM": {
+        "Premium": "9.99"
+    },
+    "AN": {},
+    "Y3": {
+        "Premium": "460"
+    },
+    "MM": {
+        "Premium": "9.99"
+    },
+    "GP": {
+        "Premium": "17.99"
+    },
+    "MX": {
+        "Premium": "329"
+    },
+    "MU": {
+        "Premium": "9.99"
+    },
+    "SA": {
+        "Premium": "71"
+    },
+    "LK": {
+        "Premium": "9.99"
+    },
+    "NR": {
+        "Premium": "17.99"
+    },
+    "MK": {
+        "Premium": "9.99"
+    }
+}
