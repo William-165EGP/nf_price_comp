@@ -9,13 +9,13 @@ def get_current_price(country_codes):
     price_list = {}
     for country_code in country_codes:
         url = 'https://help.netflix.com/en/node/24926/' + country_code.lower()
-        print(url)
+#        print(url)
         response = requests.get(url)
         time.sleep(0.5)
         while response.url!=url:
             time.sleep(0.5)
             print('reget')
-#            print(response.url)
+            print(response.url)
             response=requests.get(url)
         #print(country_code)
         if response.status_code == 200:
@@ -71,7 +71,7 @@ def sendMSG(token, msg):
     else:
         url = "https://api.telegram.org/bot{}/sendMessage".format(token)
         payload = {
-            "chat_id": chat_id,
+            "chat_id": int(chat_id),
             "text": msg,
         }
         res = requests.post(url, data=payload)
