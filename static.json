@@ -9,14 +9,14 @@
         "Premium": "17.99"
     },
     "KS": {
-        "Premium": "24.99"
+        "Premium": "460"
     },
     "RU": {},
     "VG": {
         "Premium": "19.99"
     },
     "C1": {
-        "Premium": "24.99"
+        "Premium": "460"
     },
     "SB": {
         "Premium": "9.99"
@@ -50,7 +50,7 @@
         "Premium": "13.99"
     },
     "Y1": {
-        "Premium": "24.99"
+        "Premium": "460"
     },
     "LB": {
         "Premium": "9.99"
@@ -80,7 +80,7 @@
         "Premium": "18.99"
     },
     "T1": {
-        "Premium": "24.99"
+        "Premium": "460"
     },
     "UA": {
         "Premium": "9.99"
@@ -282,7 +282,7 @@
         "Premium": "17.99"
     },
     "Y2": {
-        "Premium": "24.99"
+        "Premium": "460"
     },
     "GR": {
         "Premium": "15.99"
@@ -324,7 +324,7 @@
         "Premium": "9.99"
     },
     "T2": {
-        "Premium": "24.99"
+        "Premium": "460"
     },
     "IQ": {
         "Premium": "9.99"
@@ -349,7 +349,7 @@
         "Premium": "15.99"
     },
     "M3": {
-        "Premium": "24.99"
+        "Premium": "460"
     },
     "KP": {},
     "SC": {
@@ -467,7 +467,7 @@
         "Premium": "7.99"
     },
     "D1": {
-        "Premium": "24.99"
+        "Premium": "460"
     },
     "GI": {
         "Premium": "19.99"
@@ -489,7 +489,7 @@
     },
     "CN": {},
     "M1": {
-        "Premium": "24.99"
+        "Premium": "460"
     },
     "SE": {
         "Premium": "199"
@@ -507,7 +507,7 @@
         "Premium": "19.99"
     },
     "E1": {
-        "Premium": "24.99"
+        "Premium": "460"
     },
     "CO": {
         "Premium": "44,900"
@@ -528,7 +528,7 @@
         "Premium": "7.99"
     },
     "D2": {
-        "Premium": "24.99"
+        "Premium": "460"
     },
     "AL": {
         "Premium": "9.99"
@@ -552,7 +552,7 @@
         "Premium": "9.99"
     },
     "M2": {
-        "Premium": "24.99"
+        "Premium": "460"
     },
     "IM": {
         "Premium": "18.99"
@@ -615,7 +615,7 @@
         "Premium": "11.99"
     },
     "JG": {
-        "Premium": "24.99"
+        "Premium": "460"
     },
     "TT": {
         "Premium": "19.99"
@@ -630,7 +630,7 @@
         "Premium": "27.99"
     },
     "D3": {
-        "Premium": "24.99"
+        "Premium": "460"
     },
     "BZ": {
         "Premium": "7.99"
@@ -700,7 +700,7 @@
     },
     "AN": {},
     "Y3": {
-        "Premium": "24.99"
+        "Premium": "460"
     },
     "MM": {
         "Premium": "9.99"
