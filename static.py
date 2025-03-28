@@ -64,14 +64,14 @@ def comparison(prev_price_list, cur_price_list):
     return msg
 
 def sendMSG(token, msg):
-
-    debugMode = True
+    debugMode = False
+    chat_id = os.getenv("MY_TG_CHAT_ID")
     if debugMode:
         print(msg)
     else:
         url = "https://api.telegram.org/bot{}/sendMessage".format(token)
         payload = {
-            "chat_id": -1002141784679,
+            "chat_id": chat_id,
             "text": msg,
         }
         res = requests.post(url, data=payload)
@@ -85,7 +85,7 @@ if __name__ == '__main__':
 
     msg = comparison(prev_price_list, price_list)
     token = os.getenv("MY_TGBOT_TOKEN")
-    sendMSG(token, msg)
 
     with open('static.json', 'w', encoding='utf-8') as f:
         json.dump(price_list, f, ensure_ascii=False, indent=4)
+    sendMSG(token, msg)
