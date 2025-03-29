@@ -29,7 +29,7 @@ def get_current_price(country_codes):
 #                print(pricing_sections)
                 if len(pricing_sections) == 4:
                     plan_names = ['Mobile', 'Basic/Ads', 'Standard', 'Premium']
-                    start = 1
+                    start = 0
                 else:
                     plan_names = ['Basic/Ads', 'Standard', 'Premium']
                     start = 0
@@ -59,7 +59,7 @@ def get_current_price(country_codes):
                 country_full_info['currency'] = one_country[2]
                 country_full_info['og_price'] = price_plans
                 price_list[country_code] = country_full_info
-#                print(price_list)
+#                print(price_list[country_code])
 
         else:
             print("Request failed.")
