@@ -67,7 +67,7 @@ def get_current_price(country_codes):
 def get_country_codes():
     with open('api.csv', 'r', encoding='utf-8') as f:
         country_codes = [line.strip().split(',', 1) for line in f.readlines()]
-        print(country_codes)
+#        print(country_codes)
     return country_codes
 
 def comparison(prev_price_list, cur_price_list):
