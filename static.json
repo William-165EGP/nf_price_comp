@@ -1,1127 +1,1962 @@
 {
     "AD": {
-        "Basic/Ads": 8.99,
-        "Standard": 13.99,
-        "Premium": 19.99
+        "full_name": "Andorra",
+        "og_price": {
+            "Basic/Ads": 8.99,
+            "Standard": 13.99,
+            "Premium": 19.99
+        }
     },
     "AE": {
-        "Basic/Ads": 35,
-        "Standard": 49,
-        "Premium": 71
+        "full_name": "United Arab Emirates",
+        "og_price": {
+            "Basic/Ads": 35,
+            "Standard": 49,
+            "Premium": 71
+        }
     },
     "AF": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Afghanistan",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "AG": {
-        "Basic/Ads": 10.99,
-        "Standard": 15.49,
-        "Premium": 19.99
+        "full_name": "Antigua and Barbuda",
+        "og_price": {
+            "Basic/Ads": 10.99,
+            "Standard": 15.49,
+            "Premium": 19.99
+        }
     },
     "AI": {
-        "Basic/Ads": 10.99,
-        "Standard": 15.49,
-        "Premium": 19.99
+        "full_name": "Anguilla",
+        "og_price": {
+            "Basic/Ads": 10.99,
+            "Standard": 15.49,
+            "Premium": 19.99
+        }
     },
     "AL": {
-        "Basic/Ads": 4.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Albania",
+        "og_price": {
+            "Basic/Ads": 4.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "AM": {
-        "Basic/Ads": 7.99,
-        "Standard": 9.99,
-        "Premium": 11.99
+        "full_name": "Armenia",
+        "og_price": {
+            "Basic/Ads": 7.99,
+            "Standard": 9.99,
+            "Premium": 11.99
+        }
     },
     "AO": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Angola",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
+    },
+    "AQ": {
+        "full_name": "Antarctica",
+        "og_price": {
+            "Basic/Ads": 11.99,
+            "Standard": 17.99,
+            "Premium": 24.99
+        }
     },
     "AR": {
-        "Basic/Ads": 5999,
-        "Standard": 9999,
-        "Premium": 13499
+        "full_name": "Argentina",
+        "og_price": {
+            "Basic/Ads": 5999,
+            "Standard": 9999,
+            "Premium": 13499
+        }
     },
     "AS": {
-        "Basic/Ads": 7.99,
-        "Standard": 17.99,
-        "Premium": 24.99
+        "full_name": "American Samoa",
+        "og_price": {
+            "Basic/Ads": 7.99,
+            "Standard": 17.99,
+            "Premium": 24.99
+        }
     },
     "AT": {
-        "Basic/Ads": 8.99,
-        "Standard": 13.99,
-        "Premium": 19.99
+        "full_name": "Austria",
+        "og_price": {
+            "Basic/Ads": 8.99,
+            "Standard": 13.99,
+            "Premium": 19.99
+        }
     },
     "AU": {
-        "Basic/Ads": 7.99,
-        "Standard": 18.99,
-        "Premium": 25.99
+        "full_name": "Australia",
+        "og_price": {
+            "Basic/Ads": 7.99,
+            "Standard": 18.99,
+            "Premium": 25.99
+        }
     },
     "AW": {
-        "Basic/Ads": 10.99,
-        "Standard": 15.49,
-        "Premium": 19.99
+        "full_name": "Aruba",
+        "og_price": {
+            "Basic/Ads": 10.99,
+            "Standard": 15.49,
+            "Premium": 19.99
+        }
+    },
+    "AX": {
+        "full_name": "Åland Islands",
+        "og_price": {
+            "Basic/Ads": 9.49,
+            "Standard": 13.99,
+            "Premium": 17.99
+        }
     },
     "AZ": {
-        "Basic/Ads": 7.99,
-        "Standard": 9.99,
-        "Premium": 11.99
+        "full_name": "Azerbaijan",
+        "og_price": {
+            "Basic/Ads": 7.99,
+            "Standard": 9.99,
+            "Premium": 11.99
+        }
     },
     "BA": {
-        "Basic/Ads": 4.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Bosnia and Herzegovina",
+        "og_price": {
+            "Basic/Ads": 4.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "BB": {
-        "Basic/Ads": 10.59,
-        "Standard": 15.29,
-        "Premium": 18.79
+        "full_name": "Barbados",
+        "og_price": {
+            "Basic/Ads": 10.59,
+            "Standard": 15.29,
+            "Premium": 18.79
+        }
     },
     "BD": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Bangladesh",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "BE": {
-        "Basic/Ads": 9.99,
-        "Standard": 14.99,
-        "Premium": 19.99
+        "full_name": "Belgium",
+        "og_price": {
+            "Basic/Ads": 9.99,
+            "Standard": 14.99,
+            "Premium": 19.99
+        }
     },
     "BF": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Burkina Faso",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "BG": {
-        "Basic/Ads": 4.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Bulgaria",
+        "og_price": {
+            "Basic/Ads": 4.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "BH": {
-        "Basic/Ads": 7.99,
-        "Standard": 10.49,
-        "Premium": 15.79
+        "full_name": "Bahrain",
+        "og_price": {
+            "Basic/Ads": 7.99,
+            "Standard": 10.49,
+            "Premium": 15.79
+        }
     },
     "BI": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Burundi",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "BJ": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Benin",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
+    },
+    "BL": {
+        "full_name": "Saint Barthélemy",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 5.99,
+            "Premium": 7.99
+        }
     },
     "BM": {
-        "Basic/Ads": 10.99,
-        "Standard": 15.49,
-        "Premium": 19.99
+        "full_name": "Bermuda",
+        "og_price": {
+            "Basic/Ads": 10.99,
+            "Standard": 15.49,
+            "Premium": 19.99
+        }
     },
     "BN": {
-        "Basic/Ads": 10.99,
-        "Standard": 13.99,
-        "Premium": 17.99
+        "full_name": "Brunei Darussalam",
+        "og_price": {
+            "Basic/Ads": 10.99,
+            "Standard": 13.99,
+            "Premium": 17.99
+        }
     },
     "BO": {
-        "Basic/Ads": 3.99,
-        "Standard": 5.99,
-        "Premium": 7.99
+        "full_name": "Bolivia, Plurinational State of",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 5.99,
+            "Premium": 7.99
+        }
+    },
+    "BQ": {
+        "full_name": "Bonaire, Sint Eustatius and Saba",
+        "og_price": {
+            "Basic/Ads": 10.99,
+            "Standard": 15.49,
+            "Premium": 19.99
+        }
     },
     "BR": {
-        "Basic/Ads": 20.9,
-        "Standard": 44.9,
-        "Premium": 59.9
+        "full_name": "Brazil",
+        "og_price": {
+            "Basic/Ads": 20.9,
+            "Standard": 44.9,
+            "Premium": 59.9
+        }
     },
     "BS": {
-        "Basic/Ads": 10.99,
-        "Standard": 15.49,
-        "Premium": 19.99
+        "full_name": "Bahamas",
+        "og_price": {
+            "Basic/Ads": 10.99,
+            "Standard": 15.49,
+            "Premium": 19.99
+        }
     },
     "BT": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Bhutan",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
+    },
+    "BV": {
+        "full_name": "Bouvet Island",
+        "og_price": {
+            "Basic/Ads": 7.99,
+            "Standard": 9.99,
+            "Premium": 11.99
+        }
     },
     "BW": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Botswana",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "BY": {
-        "Basic/Ads": 7.99,
-        "Standard": 9.99,
-        "Premium": 11.99
+        "full_name": "Belarus",
+        "og_price": {
+            "Basic/Ads": 7.99,
+            "Standard": 9.99,
+            "Premium": 11.99
+        }
     },
     "BZ": {
-        "Basic/Ads": 3.99,
-        "Standard": 5.99,
-        "Premium": 7.99
+        "full_name": "Belize",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 5.99,
+            "Premium": 7.99
+        }
     },
     "CA": {
-        "Basic/Ads": 7.99,
-        "Standard": 18.99,
-        "Premium": 23.99
+        "full_name": "Canada",
+        "og_price": {
+            "Basic/Ads": 7.99,
+            "Standard": 18.99,
+            "Premium": 23.99
+        }
+    },
+    "CC": {
+        "full_name": "Cocos (Keeling) Islands",
+        "og_price": {
+            "Basic/Ads": 12.99,
+            "Standard": 18.99,
+            "Premium": 25.99
+        }
     },
     "CD": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Congo, the Democratic Republic of the",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "CF": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Central African Republic",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "CG": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Congo",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "CH": {
-        "Basic/Ads": 12.9,
-        "Standard": 20.9,
-        "Premium": 27.9
+        "full_name": "Switzerland",
+        "og_price": {
+            "Basic/Ads": 12.9,
+            "Standard": 20.9,
+            "Premium": 27.9
+        }
     },
     "CI": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Côte d'Ivoire",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "CK": {
-        "Basic/Ads": 14.99,
-        "Standard": 20.99,
-        "Premium": 27.99
+        "full_name": "Cook Islands",
+        "og_price": {
+            "Basic/Ads": 14.99,
+            "Standard": 20.99,
+            "Premium": 27.99
+        }
     },
     "CL": {
-        "Basic/Ads": 6540,
-        "Standard": 9190,
-        "Premium": 11790
+        "full_name": "Chile",
+        "og_price": {
+            "Basic/Ads": 6540,
+            "Standard": 9190,
+            "Premium": 11790
+        }
     },
     "CM": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Cameroon",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "CO": {
-        "Basic/Ads": 18900,
-        "Standard": 29900,
-        "Premium": 44900
+        "full_name": "Colombia",
+        "og_price": {
+            "Basic/Ads": 18900,
+            "Standard": 29900,
+            "Premium": 44900
+        }
     },
     "CR": {
-        "Basic/Ads": 8.99,
-        "Standard": 12.99,
-        "Premium": 15.99
+        "full_name": "Costa Rica",
+        "og_price": {
+            "Basic/Ads": 8.99,
+            "Standard": 12.99,
+            "Premium": 15.99
+        }
     },
     "CU": {
-        "Basic/Ads": 3.99,
-        "Standard": 5.99,
-        "Premium": 7.99
+        "full_name": "Cuba",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 5.99,
+            "Premium": 7.99
+        }
     },
     "CV": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Cape Verde",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
+    },
+    "CW": {
+        "full_name": "Curaçao",
+        "og_price": {
+            "Basic/Ads": 10.99,
+            "Standard": 15.49,
+            "Premium": 19.99
+        }
+    },
+    "CX": {
+        "full_name": "Christmas Island",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "CY": {
-        "Basic/Ads": 8.99,
-        "Standard": 12.49,
-        "Premium": 15.99
+        "full_name": "Cyprus",
+        "og_price": {
+            "Basic/Ads": 8.99,
+            "Standard": 12.49,
+            "Premium": 15.99
+        }
     },
     "CZ": {
-        "Basic/Ads": 239.0,
-        "Standard": 309.0,
-        "Premium": 379.0
+        "full_name": "Czech Republic",
+        "og_price": {
+            "Basic/Ads": 239.0,
+            "Standard": 309.0,
+            "Premium": 379.0
+        }
     },
     "DE": {
-        "Basic/Ads": 4.99,
-        "Standard": 13.99,
-        "Premium": 19.99
+        "full_name": "Germany",
+        "og_price": {
+            "Basic/Ads": 4.99,
+            "Standard": 13.99,
+            "Premium": 19.99
+        }
     },
     "DJ": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Djibouti",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "DK": {
-        "Basic/Ads": 89,
-        "Standard": 129,
-        "Premium": 169
+        "full_name": "Denmark",
+        "og_price": {
+            "Basic/Ads": 89,
+            "Standard": 129,
+            "Premium": 169
+        }
     },
     "DM": {
-        "Basic/Ads": 3.99,
-        "Standard": 5.99,
-        "Premium": 7.99
+        "full_name": "Dominica",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 5.99,
+            "Premium": 7.99
+        }
     },
     "DO": {
-        "Basic/Ads": 6.99,
-        "Standard": 9.99,
-        "Premium": 13.99
+        "full_name": "Dominican Republic",
+        "og_price": {
+            "Basic/Ads": 6.99,
+            "Standard": 9.99,
+            "Premium": 13.99
+        }
     },
     "DZ": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Algeria",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "EC": {
-        "Basic/Ads": 5.99,
-        "Standard": 8.99,
-        "Premium": 11.99
+        "full_name": "Ecuador",
+        "og_price": {
+            "Basic/Ads": 5.99,
+            "Standard": 8.99,
+            "Premium": 11.99
+        }
     },
     "EE": {
-        "Basic/Ads": 7.99,
-        "Standard": 9.99,
-        "Premium": 11.99
+        "full_name": "Estonia",
+        "og_price": {
+            "Basic/Ads": 7.99,
+            "Standard": 9.99,
+            "Premium": 11.99
+        }
     },
     "EG": {
-        "Basic/Ads": 100,
-        "Standard": 170,
-        "Premium": 240
+        "full_name": "Egypt",
+        "og_price": {
+            "Basic/Ads": 100,
+            "Standard": 170,
+            "Premium": 240
+        }
     },
     "EH": {
-        "Basic/Ads": 7.99,
-        "Standard": 9.99,
-        "Premium": 11.99
+        "full_name": "Western Sahara",
+        "og_price": {
+            "Basic/Ads": 7.99,
+            "Standard": 9.99,
+            "Premium": 11.99
+        }
     },
     "ER": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Eritrea",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "ES": {
-        "Basic/Ads": 6.99,
-        "Standard": 13.99,
-        "Premium": 19.99
+        "full_name": "Spain",
+        "og_price": {
+            "Basic/Ads": 6.99,
+            "Standard": 13.99,
+            "Premium": 19.99
+        }
     },
     "ET": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Ethiopia",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "FI": {
-        "Basic/Ads": 9.49,
-        "Standard": 13.99,
-        "Premium": 17.99
+        "full_name": "Finland",
+        "og_price": {
+            "Basic/Ads": 9.49,
+            "Standard": 13.99,
+            "Premium": 17.99
+        }
     },
     "FJ": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Fiji",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "FK": {
-        "Basic/Ads": 11.99,
-        "Standard": 17.99,
-        "Premium": 24.99
+        "full_name": "Falkland Islands (Malvinas)",
+        "og_price": {
+            "Basic/Ads": 11.99,
+            "Standard": 17.99,
+            "Premium": 24.99
+        }
+    },
+    "FM": {
+        "full_name": "Micronesia, Federated States of",
+        "og_price": {
+            "Basic/Ads": 7.99,
+            "Standard": 17.99,
+            "Premium": 24.99
+        }
     },
     "FO": {
-        "Basic/Ads": 89,
-        "Standard": 129,
-        "Premium": 169
+        "full_name": "Faroe Islands",
+        "og_price": {
+            "Basic/Ads": 89,
+            "Standard": 129,
+            "Premium": 169
+        }
     },
     "FR": {
-        "Basic/Ads": 5.99,
-        "Standard": 13.49,
-        "Premium": 19.99
+        "full_name": "France",
+        "og_price": {
+            "Basic/Ads": 5.99,
+            "Standard": 13.49,
+            "Premium": 19.99
+        }
     },
     "GA": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Gabon",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "GB": {
-        "Basic/Ads": 5.99,
-        "Standard": 12.99,
-        "Premium": 18.99
+        "full_name": "United Kingdom",
+        "og_price": {
+            "Basic/Ads": 5.99,
+            "Standard": 12.99,
+            "Premium": 18.99
+        }
     },
     "GD": {
-        "Basic/Ads": 3.99,
-        "Standard": 5.99,
-        "Premium": 7.99
+        "full_name": "Grenada",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 5.99,
+            "Premium": 7.99
+        }
     },
     "GE": {
-        "Basic/Ads": 9.39,
-        "Standard": 11.79,
-        "Premium": 13.99
+        "full_name": "Georgia",
+        "og_price": {
+            "Basic/Ads": 9.39,
+            "Standard": 11.79,
+            "Premium": 13.99
+        }
     },
     "GF": {
-        "Basic/Ads": 10.99,
-        "Standard": 13.49,
-        "Premium": 17.99
+        "full_name": "French Guiana",
+        "og_price": {
+            "Basic/Ads": 10.99,
+            "Standard": 13.49,
+            "Premium": 17.99
+        }
     },
     "GG": {
-        "Basic/Ads": 5.99,
-        "Standard": 12.99,
-        "Premium": 18.99
+        "full_name": "Guernsey",
+        "og_price": {
+            "Basic/Ads": 5.99,
+            "Standard": 12.99,
+            "Premium": 18.99
+        }
     },
     "GH": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Ghana",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "GI": {
-        "Basic/Ads": 8.99,
-        "Standard": 13.99,
-        "Premium": 19.99
+        "full_name": "Gibraltar",
+        "og_price": {
+            "Basic/Ads": 8.99,
+            "Standard": 13.99,
+            "Premium": 19.99
+        }
     },
     "GL": {
-        "Basic/Ads": 89,
-        "Standard": 129,
-        "Premium": 169
+        "full_name": "Greenland",
+        "og_price": {
+            "Basic/Ads": 89,
+            "Standard": 129,
+            "Premium": 169
+        }
     },
     "GM": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Gambia",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "GN": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Guinea",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "GP": {
-        "Basic/Ads": 10.99,
-        "Standard": 13.49,
-        "Premium": 17.99
+        "full_name": "Guadeloupe",
+        "og_price": {
+            "Basic/Ads": 10.99,
+            "Standard": 13.49,
+            "Premium": 17.99
+        }
     },
     "GQ": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Equatorial Guinea",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "GR": {
-        "Basic/Ads": 8.99,
-        "Standard": 12.49,
-        "Premium": 15.99
+        "full_name": "Greece",
+        "og_price": {
+            "Basic/Ads": 8.99,
+            "Standard": 12.49,
+            "Premium": 15.99
+        }
+    },
+    "GS": {
+        "full_name": "South Georgia and the South Sandwich Islands",
+        "og_price": {
+            "Basic/Ads": 11.99,
+            "Standard": 17.99,
+            "Premium": 24.99
+        }
     },
     "GT": {
-        "Basic/Ads": 5.99,
-        "Standard": 8.99,
-        "Premium": 12.49
+        "full_name": "Guatemala",
+        "og_price": {
+            "Basic/Ads": 5.99,
+            "Standard": 8.99,
+            "Premium": 12.49
+        }
     },
     "GU": {
-        "Basic/Ads": 7.99,
-        "Standard": 17.99,
-        "Premium": 24.99
+        "full_name": "Guam",
+        "og_price": {
+            "Basic/Ads": 7.99,
+            "Standard": 17.99,
+            "Premium": 24.99
+        }
     },
     "GW": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Guinea-Bissau",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "GY": {
-        "Basic/Ads": 3.99,
-        "Standard": 5.99,
-        "Premium": 7.99
+        "full_name": "Guyana",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 5.99,
+            "Premium": 7.99
+        }
     },
     "HK": {
-        "Basic/Ads": 73,
-        "Standard": 88,
-        "Premium": 108
+        "full_name": "Hong Kong",
+        "og_price": {
+            "Basic/Ads": 73,
+            "Standard": 88,
+            "Premium": 108
+        }
+    },
+    "HM": {
+        "full_name": "Heard Island and McDonald Islands",
+        "og_price": {
+            "Basic/Ads": 11.99,
+            "Standard": 17.99,
+            "Premium": 24.99
+        }
     },
     "HN": {
-        "Basic/Ads": 6.99,
-        "Standard": 9.99,
-        "Premium": 13.99
+        "full_name": "Honduras",
+        "og_price": {
+            "Basic/Ads": 6.99,
+            "Standard": 9.99,
+            "Premium": 13.99
+        }
     },
     "HR": {
-        "Basic/Ads": 5.99,
-        "Standard": 9.99,
-        "Premium": 12.99
+        "full_name": "Croatia",
+        "og_price": {
+            "Basic/Ads": 5.99,
+            "Standard": 9.99,
+            "Premium": 12.99
+        }
     },
     "HT": {
-        "Basic/Ads": 3.99,
-        "Standard": 5.99,
-        "Premium": 7.99
+        "full_name": "Haiti",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 5.99,
+            "Premium": 7.99
+        }
     },
     "HU": {
-        "Basic/Ads": 2890,
-        "Standard": 3990,
-        "Premium": 5090
+        "full_name": "Hungary",
+        "og_price": {
+            "Basic/Ads": 2890,
+            "Standard": 3990,
+            "Premium": 5090
+        }
     },
     "ID": {
-        "Basic/Ads": 65000,
-        "Standard": 120000,
-        "Premium": 186000
+        "full_name": "Indonesia",
+        "og_price": {
+            "Basic/Ads": 65000,
+            "Standard": 120000,
+            "Premium": 186000
+        }
     },
     "IE": {
-        "Basic/Ads": 10.99,
-        "Standard": 16.99,
-        "Premium": 23.99
+        "full_name": "Ireland",
+        "og_price": {
+            "Basic/Ads": 10.99,
+            "Standard": 16.99,
+            "Premium": 23.99
+        }
     },
     "IL": {
-        "Basic/Ads": 32.9,
-        "Standard": 54.9,
-        "Premium": 69.9
+        "full_name": "Israel",
+        "og_price": {
+            "Basic/Ads": 32.9,
+            "Standard": 54.9,
+            "Premium": 69.9
+        }
     },
     "IM": {
-        "Basic/Ads": 5.99,
-        "Standard": 12.99,
-        "Premium": 18.99
+        "full_name": "Isle of Man",
+        "og_price": {
+            "Basic/Ads": 5.99,
+            "Standard": 12.99,
+            "Premium": 18.99
+        }
     },
     "IN": {
-        "Basic/Ads": 199,
-        "Standard": 499,
-        "Premium": 649
+        "full_name": "India",
+        "og_price": {
+            "Basic/Ads": 199,
+            "Standard": 499,
+            "Premium": 649
+        }
+    },
+    "IO": {
+        "full_name": "British Indian Ocean Territory",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "IQ": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Iraq",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "IR": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Iran, Islamic Republic of",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "IS": {
-        "Basic/Ads": 9.99,
-        "Standard": 14.99,
-        "Premium": 20.99
+        "full_name": "Iceland",
+        "og_price": {
+            "Basic/Ads": 9.99,
+            "Standard": 14.99,
+            "Premium": 20.99
+        }
     },
     "IT": {
-        "Basic/Ads": 6.99,
-        "Standard": 13.99,
-        "Premium": 19.99
+        "full_name": "Italy",
+        "og_price": {
+            "Basic/Ads": 6.99,
+            "Standard": 13.99,
+            "Premium": 19.99
+        }
     },
     "JE": {
-        "Basic/Ads": 5.99,
-        "Standard": 12.99,
-        "Premium": 18.99
+        "full_name": "Jersey",
+        "og_price": {
+            "Basic/Ads": 5.99,
+            "Standard": 12.99,
+            "Premium": 18.99
+        }
     },
     "JM": {
-        "Basic/Ads": 4.99,
-        "Standard": 6.99,
-        "Premium": 9.99
+        "full_name": "Jamaica",
+        "og_price": {
+            "Basic/Ads": 4.99,
+            "Standard": 6.99,
+            "Premium": 9.99
+        }
     },
     "JO": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Jordan",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "JP": {
-        "Basic/Ads": 890,
-        "Standard": 1590,
-        "Premium": 2290
+        "full_name": "Japan",
+        "og_price": {
+            "Basic/Ads": 890,
+            "Standard": 1590,
+            "Premium": 2290
+        }
     },
     "KE": {
-        "Basic/Ads": 300,
-        "Standard": 700,
-        "Premium": 1100
+        "full_name": "Kenya",
+        "og_price": {
+            "Basic/Ads": 300,
+            "Standard": 700,
+            "Premium": 1100
+        }
     },
     "KG": {
-        "Basic/Ads": 7.99,
-        "Standard": 9.99,
-        "Premium": 11.99
+        "full_name": "Kyrgyzstan",
+        "og_price": {
+            "Basic/Ads": 7.99,
+            "Standard": 9.99,
+            "Premium": 11.99
+        }
     },
     "KH": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Cambodia",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "KI": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Kiribati",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "KM": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Comoros",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "KN": {
-        "Basic/Ads": 10.99,
-        "Standard": 15.49,
-        "Premium": 19.99
+        "full_name": "Saint Kitts and Nevis",
+        "og_price": {
+            "Basic/Ads": 10.99,
+            "Standard": 15.49,
+            "Premium": 19.99
+        }
     },
     "KR": {
-        "Basic/Ads": 5500,
-        "Standard": 13500,
-        "Premium": 17000
+        "full_name": "Korea, Republic of",
+        "og_price": {
+            "Basic/Ads": 5500,
+            "Standard": 13500,
+            "Premium": 17000
+        }
     },
     "KW": {
-        "Basic/Ads": 8.99,
-        "Standard": 11.99,
-        "Premium": 17.99
+        "full_name": "Kuwait",
+        "og_price": {
+            "Basic/Ads": 8.99,
+            "Standard": 11.99,
+            "Premium": 17.99
+        }
     },
     "KY": {
-        "Basic/Ads": 10.99,
-        "Standard": 15.49,
-        "Premium": 19.99
+        "full_name": "Cayman Islands",
+        "og_price": {
+            "Basic/Ads": 10.99,
+            "Standard": 15.49,
+            "Premium": 19.99
+        }
     },
     "KZ": {
-        "Basic/Ads": 7.99,
-        "Standard": 9.99,
-        "Premium": 11.99
+        "full_name": "Kazakhstan",
+        "og_price": {
+            "Basic/Ads": 7.99,
+            "Standard": 9.99,
+            "Premium": 11.99
+        }
     },
     "LA": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Lao People's Democratic Republic",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "LB": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Lebanon",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "LC": {
-        "Basic/Ads": 3.99,
-        "Standard": 5.99,
-        "Premium": 7.99
+        "full_name": "Saint Lucia",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 5.99,
+            "Premium": 7.99
+        }
     },
     "LI": {
-        "Basic/Ads": 12.9,
-        "Standard": 20.9,
-        "Premium": 27.9
+        "full_name": "Liechtenstein",
+        "og_price": {
+            "Basic/Ads": 12.9,
+            "Standard": 20.9,
+            "Premium": 27.9
+        }
     },
     "LK": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Sri Lanka",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "LR": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Liberia",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "LS": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Lesotho",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "LT": {
-        "Basic/Ads": 7.99,
-        "Standard": 9.99,
-        "Premium": 11.99
+        "full_name": "Lithuania",
+        "og_price": {
+            "Basic/Ads": 7.99,
+            "Standard": 9.99,
+            "Premium": 11.99
+        }
     },
     "LU": {
-        "Basic/Ads": 9.99,
-        "Standard": 14.99,
-        "Premium": 19.99
+        "full_name": "Luxembourg",
+        "og_price": {
+            "Basic/Ads": 9.99,
+            "Standard": 14.99,
+            "Premium": 19.99
+        }
     },
     "LV": {
-        "Basic/Ads": 7.99,
-        "Standard": 9.99,
-        "Premium": 11.99
+        "full_name": "Latvia",
+        "og_price": {
+            "Basic/Ads": 7.99,
+            "Standard": 9.99,
+            "Premium": 11.99
+        }
     },
     "LY": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Libya",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "MA": {
-        "Basic/Ads": 35,
-        "Standard": 65,
-        "Premium": 95
+        "full_name": "Morocco",
+        "og_price": {
+            "Basic/Ads": 35,
+            "Standard": 65,
+            "Premium": 95
+        }
     },
     "MC": {
-        "Basic/Ads": 10.99,
-        "Standard": 13.49,
-        "Premium": 19.99
+        "full_name": "Monaco",
+        "og_price": {
+            "Basic/Ads": 10.99,
+            "Standard": 13.49,
+            "Premium": 19.99
+        }
     },
     "MD": {
-        "Basic/Ads": 7.99,
-        "Standard": 9.99,
-        "Premium": 11.99
+        "full_name": "Moldova, Republic of",
+        "og_price": {
+            "Basic/Ads": 7.99,
+            "Standard": 9.99,
+            "Premium": 11.99
+        }
     },
     "ME": {
-        "Basic/Ads": 4.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Montenegro",
+        "og_price": {
+            "Basic/Ads": 4.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
+    },
+    "MF": {
+        "full_name": "Saint Martin (French part)",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 5.99,
+            "Premium": 7.99
+        }
     },
     "MG": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Madagascar",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "MH": {
-        "Basic/Ads": 7.99,
-        "Standard": 17.99,
-        "Premium": 24.99
+        "full_name": "Marshall Islands",
+        "og_price": {
+            "Basic/Ads": 7.99,
+            "Standard": 17.99,
+            "Premium": 24.99
+        }
     },
     "MK": {
-        "Basic/Ads": 4.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Macedonia, the Former Yugoslav Republic of",
+        "og_price": {
+            "Basic/Ads": 4.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "ML": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Mali",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "MM": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Myanmar",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "MN": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Mongolia",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "MO": {
-        "Basic/Ads": 7.99,
-        "Standard": 9.99,
-        "Premium": 11.99
+        "full_name": "Macao",
+        "og_price": {
+            "Basic/Ads": 7.99,
+            "Standard": 9.99,
+            "Premium": 11.99
+        }
     },
     "MP": {
-        "Basic/Ads": 7.99,
-        "Standard": 17.99,
-        "Premium": 24.99
+        "full_name": "Northern Mariana Islands",
+        "og_price": {
+            "Basic/Ads": 7.99,
+            "Standard": 17.99,
+            "Premium": 24.99
+        }
     },
     "MQ": {
-        "Basic/Ads": 10.99,
-        "Standard": 13.49,
-        "Premium": 17.99
+        "full_name": "Martinique",
+        "og_price": {
+            "Basic/Ads": 10.99,
+            "Standard": 13.49,
+            "Premium": 17.99
+        }
     },
     "MR": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Mauritania",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "MS": {
-        "Basic/Ads": 10.99,
-        "Standard": 15.49,
-        "Premium": 19.99
+        "full_name": "Montserrat",
+        "og_price": {
+            "Basic/Ads": 10.99,
+            "Standard": 15.49,
+            "Premium": 19.99
+        }
     },
     "MT": {
-        "Basic/Ads": 8.99,
-        "Standard": 13.99,
-        "Premium": 19.99
+        "full_name": "Malta",
+        "og_price": {
+            "Basic/Ads": 8.99,
+            "Standard": 13.99,
+            "Premium": 19.99
+        }
     },
     "MU": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Mauritius",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "MV": {
-        "Basic/Ads": 10.99,
-        "Standard": 13.99,
-        "Premium": 17.99
+        "full_name": "Maldives",
+        "og_price": {
+            "Basic/Ads": 10.99,
+            "Standard": 13.99,
+            "Premium": 17.99
+        }
     },
     "MW": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Malawi",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "MX": {
-        "Basic/Ads": 119,
-        "Standard": 249,
-        "Premium": 329
+        "full_name": "Mexico",
+        "og_price": {
+            "Basic/Ads": 119,
+            "Standard": 249,
+            "Premium": 329
+        }
     },
     "MY": {
-        "Basic/Ads": 29.9,
-        "Standard": 49.9,
-        "Premium": 62.9
+        "full_name": "Malaysia",
+        "og_price": {
+            "Basic/Ads": 29.9,
+            "Standard": 49.9,
+            "Premium": 62.9
+        }
     },
     "MZ": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Mozambique",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "NA": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Namibia",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "NC": {
-        "Basic/Ads": 10.99,
-        "Standard": 13.99,
-        "Premium": 17.99
+        "full_name": "New Caledonia",
+        "og_price": {
+            "Basic/Ads": 10.99,
+            "Standard": 13.99,
+            "Premium": 17.99
+        }
     },
     "NE": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Niger",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "NF": {
-        "Basic/Ads": 12.99,
-        "Standard": 18.99,
-        "Premium": 25.99
+        "full_name": "Norfolk Island",
+        "og_price": {
+            "Basic/Ads": 12.99,
+            "Standard": 18.99,
+            "Premium": 25.99
+        }
     },
     "NG": {
-        "Basic/Ads": 3500,
-        "Standard": 5500,
-        "Premium": 7000
+        "full_name": "Nigeria",
+        "og_price": {
+            "Basic/Ads": 3500,
+            "Standard": 5500,
+            "Premium": 7000
+        }
     },
     "NI": {
-        "Basic/Ads": 4.99,
-        "Standard": 6.99,
-        "Premium": 9.99
+        "full_name": "Nicaragua",
+        "og_price": {
+            "Basic/Ads": 4.99,
+            "Standard": 6.99,
+            "Premium": 9.99
+        }
     },
     "NL": {
-        "Basic/Ads": 8.99,
-        "Standard": 13.99,
-        "Premium": 18.99
+        "full_name": "Netherlands",
+        "og_price": {
+            "Basic/Ads": 8.99,
+            "Standard": 13.99,
+            "Premium": 18.99
+        }
     },
     "NO": {
-        "Basic/Ads": 99,
-        "Standard": 129,
-        "Premium": 189
+        "full_name": "Norway",
+        "og_price": {
+            "Basic/Ads": 99,
+            "Standard": 129,
+            "Premium": 189
+        }
     },
     "NP": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Nepal",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "NR": {
-        "Basic/Ads": 10.99,
-        "Standard": 13.99,
-        "Premium": 17.99
+        "full_name": "Nauru",
+        "og_price": {
+            "Basic/Ads": 10.99,
+            "Standard": 13.99,
+            "Premium": 17.99
+        }
     },
     "NU": {
-        "Basic/Ads": 14.99,
-        "Standard": 20.99,
-        "Premium": 27.99
+        "full_name": "Niue",
+        "og_price": {
+            "Basic/Ads": 14.99,
+            "Standard": 20.99,
+            "Premium": 27.99
+        }
     },
     "NZ": {
-        "Basic/Ads": 14.99,
-        "Standard": 20.99,
-        "Premium": 27.99
+        "full_name": "New Zealand",
+        "og_price": {
+            "Basic/Ads": 14.99,
+            "Standard": 20.99,
+            "Premium": 27.99
+        }
     },
     "OM": {
-        "Basic/Ads": 8.39,
-        "Standard": 10.49,
-        "Premium": 15.79
+        "full_name": "Oman",
+        "og_price": {
+            "Basic/Ads": 8.39,
+            "Standard": 10.49,
+            "Premium": 15.79
+        }
     },
     "PA": {
-        "Basic/Ads": 5.99,
-        "Standard": 9.99,
-        "Premium": 13.99
+        "full_name": "Panama",
+        "og_price": {
+            "Basic/Ads": 5.99,
+            "Standard": 9.99,
+            "Premium": 13.99
+        }
     },
     "PE": {
-        "Basic/Ads": 28.9,
-        "Standard": 40.9,
-        "Premium": 52.9
+        "full_name": "Peru",
+        "og_price": {
+            "Basic/Ads": 28.9,
+            "Standard": 40.9,
+            "Premium": 52.9
+        }
     },
     "PF": {
-        "Basic/Ads": 10.99,
-        "Standard": 13.99,
-        "Premium": 17.99
+        "full_name": "French Polynesia",
+        "og_price": {
+            "Basic/Ads": 10.99,
+            "Standard": 13.99,
+            "Premium": 17.99
+        }
     },
     "PG": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Papua New Guinea",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "PH": {
-        "Basic/Ads": 249,
-        "Standard": 399,
-        "Premium": 549
+        "full_name": "Philippines",
+        "og_price": {
+            "Basic/Ads": 249,
+            "Standard": 399,
+            "Premium": 549
+        }
     },
     "PK": {
-        "Basic/Ads": 450,
-        "Standard": 800,
-        "Premium": 1100
+        "full_name": "Pakistan",
+        "og_price": {
+            "Basic/Ads": 450,
+            "Standard": 800,
+            "Premium": 1100
+        }
     },
     "PL": {
-        "Basic/Ads": 33,
-        "Standard": 49,
-        "Premium": 67
+        "full_name": "Poland",
+        "og_price": {
+            "Basic/Ads": 33,
+            "Standard": 49,
+            "Premium": 67
+        }
     },
     "PM": {
-        "Basic/Ads": 10.99,
-        "Standard": 13.49,
-        "Premium": 19.99
+        "full_name": "Saint Pierre and Miquelon",
+        "og_price": {
+            "Basic/Ads": 10.99,
+            "Standard": 13.49,
+            "Premium": 19.99
+        }
+    },
+    "PN": {
+        "full_name": "Pitcairn",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "PR": {
-        "Basic/Ads": 7.99,
-        "Standard": 17.99,
-        "Premium": 24.99
+        "full_name": "Puerto Rico",
+        "og_price": {
+            "Basic/Ads": 7.99,
+            "Standard": 17.99,
+            "Premium": 24.99
+        }
     },
     "PS": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Palestine, State of",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "PT": {
-        "Basic/Ads": 8.99,
-        "Standard": 12.99,
-        "Premium": 17.99
+        "full_name": "Portugal",
+        "og_price": {
+            "Basic/Ads": 8.99,
+            "Standard": 12.99,
+            "Premium": 17.99
+        }
     },
     "PW": {
-        "Basic/Ads": 7.99,
-        "Standard": 17.99,
-        "Premium": 24.99
+        "full_name": "Palau",
+        "og_price": {
+            "Basic/Ads": 7.99,
+            "Standard": 17.99,
+            "Premium": 24.99
+        }
     },
     "PY": {
-        "Basic/Ads": 3.99,
-        "Standard": 5.99,
-        "Premium": 7.99
+        "full_name": "Paraguay",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 5.99,
+            "Premium": 7.99
+        }
     },
     "QA": {
-        "Basic/Ads": 8.99,
-        "Standard": 11.99,
-        "Premium": 17.99
+        "full_name": "Qatar",
+        "og_price": {
+            "Basic/Ads": 8.99,
+            "Standard": 11.99,
+            "Premium": 17.99
+        }
     },
     "RE": {
-        "Basic/Ads": 10.99,
-        "Standard": 13.49,
-        "Premium": 17.99
+        "full_name": "Réunion",
+        "og_price": {
+            "Basic/Ads": 10.99,
+            "Standard": 13.49,
+            "Premium": 17.99
+        }
     },
     "RO": {
-        "Basic/Ads": 5.99,
-        "Standard": 10.99,
-        "Premium": 13.99
+        "full_name": "Romania",
+        "og_price": {
+            "Basic/Ads": 5.99,
+            "Standard": 10.99,
+            "Premium": 13.99
+        }
     },
     "RS": {
-        "Basic/Ads": 4.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Serbia",
+        "og_price": {
+            "Basic/Ads": 4.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "RW": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Rwanda",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "SA": {
-        "Basic/Ads": 35,
-        "Standard": 49,
-        "Premium": 71
+        "full_name": "Saudi Arabia",
+        "og_price": {
+            "Basic/Ads": 35,
+            "Standard": 49,
+            "Premium": 71
+        }
     },
     "SB": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Solomon Islands",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "SC": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Seychelles",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "SD": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Sudan",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "SE": {
-        "Basic/Ads": 109,
-        "Standard": 149,
-        "Premium": 199
+        "full_name": "Sweden",
+        "og_price": {
+            "Basic/Ads": 109,
+            "Standard": 149,
+            "Premium": 199
+        }
     },
     "SG": {
-        "Basic/Ads": 13.98,
-        "Standard": 19.98,
-        "Premium": 25.98
+        "full_name": "Singapore",
+        "og_price": {
+            "Basic/Ads": 13.98,
+            "Standard": 19.98,
+            "Premium": 25.98
+        }
     },
     "SH": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Saint Helena, Ascension and Tristan da Cunha",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "SI": {
-        "Basic/Ads": 4.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Slovenia",
+        "og_price": {
+            "Basic/Ads": 4.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
+    },
+    "SJ": {
+        "full_name": "Svalbard and Jan Mayen",
+        "og_price": {
+            "Basic/Ads": 99,
+            "Standard": 129,
+            "Premium": 189
+        }
     },
     "SK": {
-        "Basic/Ads": 9.49,
-        "Standard": 11.49,
-        "Premium": 13.99
+        "full_name": "Slovakia",
+        "og_price": {
+            "Basic/Ads": 9.49,
+            "Standard": 11.49,
+            "Premium": 13.99
+        }
     },
     "SL": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Sierra Leone",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "SM": {
-        "Basic/Ads": 6.99,
-        "Standard": 13.99,
-        "Premium": 19.99
+        "full_name": "San Marino",
+        "og_price": {
+            "Basic/Ads": 6.99,
+            "Standard": 13.99,
+            "Premium": 19.99
+        }
     },
     "SN": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Senegal",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "SO": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Somalia",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "SR": {
-        "Basic/Ads": 3.99,
-        "Standard": 5.99,
-        "Premium": 7.99
+        "full_name": "Suriname",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 5.99,
+            "Premium": 7.99
+        }
     },
     "SS": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "South Sudan",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "ST": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Sao Tome and Principe",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "SV": {
-        "Basic/Ads": 5.99,
-        "Standard": 8.99,
-        "Premium": 12.49
+        "full_name": "El Salvador",
+        "og_price": {
+            "Basic/Ads": 5.99,
+            "Standard": 8.99,
+            "Premium": 12.49
+        }
+    },
+    "SX": {
+        "full_name": "Sint Maarten (Dutch part)",
+        "og_price": {
+            "Basic/Ads": 10.99,
+            "Standard": 15.49,
+            "Premium": 19.99
+        }
     },
     "SZ": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Eswatini",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "TC": {
-        "Basic/Ads": 10.99,
-        "Standard": 15.49,
-        "Premium": 19.99
+        "full_name": "Turks and Caicos Islands",
+        "og_price": {
+            "Basic/Ads": 10.99,
+            "Standard": 15.49,
+            "Premium": 19.99
+        }
     },
     "TD": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Chad",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
+    },
+    "TF": {
+        "full_name": "French Southern Territories",
+        "og_price": {
+            "Basic/Ads": 5.99,
+            "Standard": 13.49,
+            "Premium": 19.99
+        }
     },
     "TG": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Togo",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "TH": {
-        "Basic/Ads": 169,
-        "Standard": 349,
-        "Premium": 419
+        "full_name": "Thailand",
+        "og_price": {
+            "Basic/Ads": 169,
+            "Standard": 349,
+            "Premium": 419
+        }
     },
     "TJ": {
-        "Basic/Ads": 9.39,
-        "Standard": 11.79,
-        "Premium": 13.99
+        "full_name": "Tajikistan",
+        "og_price": {
+            "Basic/Ads": 9.39,
+            "Standard": 11.79,
+            "Premium": 13.99
+        }
     },
     "TK": {
-        "Basic/Ads": 14.99,
-        "Standard": 20.99,
-        "Premium": 27.99
+        "full_name": "Tokelau",
+        "og_price": {
+            "Basic/Ads": 14.99,
+            "Standard": 20.99,
+            "Premium": 27.99
+        }
     },
     "TL": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Timor-Leste",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "TM": {
-        "Basic/Ads": 7.99,
-        "Standard": 9.99,
-        "Premium": 11.99
+        "full_name": "Turkmenistan",
+        "og_price": {
+            "Basic/Ads": 7.99,
+            "Standard": 9.99,
+            "Premium": 11.99
+        }
     },
     "TN": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Tunisia",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "TO": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Tonga",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "TR": {
-        "Basic/Ads": 149.99,
-        "Standard": 229.99,
-        "Premium": 299.99
+        "full_name": "Turkey",
+        "og_price": {
+            "Basic/Ads": 149.99,
+            "Standard": 229.99,
+            "Premium": 299.99
+        }
     },
     "TT": {
-        "Basic/Ads": 10.99,
-        "Standard": 15.49,
-        "Premium": 19.99
+        "full_name": "Trinidad and Tobago",
+        "og_price": {
+            "Basic/Ads": 10.99,
+            "Standard": 15.49,
+            "Premium": 19.99
+        }
     },
     "TV": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Tuvalu",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "TW": {
-        "Basic/Ads": 290,
-        "Standard": 380,
-        "Premium": 460
+        "full_name": "Taiwan, Province of China",
+        "og_price": {
+            "Basic/Ads": 290,
+            "Standard": 380,
+            "Premium": 460
+        }
     },
     "TZ": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Tanzania, United Republic of",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "UA": {
-        "Basic/Ads": 4.99,
-        "Standard": 7.49,
-        "Premium": 9.99
+        "full_name": "Ukraine",
+        "og_price": {
+            "Basic/Ads": 4.99,
+            "Standard": 7.49,
+            "Premium": 9.99
+        }
     },
     "UG": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Uganda",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
+    },
+    "UM": {
+        "full_name": "United States Minor Outlying Islands",
+        "og_price": {
+            "Basic/Ads": 11.99,
+            "Standard": 17.99,
+            "Premium": 24.99
+        }
     },
     "US": {
-        "Basic/Ads": 7.99,
-        "Standard": 17.99,
-        "Premium": 24.99
+        "full_name": "United States",
+        "og_price": {
+            "Basic/Ads": 7.99,
+            "Standard": 17.99,
+            "Premium": 24.99
+        }
     },
     "UY": {
-        "Basic/Ads": 9.99,
-        "Standard": 13.99,
-        "Premium": 17.99
+        "full_name": "Uruguay",
+        "og_price": {
+            "Basic/Ads": 9.99,
+            "Standard": 13.99,
+            "Premium": 17.99
+        }
     },
     "UZ": {
-        "Basic/Ads": 7.99,
-        "Standard": 9.99,
-        "Premium": 11.99
+        "full_name": "Uzbekistan",
+        "og_price": {
+            "Basic/Ads": 7.99,
+            "Standard": 9.99,
+            "Premium": 11.99
+        }
+    },
+    "VA": {
+        "full_name": "Holy See (Vatican City State)",
+        "og_price": {
+            "Basic/Ads": 6.99,
+            "Standard": 13.99,
+            "Premium": 19.99
+        }
     },
     "VC": {
-        "Basic/Ads": 3.99,
-        "Standard": 5.99,
-        "Premium": 7.99
+        "full_name": "Saint Vincent and the Grenadines",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 5.99,
+            "Premium": 7.99
+        }
     },
     "VE": {
-        "Basic/Ads": 3.99,
-        "Standard": 5.99,
-        "Premium": 7.99
+        "full_name": "Venezuela, Bolivarian Republic of",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 5.99,
+            "Premium": 7.99
+        }
     },
     "VG": {
-        "Basic/Ads": 10.99,
-        "Standard": 15.49,
-        "Premium": 19.99
+        "full_name": "Virgin Islands, British",
+        "og_price": {
+            "Basic/Ads": 10.99,
+            "Standard": 15.49,
+            "Premium": 19.99
+        }
     },
     "VI": {
-        "Basic/Ads": 7.99,
-        "Standard": 17.99,
-        "Premium": 24.99
+        "full_name": "Virgin Islands, U.S.",
+        "og_price": {
+            "Basic/Ads": 7.99,
+            "Standard": 17.99,
+            "Premium": 24.99
+        }
     },
     "VN": {
-        "Basic/Ads": 108000,
-        "Standard": 220000,
-        "Premium": 260000
+        "full_name": "Viet Nam",
+        "og_price": {
+            "Basic/Ads": 108000,
+            "Standard": 220000,
+            "Premium": 260000
+        }
     },
     "VU": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Vanuatu",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "WF": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Wallis and Futuna",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "WS": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Samoa",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "YE": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Yemen",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
+    },
+    "YT": {
+        "full_name": "Mayotte",
+        "og_price": {
+            "Basic/Ads": 10.99,
+            "Standard": 13.49,
+            "Premium": 17.99
+        }
     },
     "ZA": {
-        "Basic/Ads": 99,
-        "Standard": 159,
-        "Premium": 199
+        "full_name": "South Africa",
+        "og_price": {
+            "Basic/Ads": 99,
+            "Standard": 159,
+            "Premium": 199
+        }
     },
     "ZM": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Zambia",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     },
     "ZW": {
-        "Basic/Ads": 3.99,
-        "Standard": 7.99,
-        "Premium": 9.99
+        "full_name": "Zimbabwe",
+        "og_price": {
+            "Basic/Ads": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
     }
 }
