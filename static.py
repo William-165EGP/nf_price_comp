@@ -55,9 +55,10 @@ def get_current_price(country_codes):
             if price_plans:
                 country_full_info = {}
                 country_full_info['full_name'] = one_country[1]
+                country_full_info['iso2_code'] = one_country[0]
                 country_full_info['og_price'] = price_plans
                 price_list[country_code] = country_full_info
-                print(price_list)
+#                print(price_list)
 
         else:
             print("Request failed.")
