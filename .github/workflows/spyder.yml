@@ -32,6 +32,9 @@ jobs:
       - name: Run API script
         run: python api.py
 
+      - name: Run Get Currency script
+        run: python get_currency.py
+
       - name: Commit and Push api.csv
         run: |
           git config --global user.name "github-actions[bot]"
