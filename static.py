@@ -39,6 +39,11 @@ def get_current_price(country_codes):
                     # print(country_code, plan_name, raw_price)
                     # price like 9699,99 in AR or 229.99 in TR can also be applied
                     price = re.sub(r"[^\d.,]", "", raw_price)
+                    if ',' in price:
+                        if len(price[price.index(',')+1:]) == 2:
+                            price = price.replace(',', '.')
+                        else:
+                            price = price.replace(',', '')
                     price_plans[plan_names[i]] = price
             except IndexError:  # For country like China, Russia aren't available.
                 price = 0
