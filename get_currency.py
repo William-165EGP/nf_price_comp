@@ -62,7 +62,7 @@ for one_country in country_codes:
             # Extract the part inside the parentheses
             match = re.search(r'\((.*?)\)', locate[0])  # This matches text inside parentheses
             if match:
-                print(country_code, match.group(1), currency_codes[match.group(1)])  # This will print "US Dollar"
+                # print(country_code, match.group(1), currency_codes[match.group(1)])  # This will print "US Dollar"
                 new_one_country = one_country
                 new_one_country.append(currency_codes[match.group(1)])
                 new_country_codes.append(new_one_country)
