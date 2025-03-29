@@ -7,7 +7,8 @@ import os
 
 def get_current_price(country_codes):
     price_list = {}
-    for country_code in country_codes:
+    for one_country in country_codes:
+        country_code = one_country[0]
         url = 'https://help.netflix.com/en/node/24926/' + country_code.lower()
 #        print(url)
         response = requests.get(url)
@@ -17,7 +18,7 @@ def get_current_price(country_codes):
             print('reget')
             print(response.url)
             response=requests.get(url)
-        #print(country_code)
+        #print(one_country)
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, "html.parser")
             price_plans = {}
@@ -36,7 +37,7 @@ def get_current_price(country_codes):
                     raw_price = pricing_sections[i]
                     #                print(raw_price)
                     # print(raw_text)
-                    # print(country_code, plan_name, raw_price)
+                    # print(one_country, plan_name, raw_price)
                     # price like 9699,99 in AR or 229.99 in TR can also be applied
                     price = re.sub(r"[^\d.,]", "", raw_price)
                     if ',' in price:
@@ -50,9 +51,13 @@ def get_current_price(country_codes):
                         price_plans[plan_names[i]] = int(price)
             except IndexError:  # For country like China, Russia aren't available.
                 price = 0
-#           print(country_code, price_plans)
+#           print(one_country, price_plans)
             if price_plans:
-                price_list[country_code] = price_plans
+                country_full_info = {}
+                country_full_info['full_name'] = one_country[1]
+                country_full_info['og_price'] = price_plans
+                price_list[country_code] = country_full_info
+                print(price_list)
 
         else:
             print("Request failed.")
@@ -60,7 +65,8 @@ def get_current_price(country_codes):
 
 def get_country_codes():
     with open('api.csv', 'r', encoding='utf-8') as f:
-        country_codes = [line.strip() for line in f.readlines()]
+        country_codes = [line.strip().split(',', 1) for line in f.readlines()]
+        print(country_codes)
     return country_codes
 
 def comparison(prev_price_list, cur_price_list):

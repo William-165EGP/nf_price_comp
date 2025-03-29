@@ -1,26 +1,31 @@
+import csv
 import requests
-import json
+
 
 country_codes=[]
 
 country_not_exist = ['KS', 'C1', 'Y1', 'T1', 'Y2', 'T2', 'M3', 'D1', 'M1', 'E1', 'D2', 'M2', 'JG', 'D3', 'Y3']
 
-for i in range(0, 300, 100):
-    response = requests.get(
-        f'https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/countries-codes/records?select=iso2_code&limit=100&offset={i}')
-    raw_json = json.loads(response.text)
-    for one_country in raw_json['results']:
-        if one_country['iso2_code'] not in country_not_exist:
-            country_codes.append(one_country['iso2_code'])
-#    print(i)
-country_codes.sort()
+url='https://github.com/datasets/country-list/raw/64bee8e75d21e5ed6123c28d7cdde4dbc5692908/data.csv'
 
-with open('api.csv', 'w') as f:
-    for code in country_codes:
-        f.write(f"{code}\n")
+response = requests.get(url)
+raw_countries = response.text.split('\n')[1:]
 
-#print(country_codes)
-#print(len(country_codes))
+for raw_one_country in raw_countries:
+    one_country = raw_one_country.rsplit(',', 1)
+    one_country[0] = one_country[0].strip('"')
+    print(one_country[0])
+    if one_country[0] != '' and one_country[0] not in country_not_exist:
+        one_country[0], one_country[1] = one_country[1], one_country[0]
+        country_codes.append(one_country)
+
+country_codes.sort(key=lambda x: x[0])
+print(country_codes)
+
+with open("api.csv", "w", newline="") as f:
+    for row in country_codes:
+        f.write(",".join(row) + "\n")
+
 
 
 
