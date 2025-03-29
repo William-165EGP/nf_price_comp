@@ -44,7 +44,10 @@ def get_current_price(country_codes):
                             price = price.replace(',', '.')
                         else:
                             price = price.replace(',', '')
-                    price_plans[plan_names[i]] = float(price)
+                    if '.' in price:
+                        price_plans[plan_names[i]] = float(price)
+                    else:
+                        price_plans[plan_names[i]] = int(price)
             except IndexError:  # For country like China, Russia aren't available.
                 price = 0
 #           print(country_code, price_plans)
