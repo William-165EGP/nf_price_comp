@@ -17,6 +17,8 @@ for raw_one_country in raw_countries:
 #    print(one_country[0])
     if one_country[0] != '' and one_country[0] not in country_not_exist:
         one_country[0], one_country[1] = one_country[1], one_country[0]
+        if one_country[1] == 'Taiwan, Province of China':
+            one_country[1] = 'Taiwan'
         country_codes.append(one_country)
 
 country_codes.sort(key=lambda x: x[0])

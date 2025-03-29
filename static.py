@@ -56,6 +56,7 @@ def get_current_price(country_codes):
                 country_full_info = {}
                 country_full_info['full_name'] = one_country[1]
                 country_full_info['iso2_code'] = one_country[0]
+                country_full_info['currency'] = one_country[2]
                 country_full_info['og_price'] = price_plans
                 price_list[country_code] = country_full_info
 #                print(price_list)
@@ -67,7 +68,12 @@ def get_current_price(country_codes):
 def get_country_codes():
     with open('api.csv', 'r', encoding='utf-8') as f:
         country_codes = [line.strip().split(',', 1) for line in f.readlines()]
-#        print(country_codes)
+        for i in range(len(country_codes)):
+            temp_one_country = country_codes[i]
+            temp_one_country[1]=temp_one_country[1].rsplit(',')
+            #print(temp_one_country[1])
+            country_codes[i] = [temp_one_country[0], temp_one_country[1][0], temp_one_country[1][1]]
+        #print(country_codes)
     return country_codes
 
 def comparison(prev_price_list, cur_price_list):
