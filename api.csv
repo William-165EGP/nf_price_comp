@@ -1,249 +1,245 @@
-AD,Andorra
-AE,United Arab Emirates
-AF,Afghanistan
-AG,Antigua and Barbuda
-AI,Anguilla
-AL,Albania
-AM,Armenia
-AO,Angola
-AQ,Antarctica
-AR,Argentina
-AS,American Samoa
-AT,Austria
-AU,Australia
-AW,Aruba
-AX,Åland Islands
-AZ,Azerbaijan
-BA,Bosnia and Herzegovina
-BB,Barbados
-BD,Bangladesh
-BE,Belgium
-BF,Burkina Faso
-BG,Bulgaria
-BH,Bahrain
-BI,Burundi
-BJ,Benin
-BL,Saint Barthélemy
-BM,Bermuda
-BN,Brunei Darussalam
-BO,Bolivia, Plurinational State of
-BQ,Bonaire, Sint Eustatius and Saba
-BR,Brazil
-BS,Bahamas
-BT,Bhutan
-BV,Bouvet Island
-BW,Botswana
-BY,Belarus
-BZ,Belize
-CA,Canada
-CC,Cocos (Keeling) Islands
-CD,Congo, the Democratic Republic of the
-CF,Central African Republic
-CG,Congo
-CH,Switzerland
-CI,Côte d'Ivoire
-CK,Cook Islands
-CL,Chile
-CM,Cameroon
-CN,China
-CO,Colombia
-CR,Costa Rica
-CU,Cuba
-CV,Cape Verde
-CW,Curaçao
-CX,Christmas Island
-CY,Cyprus
-CZ,Czech Republic
-DE,Germany
-DJ,Djibouti
-DK,Denmark
-DM,Dominica
-DO,Dominican Republic
-DZ,Algeria
-EC,Ecuador
-EE,Estonia
-EG,Egypt
-EH,Western Sahara
-ER,Eritrea
-ES,Spain
-ET,Ethiopia
-FI,Finland
-FJ,Fiji
-FK,Falkland Islands (Malvinas)
-FM,Micronesia, Federated States of
-FO,Faroe Islands
-FR,France
-GA,Gabon
-GB,United Kingdom
-GD,Grenada
-GE,Georgia
-GF,French Guiana
-GG,Guernsey
-GH,Ghana
-GI,Gibraltar
-GL,Greenland
-GM,Gambia
-GN,Guinea
-GP,Guadeloupe
-GQ,Equatorial Guinea
-GR,Greece
-GS,South Georgia and the South Sandwich Islands
-GT,Guatemala
-GU,Guam
-GW,Guinea-Bissau
-GY,Guyana
-HK,Hong Kong
-HM,Heard Island and McDonald Islands
-HN,Honduras
-HR,Croatia
-HT,Haiti
-HU,Hungary
-ID,Indonesia
-IE,Ireland
-IL,Israel
-IM,Isle of Man
-IN,India
-IO,British Indian Ocean Territory
-IQ,Iraq
-IR,Iran, Islamic Republic of
-IS,Iceland
-IT,Italy
-JE,Jersey
-JM,Jamaica
-JO,Jordan
-JP,Japan
-KE,Kenya
-KG,Kyrgyzstan
-KH,Cambodia
-KI,Kiribati
-KM,Comoros
-KN,Saint Kitts and Nevis
-KP,Korea, Democratic People's Republic of
-KR,Korea, Republic of
-KW,Kuwait
-KY,Cayman Islands
-KZ,Kazakhstan
-LA,Lao People's Democratic Republic
-LB,Lebanon
-LC,Saint Lucia
-LI,Liechtenstein
-LK,Sri Lanka
-LR,Liberia
-LS,Lesotho
-LT,Lithuania
-LU,Luxembourg
-LV,Latvia
-LY,Libya
-MA,Morocco
-MC,Monaco
-MD,Moldova, Republic of
-ME,Montenegro
-MF,Saint Martin (French part)
-MG,Madagascar
-MH,Marshall Islands
-MK,Macedonia, the Former Yugoslav Republic of
-ML,Mali
-MM,Myanmar
-MN,Mongolia
-MO,Macao
-MP,Northern Mariana Islands
-MQ,Martinique
-MR,Mauritania
-MS,Montserrat
-MT,Malta
-MU,Mauritius
-MV,Maldives
-MW,Malawi
-MX,Mexico
-MY,Malaysia
-MZ,Mozambique
-NA,Namibia
-NC,New Caledonia
-NE,Niger
-NF,Norfolk Island
-NG,Nigeria
-NI,Nicaragua
-NL,Netherlands
-NO,Norway
-NP,Nepal
-NR,Nauru
-NU,Niue
-NZ,New Zealand
-OM,Oman
-PA,Panama
-PE,Peru
-PF,French Polynesia
-PG,Papua New Guinea
-PH,Philippines
-PK,Pakistan
-PL,Poland
-PM,Saint Pierre and Miquelon
-PN,Pitcairn
-PR,Puerto Rico
-PS,Palestine, State of
-PT,Portugal
-PW,Palau
-PY,Paraguay
-QA,Qatar
-RE,Réunion
-RO,Romania
-RS,Serbia
-RU,Russian Federation
-RW,Rwanda
-SA,Saudi Arabia
-SB,Solomon Islands
-SC,Seychelles
-SD,Sudan
-SE,Sweden
-SG,Singapore
-SH,Saint Helena, Ascension and Tristan da Cunha
-SI,Slovenia
-SJ,Svalbard and Jan Mayen
-SK,Slovakia
-SL,Sierra Leone
-SM,San Marino
-SN,Senegal
-SO,Somalia
-SR,Suriname
-SS,South Sudan
-ST,Sao Tome and Principe
-SV,El Salvador
-SX,Sint Maarten (Dutch part)
-SY,Syrian Arab Republic
-SZ,Eswatini
-TC,Turks and Caicos Islands
-TD,Chad
-TF,French Southern Territories
-TG,Togo
-TH,Thailand
-TJ,Tajikistan
-TK,Tokelau
-TL,Timor-Leste
-TM,Turkmenistan
-TN,Tunisia
-TO,Tonga
-TR,Turkey
-TT,Trinidad and Tobago
-TV,Tuvalu
-TW,Taiwan
-TZ,Tanzania, United Republic of
-UA,Ukraine
-UG,Uganda
-UM,United States Minor Outlying Islands
-US,United States
-UY,Uruguay
-UZ,Uzbekistan
-VA,Holy See (Vatican City State)
-VC,Saint Vincent and the Grenadines
-VE,Venezuela, Bolivarian Republic of
-VG,Virgin Islands, British
-VI,Virgin Islands, U.S.
-VN,Viet Nam
-VU,Vanuatu
-WF,Wallis and Futuna
-WS,Samoa
-YE,Yemen
-YT,Mayotte
-ZA,South Africa
-ZM,Zambia
-ZW,Zimbabwe
+AD,Andorra,EUR
+AE,United Arab Emirates,AED
+AF,Afghanistan,USD
+AG,Antigua and Barbuda,USD
+AI,Anguilla,USD
+AL,Albania,EUR
+AM,Armenia,EUR
+AO,Angola,USD
+AQ,Antarctica,USD
+AR,Argentina,ARS
+AS,American Samoa,USD
+AT,Austria,EUR
+AU,Australia,AUD
+AW,Aruba,USD
+AX,Åland Islands,EUR
+AZ,Azerbaijan,EUR
+BA,Bosnia and Herzegovina,EUR
+BB,Barbados,USD
+BD,Bangladesh,USD
+BE,Belgium,EUR
+BF,Burkina Faso,USD
+BG,Bulgaria,EUR
+BH,Bahrain,USD
+BI,Burundi,USD
+BJ,Benin,USD
+BL,Saint Barthélemy,USD
+BM,Bermuda,USD
+BN,Brunei Darussalam,USD
+BO,Bolivia, Plurinational State of,USD
+BQ,Bonaire, Sint Eustatius and Saba,USD
+BR,Brazil,BRL
+BS,Bahamas,USD
+BT,Bhutan,USD
+BV,Bouvet Island,USD
+BW,Botswana,USD
+BY,Belarus,EUR
+BZ,Belize,USD
+CA,Canada,CAD
+CC,Cocos (Keeling) Islands,AUD
+CD,Congo, the Democratic Republic of the,USD
+CF,Central African Republic,USD
+CG,Congo,USD
+CH,Switzerland,CHF
+CI,Côte d'Ivoire,USD
+CK,Cook Islands,NZD
+CL,Chile,CLP
+CM,Cameroon,USD
+CO,Colombia,COP
+CR,Costa Rica,USD
+CU,Cuba,USD
+CV,Cape Verde,USD
+CW,Curaçao,USD
+CX,Christmas Island,USD
+CY,Cyprus,EUR
+CZ,Czech Republic,CZK
+DE,Germany,EUR
+DJ,Djibouti,USD
+DK,Denmark,DKK
+DM,Dominica,USD
+DO,Dominican Republic,USD
+DZ,Algeria,USD
+EC,Ecuador,USD
+EE,Estonia,EUR
+EG,Egypt,EGP
+EH,Western Sahara,USD
+ER,Eritrea,USD
+ES,Spain,EUR
+ET,Ethiopia,USD
+FI,Finland,EUR
+FJ,Fiji,USD
+FK,Falkland Islands (Malvinas),USD
+FM,Micronesia, Federated States of,USD
+FO,Faroe Islands,DKK
+FR,France,EUR
+GA,Gabon,USD
+GB,United Kingdom,GBP
+GD,Grenada,USD
+GE,Georgia,EUR
+GF,French Guiana,EUR
+GG,Guernsey,GBP
+GH,Ghana,USD
+GI,Gibraltar,EUR
+GL,Greenland,DKK
+GM,Gambia,USD
+GN,Guinea,USD
+GP,Guadeloupe,EUR
+GQ,Equatorial Guinea,USD
+GR,Greece,EUR
+GS,South Georgia and the South Sandwich Islands,USD
+GT,Guatemala,USD
+GU,Guam,USD
+GW,Guinea-Bissau,USD
+GY,Guyana,USD
+HK,Hong Kong,HKD
+HM,Heard Island and McDonald Islands,USD
+HN,Honduras,USD
+HR,Croatia,EUR
+HT,Haiti,USD
+HU,Hungary,HUF
+ID,Indonesia,IDR
+IE,Ireland,EUR
+IL,Israel,ILS
+IM,Isle of Man,GBP
+IN,India,INR
+IO,British Indian Ocean Territory,USD
+IQ,Iraq,USD
+IR,Iran, Islamic Republic of,USD
+IS,Iceland,EUR
+IT,Italy,EUR
+JE,Jersey,GBP
+JM,Jamaica,USD
+JO,Jordan,USD
+JP,Japan,JPY
+KE,Kenya,KES
+KG,Kyrgyzstan,EUR
+KH,Cambodia,USD
+KI,Kiribati,USD
+KM,Comoros,USD
+KN,Saint Kitts and Nevis,USD
+KR,Korea, Republic of,KRW
+KW,Kuwait,USD
+KY,Cayman Islands,USD
+KZ,Kazakhstan,EUR
+LA,Lao People's Democratic Republic,USD
+LB,Lebanon,USD
+LC,Saint Lucia,USD
+LI,Liechtenstein,CHF
+LK,Sri Lanka,USD
+LR,Liberia,USD
+LS,Lesotho,USD
+LT,Lithuania,EUR
+LU,Luxembourg,EUR
+LV,Latvia,EUR
+LY,Libya,USD
+MA,Morocco,MAD
+MC,Monaco,EUR
+MD,Moldova, Republic of,EUR
+ME,Montenegro,EUR
+MF,Saint Martin (French part),USD
+MG,Madagascar,USD
+MH,Marshall Islands,USD
+MK,Macedonia, the Former Yugoslav Republic of,EUR
+ML,Mali,USD
+MM,Myanmar,USD
+MN,Mongolia,USD
+MO,Macao,USD
+MP,Northern Mariana Islands,USD
+MQ,Martinique,EUR
+MR,Mauritania,USD
+MS,Montserrat,USD
+MT,Malta,EUR
+MU,Mauritius,USD
+MV,Maldives,USD
+MW,Malawi,USD
+MX,Mexico,MXP
+MY,Malaysia,MYR
+MZ,Mozambique,USD
+NA,Namibia,USD
+NC,New Caledonia,USD
+NE,Niger,USD
+NF,Norfolk Island,AUD
+NG,Nigeria,NGN
+NI,Nicaragua,USD
+NL,Netherlands,EUR
+NO,Norway,NOK
+NP,Nepal,USD
+NR,Nauru,USD
+NU,Niue,NZD
+NZ,New Zealand,NZD
+OM,Oman,USD
+PA,Panama,USD
+PE,Peru,PEN
+PF,French Polynesia,USD
+PG,Papua New Guinea,USD
+PH,Philippines,PHP
+PK,Pakistan,PKR
+PL,Poland,PLN
+PM,Saint Pierre and Miquelon,EUR
+PN,Pitcairn,USD
+PR,Puerto Rico,USD
+PS,Palestine, State of,USD
+PT,Portugal,EUR
+PW,Palau,USD
+PY,Paraguay,USD
+QA,Qatar,USD
+RE,Réunion,EUR
+RO,Romania,EUR
+RS,Serbia,EUR
+RW,Rwanda,USD
+SA,Saudi Arabia,SAR
+SB,Solomon Islands,USD
+SC,Seychelles,USD
+SD,Sudan,USD
+SE,Sweden,SEK
+SG,Singapore,SGD
+SH,Saint Helena, Ascension and Tristan da Cunha,USD
+SI,Slovenia,EUR
+SJ,Svalbard and Jan Mayen,NOK
+SK,Slovakia,EUR
+SL,Sierra Leone,USD
+SM,San Marino,EUR
+SN,Senegal,USD
+SO,Somalia,USD
+SR,Suriname,USD
+SS,South Sudan,USD
+ST,Sao Tome and Principe,USD
+SV,El Salvador,USD
+SX,Sint Maarten (Dutch part),USD
+SZ,Eswatini,USD
+TC,Turks and Caicos Islands,USD
+TD,Chad,USD
+TF,French Southern Territories,EUR
+TG,Togo,USD
+TH,Thailand,THB
+TJ,Tajikistan,EUR
+TK,Tokelau,NZD
+TL,Timor-Leste,USD
+TM,Turkmenistan,EUR
+TN,Tunisia,USD
+TO,Tonga,USD
+TR,Turkey,TRY
+TT,Trinidad and Tobago,USD
+TV,Tuvalu,USD
+TW,Taiwan,TWD
+TZ,Tanzania, United Republic of,USD
+UA,Ukraine,EUR
+UG,Uganda,USD
+UM,United States Minor Outlying Islands,USD
+US,United States,USD
+UY,Uruguay,USD
+UZ,Uzbekistan,EUR
+VA,Holy See (Vatican City State),EUR
+VC,Saint Vincent and the Grenadines,USD
+VE,Venezuela, Bolivarian Republic of,USD
+VG,Virgin Islands, British,USD
+VI,Virgin Islands, U.S.,USD
+VN,Viet Nam,VND
+VU,Vanuatu,USD
+WF,Wallis and Futuna,USD
+WS,Samoa,USD
+YE,Yemen,USD
+YT,Mayotte,EUR
+ZA,South Africa,ZAR
+ZM,Zambia,USD
+ZW,Zimbabwe,USD
