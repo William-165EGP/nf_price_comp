@@ -2,6 +2,7 @@
     "AD": {
         "full_name": "Andorra",
         "iso2_code": "AD",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 8.99,
             "Standard": 13.99,
@@ -11,6 +12,7 @@
     "AE": {
         "full_name": "United Arab Emirates",
         "iso2_code": "AE",
+        "currency": "AED",
         "og_price": {
             "Basic/Ads": 35,
             "Standard": 49,
@@ -20,6 +22,7 @@
     "AF": {
         "full_name": "Afghanistan",
         "iso2_code": "AF",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -29,6 +32,7 @@
     "AG": {
         "full_name": "Antigua and Barbuda",
         "iso2_code": "AG",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 10.99,
             "Standard": 15.49,
@@ -38,6 +42,7 @@
     "AI": {
         "full_name": "Anguilla",
         "iso2_code": "AI",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 10.99,
             "Standard": 15.49,
@@ -47,6 +52,7 @@
     "AL": {
         "full_name": "Albania",
         "iso2_code": "AL",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 4.99,
             "Standard": 7.99,
@@ -56,6 +62,7 @@
     "AM": {
         "full_name": "Armenia",
         "iso2_code": "AM",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 7.99,
             "Standard": 9.99,
@@ -65,6 +72,7 @@
     "AO": {
         "full_name": "Angola",
         "iso2_code": "AO",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -74,6 +82,7 @@
     "AQ": {
         "full_name": "Antarctica",
         "iso2_code": "AQ",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 11.99,
             "Standard": 17.99,
@@ -83,6 +92,7 @@
     "AR": {
         "full_name": "Argentina",
         "iso2_code": "AR",
+        "currency": "ARS",
         "og_price": {
             "Basic/Ads": 5999,
             "Standard": 9999,
@@ -92,6 +102,7 @@
     "AS": {
         "full_name": "American Samoa",
         "iso2_code": "AS",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 7.99,
             "Standard": 17.99,
@@ -101,6 +112,7 @@
     "AT": {
         "full_name": "Austria",
         "iso2_code": "AT",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 8.99,
             "Standard": 13.99,
@@ -110,6 +122,7 @@
     "AU": {
         "full_name": "Australia",
         "iso2_code": "AU",
+        "currency": "AUD",
         "og_price": {
             "Basic/Ads": 7.99,
             "Standard": 18.99,
@@ -119,6 +132,7 @@
     "AW": {
         "full_name": "Aruba",
         "iso2_code": "AW",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 10.99,
             "Standard": 15.49,
@@ -128,6 +142,7 @@
     "AX": {
         "full_name": "Åland Islands",
         "iso2_code": "AX",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 9.49,
             "Standard": 13.99,
@@ -137,6 +152,7 @@
     "AZ": {
         "full_name": "Azerbaijan",
         "iso2_code": "AZ",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 7.99,
             "Standard": 9.99,
@@ -146,6 +162,7 @@
     "BA": {
         "full_name": "Bosnia and Herzegovina",
         "iso2_code": "BA",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 4.99,
             "Standard": 7.99,
@@ -155,6 +172,7 @@
     "BB": {
         "full_name": "Barbados",
         "iso2_code": "BB",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 10.59,
             "Standard": 15.29,
@@ -164,6 +182,7 @@
     "BD": {
         "full_name": "Bangladesh",
         "iso2_code": "BD",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -173,6 +192,7 @@
     "BE": {
         "full_name": "Belgium",
         "iso2_code": "BE",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 9.99,
             "Standard": 14.99,
@@ -182,6 +202,7 @@
     "BF": {
         "full_name": "Burkina Faso",
         "iso2_code": "BF",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -191,6 +212,7 @@
     "BG": {
         "full_name": "Bulgaria",
         "iso2_code": "BG",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 4.99,
             "Standard": 7.99,
@@ -200,6 +222,7 @@
     "BH": {
         "full_name": "Bahrain",
         "iso2_code": "BH",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 7.99,
             "Standard": 10.49,
@@ -209,6 +232,7 @@
     "BI": {
         "full_name": "Burundi",
         "iso2_code": "BI",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -218,6 +242,7 @@
     "BJ": {
         "full_name": "Benin",
         "iso2_code": "BJ",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -227,6 +252,7 @@
     "BL": {
         "full_name": "Saint Barthélemy",
         "iso2_code": "BL",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 5.99,
@@ -236,6 +262,7 @@
     "BM": {
         "full_name": "Bermuda",
         "iso2_code": "BM",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 10.99,
             "Standard": 15.49,
@@ -245,6 +272,7 @@
     "BN": {
         "full_name": "Brunei Darussalam",
         "iso2_code": "BN",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 10.99,
             "Standard": 13.99,
@@ -252,8 +280,9 @@
         }
     },
     "BO": {
-        "full_name": "Bolivia, Plurinational State of",
+        "full_name": "Bolivia",
         "iso2_code": "BO",
+        "currency": " Plurinational State of",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 5.99,
@@ -261,8 +290,9 @@
         }
     },
     "BQ": {
-        "full_name": "Bonaire, Sint Eustatius and Saba",
+        "full_name": "Bonaire",
         "iso2_code": "BQ",
+        "currency": " Sint Eustatius and Saba",
         "og_price": {
             "Basic/Ads": 10.99,
             "Standard": 15.49,
@@ -272,6 +302,7 @@
     "BR": {
         "full_name": "Brazil",
         "iso2_code": "BR",
+        "currency": "BRL",
         "og_price": {
             "Basic/Ads": 20.9,
             "Standard": 44.9,
@@ -281,6 +312,7 @@
     "BS": {
         "full_name": "Bahamas",
         "iso2_code": "BS",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 10.99,
             "Standard": 15.49,
@@ -290,6 +322,7 @@
     "BT": {
         "full_name": "Bhutan",
         "iso2_code": "BT",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -299,6 +332,7 @@
     "BV": {
         "full_name": "Bouvet Island",
         "iso2_code": "BV",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 7.99,
             "Standard": 9.99,
@@ -308,6 +342,7 @@
     "BW": {
         "full_name": "Botswana",
         "iso2_code": "BW",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -317,6 +352,7 @@
     "BY": {
         "full_name": "Belarus",
         "iso2_code": "BY",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 7.99,
             "Standard": 9.99,
@@ -326,6 +362,7 @@
     "BZ": {
         "full_name": "Belize",
         "iso2_code": "BZ",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 5.99,
@@ -335,6 +372,7 @@
     "CA": {
         "full_name": "Canada",
         "iso2_code": "CA",
+        "currency": "CAD",
         "og_price": {
             "Basic/Ads": 7.99,
             "Standard": 18.99,
@@ -344,6 +382,7 @@
     "CC": {
         "full_name": "Cocos (Keeling) Islands",
         "iso2_code": "CC",
+        "currency": "AUD",
         "og_price": {
             "Basic/Ads": 12.99,
             "Standard": 18.99,
@@ -351,8 +390,9 @@
         }
     },
     "CD": {
-        "full_name": "Congo, the Democratic Republic of the",
+        "full_name": "Congo",
         "iso2_code": "CD",
+        "currency": " the Democratic Republic of the",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -362,6 +402,7 @@
     "CF": {
         "full_name": "Central African Republic",
         "iso2_code": "CF",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -371,6 +412,7 @@
     "CG": {
         "full_name": "Congo",
         "iso2_code": "CG",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -380,6 +422,7 @@
     "CH": {
         "full_name": "Switzerland",
         "iso2_code": "CH",
+        "currency": "CHF",
         "og_price": {
             "Basic/Ads": 12.9,
             "Standard": 20.9,
@@ -389,6 +432,7 @@
     "CI": {
         "full_name": "Côte d'Ivoire",
         "iso2_code": "CI",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -398,6 +442,7 @@
     "CK": {
         "full_name": "Cook Islands",
         "iso2_code": "CK",
+        "currency": "NZD",
         "og_price": {
             "Basic/Ads": 14.99,
             "Standard": 20.99,
@@ -407,6 +452,7 @@
     "CL": {
         "full_name": "Chile",
         "iso2_code": "CL",
+        "currency": "CLP",
         "og_price": {
             "Basic/Ads": 6540,
             "Standard": 9190,
@@ -416,6 +462,7 @@
     "CM": {
         "full_name": "Cameroon",
         "iso2_code": "CM",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -425,6 +472,7 @@
     "CO": {
         "full_name": "Colombia",
         "iso2_code": "CO",
+        "currency": "COP",
         "og_price": {
             "Basic/Ads": 18900,
             "Standard": 29900,
@@ -434,6 +482,7 @@
     "CR": {
         "full_name": "Costa Rica",
         "iso2_code": "CR",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 8.99,
             "Standard": 12.99,
@@ -443,6 +492,7 @@
     "CU": {
         "full_name": "Cuba",
         "iso2_code": "CU",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 5.99,
@@ -452,6 +502,7 @@
     "CV": {
         "full_name": "Cape Verde",
         "iso2_code": "CV",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -461,6 +512,7 @@
     "CW": {
         "full_name": "Curaçao",
         "iso2_code": "CW",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 10.99,
             "Standard": 15.49,
@@ -470,6 +522,7 @@
     "CX": {
         "full_name": "Christmas Island",
         "iso2_code": "CX",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -479,6 +532,7 @@
     "CY": {
         "full_name": "Cyprus",
         "iso2_code": "CY",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 8.99,
             "Standard": 12.49,
@@ -488,6 +542,7 @@
     "CZ": {
         "full_name": "Czech Republic",
         "iso2_code": "CZ",
+        "currency": "CZK",
         "og_price": {
             "Basic/Ads": 239.0,
             "Standard": 309.0,
@@ -497,6 +552,7 @@
     "DE": {
         "full_name": "Germany",
         "iso2_code": "DE",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 4.99,
             "Standard": 13.99,
@@ -506,6 +562,7 @@
     "DJ": {
         "full_name": "Djibouti",
         "iso2_code": "DJ",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -515,6 +572,7 @@
     "DK": {
         "full_name": "Denmark",
         "iso2_code": "DK",
+        "currency": "DKK",
         "og_price": {
             "Basic/Ads": 89,
             "Standard": 129,
@@ -524,6 +582,7 @@
     "DM": {
         "full_name": "Dominica",
         "iso2_code": "DM",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 5.99,
@@ -533,6 +592,7 @@
     "DO": {
         "full_name": "Dominican Republic",
         "iso2_code": "DO",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 6.99,
             "Standard": 9.99,
@@ -542,6 +602,7 @@
     "DZ": {
         "full_name": "Algeria",
         "iso2_code": "DZ",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -551,6 +612,7 @@
     "EC": {
         "full_name": "Ecuador",
         "iso2_code": "EC",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 5.99,
             "Standard": 8.99,
@@ -560,6 +622,7 @@
     "EE": {
         "full_name": "Estonia",
         "iso2_code": "EE",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 7.99,
             "Standard": 9.99,
@@ -569,6 +632,7 @@
     "EG": {
         "full_name": "Egypt",
         "iso2_code": "EG",
+        "currency": "EGP",
         "og_price": {
             "Basic/Ads": 100,
             "Standard": 170,
@@ -578,6 +642,7 @@
     "EH": {
         "full_name": "Western Sahara",
         "iso2_code": "EH",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 7.99,
             "Standard": 9.99,
@@ -587,6 +652,7 @@
     "ER": {
         "full_name": "Eritrea",
         "iso2_code": "ER",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -596,6 +662,7 @@
     "ES": {
         "full_name": "Spain",
         "iso2_code": "ES",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 6.99,
             "Standard": 13.99,
@@ -605,6 +672,7 @@
     "ET": {
         "full_name": "Ethiopia",
         "iso2_code": "ET",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -614,6 +682,7 @@
     "FI": {
         "full_name": "Finland",
         "iso2_code": "FI",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 9.49,
             "Standard": 13.99,
@@ -623,6 +692,7 @@
     "FJ": {
         "full_name": "Fiji",
         "iso2_code": "FJ",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -632,6 +702,7 @@
     "FK": {
         "full_name": "Falkland Islands (Malvinas)",
         "iso2_code": "FK",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 11.99,
             "Standard": 17.99,
@@ -639,8 +710,9 @@
         }
     },
     "FM": {
-        "full_name": "Micronesia, Federated States of",
+        "full_name": "Micronesia",
         "iso2_code": "FM",
+        "currency": " Federated States of",
         "og_price": {
             "Basic/Ads": 7.99,
             "Standard": 17.99,
@@ -650,6 +722,7 @@
     "FO": {
         "full_name": "Faroe Islands",
         "iso2_code": "FO",
+        "currency": "DKK",
         "og_price": {
             "Basic/Ads": 89,
             "Standard": 129,
@@ -659,6 +732,7 @@
     "FR": {
         "full_name": "France",
         "iso2_code": "FR",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 5.99,
             "Standard": 13.49,
@@ -668,6 +742,7 @@
     "GA": {
         "full_name": "Gabon",
         "iso2_code": "GA",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -677,6 +752,7 @@
     "GB": {
         "full_name": "United Kingdom",
         "iso2_code": "GB",
+        "currency": "GBP",
         "og_price": {
             "Basic/Ads": 5.99,
             "Standard": 12.99,
@@ -686,6 +762,7 @@
     "GD": {
         "full_name": "Grenada",
         "iso2_code": "GD",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 5.99,
@@ -695,6 +772,7 @@
     "GE": {
         "full_name": "Georgia",
         "iso2_code": "GE",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 9.39,
             "Standard": 11.79,
@@ -704,6 +782,7 @@
     "GF": {
         "full_name": "French Guiana",
         "iso2_code": "GF",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 10.99,
             "Standard": 13.49,
@@ -713,6 +792,7 @@
     "GG": {
         "full_name": "Guernsey",
         "iso2_code": "GG",
+        "currency": "GBP",
         "og_price": {
             "Basic/Ads": 5.99,
             "Standard": 12.99,
@@ -722,6 +802,7 @@
     "GH": {
         "full_name": "Ghana",
         "iso2_code": "GH",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -731,6 +812,7 @@
     "GI": {
         "full_name": "Gibraltar",
         "iso2_code": "GI",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 8.99,
             "Standard": 13.99,
@@ -740,6 +822,7 @@
     "GL": {
         "full_name": "Greenland",
         "iso2_code": "GL",
+        "currency": "DKK",
         "og_price": {
             "Basic/Ads": 89,
             "Standard": 129,
@@ -749,6 +832,7 @@
     "GM": {
         "full_name": "Gambia",
         "iso2_code": "GM",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -758,6 +842,7 @@
     "GN": {
         "full_name": "Guinea",
         "iso2_code": "GN",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -767,6 +852,7 @@
     "GP": {
         "full_name": "Guadeloupe",
         "iso2_code": "GP",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 10.99,
             "Standard": 13.49,
@@ -776,6 +862,7 @@
     "GQ": {
         "full_name": "Equatorial Guinea",
         "iso2_code": "GQ",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -785,6 +872,7 @@
     "GR": {
         "full_name": "Greece",
         "iso2_code": "GR",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 8.99,
             "Standard": 12.49,
@@ -794,6 +882,7 @@
     "GS": {
         "full_name": "South Georgia and the South Sandwich Islands",
         "iso2_code": "GS",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 11.99,
             "Standard": 17.99,
@@ -803,6 +892,7 @@
     "GT": {
         "full_name": "Guatemala",
         "iso2_code": "GT",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 5.99,
             "Standard": 8.99,
@@ -812,6 +902,7 @@
     "GU": {
         "full_name": "Guam",
         "iso2_code": "GU",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 7.99,
             "Standard": 17.99,
@@ -821,6 +912,7 @@
     "GW": {
         "full_name": "Guinea-Bissau",
         "iso2_code": "GW",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -830,6 +922,7 @@
     "GY": {
         "full_name": "Guyana",
         "iso2_code": "GY",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 5.99,
@@ -839,6 +932,7 @@
     "HK": {
         "full_name": "Hong Kong",
         "iso2_code": "HK",
+        "currency": "HKD",
         "og_price": {
             "Basic/Ads": 73,
             "Standard": 88,
@@ -848,6 +942,7 @@
     "HM": {
         "full_name": "Heard Island and McDonald Islands",
         "iso2_code": "HM",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 11.99,
             "Standard": 17.99,
@@ -857,6 +952,7 @@
     "HN": {
         "full_name": "Honduras",
         "iso2_code": "HN",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 6.99,
             "Standard": 9.99,
@@ -866,6 +962,7 @@
     "HR": {
         "full_name": "Croatia",
         "iso2_code": "HR",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 5.99,
             "Standard": 9.99,
@@ -875,6 +972,7 @@
     "HT": {
         "full_name": "Haiti",
         "iso2_code": "HT",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 5.99,
@@ -884,6 +982,7 @@
     "HU": {
         "full_name": "Hungary",
         "iso2_code": "HU",
+        "currency": "HUF",
         "og_price": {
             "Basic/Ads": 2890,
             "Standard": 3990,
@@ -893,6 +992,7 @@
     "ID": {
         "full_name": "Indonesia",
         "iso2_code": "ID",
+        "currency": "IDR",
         "og_price": {
             "Basic/Ads": 65000,
             "Standard": 120000,
@@ -902,6 +1002,7 @@
     "IE": {
         "full_name": "Ireland",
         "iso2_code": "IE",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 10.99,
             "Standard": 16.99,
@@ -911,6 +1012,7 @@
     "IL": {
         "full_name": "Israel",
         "iso2_code": "IL",
+        "currency": "ILS",
         "og_price": {
             "Basic/Ads": 32.9,
             "Standard": 54.9,
@@ -920,6 +1022,7 @@
     "IM": {
         "full_name": "Isle of Man",
         "iso2_code": "IM",
+        "currency": "GBP",
         "og_price": {
             "Basic/Ads": 5.99,
             "Standard": 12.99,
@@ -929,6 +1032,7 @@
     "IN": {
         "full_name": "India",
         "iso2_code": "IN",
+        "currency": "INR",
         "og_price": {
             "Basic/Ads": 199,
             "Standard": 499,
@@ -938,6 +1042,7 @@
     "IO": {
         "full_name": "British Indian Ocean Territory",
         "iso2_code": "IO",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -947,6 +1052,7 @@
     "IQ": {
         "full_name": "Iraq",
         "iso2_code": "IQ",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -954,8 +1060,9 @@
         }
     },
     "IR": {
-        "full_name": "Iran, Islamic Republic of",
+        "full_name": "Iran",
         "iso2_code": "IR",
+        "currency": " Islamic Republic of",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -965,6 +1072,7 @@
     "IS": {
         "full_name": "Iceland",
         "iso2_code": "IS",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 9.99,
             "Standard": 14.99,
@@ -974,6 +1082,7 @@
     "IT": {
         "full_name": "Italy",
         "iso2_code": "IT",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 6.99,
             "Standard": 13.99,
@@ -983,6 +1092,7 @@
     "JE": {
         "full_name": "Jersey",
         "iso2_code": "JE",
+        "currency": "GBP",
         "og_price": {
             "Basic/Ads": 5.99,
             "Standard": 12.99,
@@ -992,6 +1102,7 @@
     "JM": {
         "full_name": "Jamaica",
         "iso2_code": "JM",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 4.99,
             "Standard": 6.99,
@@ -1001,6 +1112,7 @@
     "JO": {
         "full_name": "Jordan",
         "iso2_code": "JO",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1010,6 +1122,7 @@
     "JP": {
         "full_name": "Japan",
         "iso2_code": "JP",
+        "currency": "JPY",
         "og_price": {
             "Basic/Ads": 890,
             "Standard": 1590,
@@ -1019,6 +1132,7 @@
     "KE": {
         "full_name": "Kenya",
         "iso2_code": "KE",
+        "currency": "KES",
         "og_price": {
             "Basic/Ads": 300,
             "Standard": 700,
@@ -1028,6 +1142,7 @@
     "KG": {
         "full_name": "Kyrgyzstan",
         "iso2_code": "KG",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 7.99,
             "Standard": 9.99,
@@ -1037,6 +1152,7 @@
     "KH": {
         "full_name": "Cambodia",
         "iso2_code": "KH",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1046,6 +1162,7 @@
     "KI": {
         "full_name": "Kiribati",
         "iso2_code": "KI",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1055,6 +1172,7 @@
     "KM": {
         "full_name": "Comoros",
         "iso2_code": "KM",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1064,6 +1182,7 @@
     "KN": {
         "full_name": "Saint Kitts and Nevis",
         "iso2_code": "KN",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 10.99,
             "Standard": 15.49,
@@ -1071,8 +1190,9 @@
         }
     },
     "KR": {
-        "full_name": "Korea, Republic of",
+        "full_name": "Korea",
         "iso2_code": "KR",
+        "currency": " Republic of",
         "og_price": {
             "Basic/Ads": 5500,
             "Standard": 13500,
@@ -1082,6 +1202,7 @@
     "KW": {
         "full_name": "Kuwait",
         "iso2_code": "KW",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 8.99,
             "Standard": 11.99,
@@ -1091,6 +1212,7 @@
     "KY": {
         "full_name": "Cayman Islands",
         "iso2_code": "KY",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 10.99,
             "Standard": 15.49,
@@ -1100,6 +1222,7 @@
     "KZ": {
         "full_name": "Kazakhstan",
         "iso2_code": "KZ",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 7.99,
             "Standard": 9.99,
@@ -1109,6 +1232,7 @@
     "LA": {
         "full_name": "Lao People's Democratic Republic",
         "iso2_code": "LA",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1118,6 +1242,7 @@
     "LB": {
         "full_name": "Lebanon",
         "iso2_code": "LB",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1127,6 +1252,7 @@
     "LC": {
         "full_name": "Saint Lucia",
         "iso2_code": "LC",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 5.99,
@@ -1136,6 +1262,7 @@
     "LI": {
         "full_name": "Liechtenstein",
         "iso2_code": "LI",
+        "currency": "CHF",
         "og_price": {
             "Basic/Ads": 12.9,
             "Standard": 20.9,
@@ -1145,6 +1272,7 @@
     "LK": {
         "full_name": "Sri Lanka",
         "iso2_code": "LK",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1154,6 +1282,7 @@
     "LR": {
         "full_name": "Liberia",
         "iso2_code": "LR",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1163,6 +1292,7 @@
     "LS": {
         "full_name": "Lesotho",
         "iso2_code": "LS",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1172,6 +1302,7 @@
     "LT": {
         "full_name": "Lithuania",
         "iso2_code": "LT",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 7.99,
             "Standard": 9.99,
@@ -1181,6 +1312,7 @@
     "LU": {
         "full_name": "Luxembourg",
         "iso2_code": "LU",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 9.99,
             "Standard": 14.99,
@@ -1190,6 +1322,7 @@
     "LV": {
         "full_name": "Latvia",
         "iso2_code": "LV",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 7.99,
             "Standard": 9.99,
@@ -1199,6 +1332,7 @@
     "LY": {
         "full_name": "Libya",
         "iso2_code": "LY",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1208,6 +1342,7 @@
     "MA": {
         "full_name": "Morocco",
         "iso2_code": "MA",
+        "currency": "MAD",
         "og_price": {
             "Basic/Ads": 35,
             "Standard": 65,
@@ -1217,6 +1352,7 @@
     "MC": {
         "full_name": "Monaco",
         "iso2_code": "MC",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 10.99,
             "Standard": 13.49,
@@ -1224,8 +1360,9 @@
         }
     },
     "MD": {
-        "full_name": "Moldova, Republic of",
+        "full_name": "Moldova",
         "iso2_code": "MD",
+        "currency": " Republic of",
         "og_price": {
             "Basic/Ads": 7.99,
             "Standard": 9.99,
@@ -1235,6 +1372,7 @@
     "ME": {
         "full_name": "Montenegro",
         "iso2_code": "ME",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 4.99,
             "Standard": 7.99,
@@ -1244,6 +1382,7 @@
     "MF": {
         "full_name": "Saint Martin (French part)",
         "iso2_code": "MF",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 5.99,
@@ -1253,6 +1392,7 @@
     "MG": {
         "full_name": "Madagascar",
         "iso2_code": "MG",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1262,6 +1402,7 @@
     "MH": {
         "full_name": "Marshall Islands",
         "iso2_code": "MH",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 7.99,
             "Standard": 17.99,
@@ -1269,8 +1410,9 @@
         }
     },
     "MK": {
-        "full_name": "Macedonia, the Former Yugoslav Republic of",
+        "full_name": "Macedonia",
         "iso2_code": "MK",
+        "currency": " the Former Yugoslav Republic of",
         "og_price": {
             "Basic/Ads": 4.99,
             "Standard": 7.99,
@@ -1280,6 +1422,7 @@
     "ML": {
         "full_name": "Mali",
         "iso2_code": "ML",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1289,6 +1432,7 @@
     "MM": {
         "full_name": "Myanmar",
         "iso2_code": "MM",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1298,6 +1442,7 @@
     "MN": {
         "full_name": "Mongolia",
         "iso2_code": "MN",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1307,6 +1452,7 @@
     "MO": {
         "full_name": "Macao",
         "iso2_code": "MO",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 7.99,
             "Standard": 9.99,
@@ -1316,6 +1462,7 @@
     "MP": {
         "full_name": "Northern Mariana Islands",
         "iso2_code": "MP",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 7.99,
             "Standard": 17.99,
@@ -1325,6 +1472,7 @@
     "MQ": {
         "full_name": "Martinique",
         "iso2_code": "MQ",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 10.99,
             "Standard": 13.49,
@@ -1334,6 +1482,7 @@
     "MR": {
         "full_name": "Mauritania",
         "iso2_code": "MR",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1343,6 +1492,7 @@
     "MS": {
         "full_name": "Montserrat",
         "iso2_code": "MS",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 10.99,
             "Standard": 15.49,
@@ -1352,6 +1502,7 @@
     "MT": {
         "full_name": "Malta",
         "iso2_code": "MT",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 8.99,
             "Standard": 13.99,
@@ -1361,6 +1512,7 @@
     "MU": {
         "full_name": "Mauritius",
         "iso2_code": "MU",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1370,6 +1522,7 @@
     "MV": {
         "full_name": "Maldives",
         "iso2_code": "MV",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 10.99,
             "Standard": 13.99,
@@ -1379,6 +1532,7 @@
     "MW": {
         "full_name": "Malawi",
         "iso2_code": "MW",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1388,6 +1542,7 @@
     "MX": {
         "full_name": "Mexico",
         "iso2_code": "MX",
+        "currency": "MXP",
         "og_price": {
             "Basic/Ads": 119,
             "Standard": 249,
@@ -1397,6 +1552,7 @@
     "MY": {
         "full_name": "Malaysia",
         "iso2_code": "MY",
+        "currency": "MYR",
         "og_price": {
             "Basic/Ads": 29.9,
             "Standard": 49.9,
@@ -1406,6 +1562,7 @@
     "MZ": {
         "full_name": "Mozambique",
         "iso2_code": "MZ",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1415,6 +1572,7 @@
     "NA": {
         "full_name": "Namibia",
         "iso2_code": "NA",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1424,6 +1582,7 @@
     "NC": {
         "full_name": "New Caledonia",
         "iso2_code": "NC",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 10.99,
             "Standard": 13.99,
@@ -1433,6 +1592,7 @@
     "NE": {
         "full_name": "Niger",
         "iso2_code": "NE",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1442,6 +1602,7 @@
     "NF": {
         "full_name": "Norfolk Island",
         "iso2_code": "NF",
+        "currency": "AUD",
         "og_price": {
             "Basic/Ads": 12.99,
             "Standard": 18.99,
@@ -1451,6 +1612,7 @@
     "NG": {
         "full_name": "Nigeria",
         "iso2_code": "NG",
+        "currency": "NGN",
         "og_price": {
             "Basic/Ads": 3500,
             "Standard": 5500,
@@ -1460,6 +1622,7 @@
     "NI": {
         "full_name": "Nicaragua",
         "iso2_code": "NI",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 4.99,
             "Standard": 6.99,
@@ -1469,6 +1632,7 @@
     "NL": {
         "full_name": "Netherlands",
         "iso2_code": "NL",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 8.99,
             "Standard": 13.99,
@@ -1478,6 +1642,7 @@
     "NO": {
         "full_name": "Norway",
         "iso2_code": "NO",
+        "currency": "NOK",
         "og_price": {
             "Basic/Ads": 99,
             "Standard": 129,
@@ -1487,6 +1652,7 @@
     "NP": {
         "full_name": "Nepal",
         "iso2_code": "NP",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1496,6 +1662,7 @@
     "NR": {
         "full_name": "Nauru",
         "iso2_code": "NR",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 10.99,
             "Standard": 13.99,
@@ -1505,6 +1672,7 @@
     "NU": {
         "full_name": "Niue",
         "iso2_code": "NU",
+        "currency": "NZD",
         "og_price": {
             "Basic/Ads": 14.99,
             "Standard": 20.99,
@@ -1514,6 +1682,7 @@
     "NZ": {
         "full_name": "New Zealand",
         "iso2_code": "NZ",
+        "currency": "NZD",
         "og_price": {
             "Basic/Ads": 14.99,
             "Standard": 20.99,
@@ -1523,6 +1692,7 @@
     "OM": {
         "full_name": "Oman",
         "iso2_code": "OM",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 8.39,
             "Standard": 10.49,
@@ -1532,6 +1702,7 @@
     "PA": {
         "full_name": "Panama",
         "iso2_code": "PA",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 5.99,
             "Standard": 9.99,
@@ -1541,6 +1712,7 @@
     "PE": {
         "full_name": "Peru",
         "iso2_code": "PE",
+        "currency": "PEN",
         "og_price": {
             "Basic/Ads": 28.9,
             "Standard": 40.9,
@@ -1550,6 +1722,7 @@
     "PF": {
         "full_name": "French Polynesia",
         "iso2_code": "PF",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 10.99,
             "Standard": 13.99,
@@ -1559,6 +1732,7 @@
     "PG": {
         "full_name": "Papua New Guinea",
         "iso2_code": "PG",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1568,6 +1742,7 @@
     "PH": {
         "full_name": "Philippines",
         "iso2_code": "PH",
+        "currency": "PHP",
         "og_price": {
             "Basic/Ads": 249,
             "Standard": 399,
@@ -1577,6 +1752,7 @@
     "PK": {
         "full_name": "Pakistan",
         "iso2_code": "PK",
+        "currency": "PKR",
         "og_price": {
             "Basic/Ads": 450,
             "Standard": 800,
@@ -1586,6 +1762,7 @@
     "PL": {
         "full_name": "Poland",
         "iso2_code": "PL",
+        "currency": "PLN",
         "og_price": {
             "Basic/Ads": 33,
             "Standard": 49,
@@ -1595,6 +1772,7 @@
     "PM": {
         "full_name": "Saint Pierre and Miquelon",
         "iso2_code": "PM",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 10.99,
             "Standard": 13.49,
@@ -1604,6 +1782,7 @@
     "PN": {
         "full_name": "Pitcairn",
         "iso2_code": "PN",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1613,6 +1792,7 @@
     "PR": {
         "full_name": "Puerto Rico",
         "iso2_code": "PR",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 7.99,
             "Standard": 17.99,
@@ -1620,8 +1800,9 @@
         }
     },
     "PS": {
-        "full_name": "Palestine, State of",
+        "full_name": "Palestine",
         "iso2_code": "PS",
+        "currency": " State of",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1631,6 +1812,7 @@
     "PT": {
         "full_name": "Portugal",
         "iso2_code": "PT",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 8.99,
             "Standard": 12.99,
@@ -1640,6 +1822,7 @@
     "PW": {
         "full_name": "Palau",
         "iso2_code": "PW",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 7.99,
             "Standard": 17.99,
@@ -1649,6 +1832,7 @@
     "PY": {
         "full_name": "Paraguay",
         "iso2_code": "PY",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 5.99,
@@ -1658,6 +1842,7 @@
     "QA": {
         "full_name": "Qatar",
         "iso2_code": "QA",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 8.99,
             "Standard": 11.99,
@@ -1667,6 +1852,7 @@
     "RE": {
         "full_name": "Réunion",
         "iso2_code": "RE",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 10.99,
             "Standard": 13.49,
@@ -1676,6 +1862,7 @@
     "RO": {
         "full_name": "Romania",
         "iso2_code": "RO",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 5.99,
             "Standard": 10.99,
@@ -1685,6 +1872,7 @@
     "RS": {
         "full_name": "Serbia",
         "iso2_code": "RS",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 4.99,
             "Standard": 7.99,
@@ -1694,6 +1882,7 @@
     "RW": {
         "full_name": "Rwanda",
         "iso2_code": "RW",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1703,6 +1892,7 @@
     "SA": {
         "full_name": "Saudi Arabia",
         "iso2_code": "SA",
+        "currency": "SAR",
         "og_price": {
             "Basic/Ads": 35,
             "Standard": 49,
@@ -1712,6 +1902,7 @@
     "SB": {
         "full_name": "Solomon Islands",
         "iso2_code": "SB",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1721,6 +1912,7 @@
     "SC": {
         "full_name": "Seychelles",
         "iso2_code": "SC",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1730,6 +1922,7 @@
     "SD": {
         "full_name": "Sudan",
         "iso2_code": "SD",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1739,6 +1932,7 @@
     "SE": {
         "full_name": "Sweden",
         "iso2_code": "SE",
+        "currency": "SEK",
         "og_price": {
             "Basic/Ads": 109,
             "Standard": 149,
@@ -1748,6 +1942,7 @@
     "SG": {
         "full_name": "Singapore",
         "iso2_code": "SG",
+        "currency": "SGD",
         "og_price": {
             "Basic/Ads": 13.98,
             "Standard": 19.98,
@@ -1755,8 +1950,9 @@
         }
     },
     "SH": {
-        "full_name": "Saint Helena, Ascension and Tristan da Cunha",
+        "full_name": "Saint Helena",
         "iso2_code": "SH",
+        "currency": " Ascension and Tristan da Cunha",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1766,6 +1962,7 @@
     "SI": {
         "full_name": "Slovenia",
         "iso2_code": "SI",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 4.99,
             "Standard": 7.99,
@@ -1775,6 +1972,7 @@
     "SJ": {
         "full_name": "Svalbard and Jan Mayen",
         "iso2_code": "SJ",
+        "currency": "NOK",
         "og_price": {
             "Basic/Ads": 99,
             "Standard": 129,
@@ -1784,6 +1982,7 @@
     "SK": {
         "full_name": "Slovakia",
         "iso2_code": "SK",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 9.49,
             "Standard": 11.49,
@@ -1793,6 +1992,7 @@
     "SL": {
         "full_name": "Sierra Leone",
         "iso2_code": "SL",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1802,6 +2002,7 @@
     "SM": {
         "full_name": "San Marino",
         "iso2_code": "SM",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 6.99,
             "Standard": 13.99,
@@ -1811,6 +2012,7 @@
     "SN": {
         "full_name": "Senegal",
         "iso2_code": "SN",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1820,6 +2022,7 @@
     "SO": {
         "full_name": "Somalia",
         "iso2_code": "SO",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1829,6 +2032,7 @@
     "SR": {
         "full_name": "Suriname",
         "iso2_code": "SR",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 5.99,
@@ -1838,6 +2042,7 @@
     "SS": {
         "full_name": "South Sudan",
         "iso2_code": "SS",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1847,6 +2052,7 @@
     "ST": {
         "full_name": "Sao Tome and Principe",
         "iso2_code": "ST",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1856,6 +2062,7 @@
     "SV": {
         "full_name": "El Salvador",
         "iso2_code": "SV",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 5.99,
             "Standard": 8.99,
@@ -1865,6 +2072,7 @@
     "SX": {
         "full_name": "Sint Maarten (Dutch part)",
         "iso2_code": "SX",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 10.99,
             "Standard": 15.49,
@@ -1874,6 +2082,7 @@
     "SZ": {
         "full_name": "Eswatini",
         "iso2_code": "SZ",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1883,6 +2092,7 @@
     "TC": {
         "full_name": "Turks and Caicos Islands",
         "iso2_code": "TC",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 10.99,
             "Standard": 15.49,
@@ -1892,6 +2102,7 @@
     "TD": {
         "full_name": "Chad",
         "iso2_code": "TD",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1901,6 +2112,7 @@
     "TF": {
         "full_name": "French Southern Territories",
         "iso2_code": "TF",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 5.99,
             "Standard": 13.49,
@@ -1910,6 +2122,7 @@
     "TG": {
         "full_name": "Togo",
         "iso2_code": "TG",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1919,6 +2132,7 @@
     "TH": {
         "full_name": "Thailand",
         "iso2_code": "TH",
+        "currency": "THB",
         "og_price": {
             "Basic/Ads": 169,
             "Standard": 349,
@@ -1928,6 +2142,7 @@
     "TJ": {
         "full_name": "Tajikistan",
         "iso2_code": "TJ",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 9.39,
             "Standard": 11.79,
@@ -1937,6 +2152,7 @@
     "TK": {
         "full_name": "Tokelau",
         "iso2_code": "TK",
+        "currency": "NZD",
         "og_price": {
             "Basic/Ads": 14.99,
             "Standard": 20.99,
@@ -1946,6 +2162,7 @@
     "TL": {
         "full_name": "Timor-Leste",
         "iso2_code": "TL",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1955,6 +2172,7 @@
     "TM": {
         "full_name": "Turkmenistan",
         "iso2_code": "TM",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 7.99,
             "Standard": 9.99,
@@ -1964,6 +2182,7 @@
     "TN": {
         "full_name": "Tunisia",
         "iso2_code": "TN",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1973,6 +2192,7 @@
     "TO": {
         "full_name": "Tonga",
         "iso2_code": "TO",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -1982,6 +2202,7 @@
     "TR": {
         "full_name": "Turkey",
         "iso2_code": "TR",
+        "currency": "TRY",
         "og_price": {
             "Basic/Ads": 149.99,
             "Standard": 229.99,
@@ -1991,6 +2212,7 @@
     "TT": {
         "full_name": "Trinidad and Tobago",
         "iso2_code": "TT",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 10.99,
             "Standard": 15.49,
@@ -2000,6 +2222,7 @@
     "TV": {
         "full_name": "Tuvalu",
         "iso2_code": "TV",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -2007,8 +2230,9 @@
         }
     },
     "TW": {
-        "full_name": "Taiwan, Province of China",
+        "full_name": "Taiwan",
         "iso2_code": "TW",
+        "currency": "TWD",
         "og_price": {
             "Basic/Ads": 290,
             "Standard": 380,
@@ -2016,8 +2240,9 @@
         }
     },
     "TZ": {
-        "full_name": "Tanzania, United Republic of",
+        "full_name": "Tanzania",
         "iso2_code": "TZ",
+        "currency": " United Republic of",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -2027,6 +2252,7 @@
     "UA": {
         "full_name": "Ukraine",
         "iso2_code": "UA",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 4.99,
             "Standard": 7.49,
@@ -2036,6 +2262,7 @@
     "UG": {
         "full_name": "Uganda",
         "iso2_code": "UG",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -2045,6 +2272,7 @@
     "UM": {
         "full_name": "United States Minor Outlying Islands",
         "iso2_code": "UM",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 11.99,
             "Standard": 17.99,
@@ -2054,6 +2282,7 @@
     "US": {
         "full_name": "United States",
         "iso2_code": "US",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 7.99,
             "Standard": 17.99,
@@ -2063,6 +2292,7 @@
     "UY": {
         "full_name": "Uruguay",
         "iso2_code": "UY",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 9.99,
             "Standard": 13.99,
@@ -2072,6 +2302,7 @@
     "UZ": {
         "full_name": "Uzbekistan",
         "iso2_code": "UZ",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 7.99,
             "Standard": 9.99,
@@ -2081,6 +2312,7 @@
     "VA": {
         "full_name": "Holy See (Vatican City State)",
         "iso2_code": "VA",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 6.99,
             "Standard": 13.99,
@@ -2090,6 +2322,7 @@
     "VC": {
         "full_name": "Saint Vincent and the Grenadines",
         "iso2_code": "VC",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 5.99,
@@ -2097,8 +2330,9 @@
         }
     },
     "VE": {
-        "full_name": "Venezuela, Bolivarian Republic of",
+        "full_name": "Venezuela",
         "iso2_code": "VE",
+        "currency": " Bolivarian Republic of",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 5.99,
@@ -2106,8 +2340,9 @@
         }
     },
     "VG": {
-        "full_name": "Virgin Islands, British",
+        "full_name": "Virgin Islands",
         "iso2_code": "VG",
+        "currency": " British",
         "og_price": {
             "Basic/Ads": 10.99,
             "Standard": 15.49,
@@ -2115,8 +2350,9 @@
         }
     },
     "VI": {
-        "full_name": "Virgin Islands, U.S.",
+        "full_name": "Virgin Islands",
         "iso2_code": "VI",
+        "currency": " U.S.",
         "og_price": {
             "Basic/Ads": 7.99,
             "Standard": 17.99,
@@ -2126,6 +2362,7 @@
     "VN": {
         "full_name": "Viet Nam",
         "iso2_code": "VN",
+        "currency": "VND",
         "og_price": {
             "Basic/Ads": 108000,
             "Standard": 220000,
@@ -2135,6 +2372,7 @@
     "VU": {
         "full_name": "Vanuatu",
         "iso2_code": "VU",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -2144,6 +2382,7 @@
     "WF": {
         "full_name": "Wallis and Futuna",
         "iso2_code": "WF",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -2153,6 +2392,7 @@
     "WS": {
         "full_name": "Samoa",
         "iso2_code": "WS",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -2162,6 +2402,7 @@
     "YE": {
         "full_name": "Yemen",
         "iso2_code": "YE",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -2171,6 +2412,7 @@
     "YT": {
         "full_name": "Mayotte",
         "iso2_code": "YT",
+        "currency": "EUR",
         "og_price": {
             "Basic/Ads": 10.99,
             "Standard": 13.49,
@@ -2180,6 +2422,7 @@
     "ZA": {
         "full_name": "South Africa",
         "iso2_code": "ZA",
+        "currency": "ZAR",
         "og_price": {
             "Basic/Ads": 99,
             "Standard": 159,
@@ -2189,6 +2432,7 @@
     "ZM": {
         "full_name": "Zambia",
         "iso2_code": "ZM",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
@@ -2198,6 +2442,7 @@
     "ZW": {
         "full_name": "Zimbabwe",
         "iso2_code": "ZW",
+        "currency": "USD",
         "og_price": {
             "Basic/Ads": 3.99,
             "Standard": 7.99,
