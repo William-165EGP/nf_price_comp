@@ -29,7 +29,7 @@ def get_current_price(country_codes):
 #                print(pricing_sections)
                 plan_names = []
                 standard_plan_name = 'Standard with ads'
-                emergency_plan_name = 'Emergency Plan'
+#                emergency_plan_name = 'Emergency Plan'
                 for i in range(len(pricing_sections)):
                     raw_price = pricing_sections[i]
                     raw_plan_name = pricing_sections[i].find_parent('p').text
@@ -37,7 +37,7 @@ def get_current_price(country_codes):
                     if len(plan_name) > 8:
                         plan_name = standard_plan_name
                     plan_names.append(plan_name)
-                    print(country_code,raw_plan_name)
+#                    print(country_code,raw_plan_name)
                     # time.sleep(15)
                     #                print(raw_price)
                     # print(raw_text)
