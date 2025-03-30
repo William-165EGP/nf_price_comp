@@ -27,14 +27,18 @@ def get_current_price(country_codes):
                 test=pricing_sections[len(pricing_sections)-1]
 #                print(len(pricing_sections))
 #                print(pricing_sections)
-                if len(pricing_sections) == 4:
-                    plan_names = ['Mobile', 'Basic/Ads', 'Standard', 'Premium']
-                    start = 0
-                else:
-                    plan_names = ['Basic/Ads', 'Standard', 'Premium']
-                    start = 0
-                for i in range(start, len(pricing_sections)):
+                plan_names = []
+                standard_plan_name = 'Standard with ads'
+                emergency_plan_name = 'Emergency Plan'
+                for i in range(len(pricing_sections)):
                     raw_price = pricing_sections[i]
+                    raw_plan_name = pricing_sections[i].find_parent('p').text
+                    plan_name = raw_plan_name.split(":")[0].strip()
+                    if len(plan_name) > 8:
+                        plan_name = standard_plan_name
+                    plan_names.append(plan_name)
+                    print(country_code,raw_plan_name)
+                    # time.sleep(15)
                     #                print(raw_price)
                     # print(raw_text)
                     # print(one_country, plan_name, raw_price)
