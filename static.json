@@ -454,9 +454,9 @@
         "iso2_code": "CK",
         "currency": "NZD",
         "og_price": {
-            "Basic": 14.99,
-            "Standard": 20.99,
-            "Premium": 27.99
+            "Basic": 17.99,
+            "Standard": 25.99,
+            "Premium": 33.99
         }
     },
     "CL": {
@@ -1714,9 +1714,9 @@
         "iso2_code": "NU",
         "currency": "NZD",
         "og_price": {
-            "Basic": 14.99,
-            "Standard": 20.99,
-            "Premium": 27.99
+            "Basic": 17.99,
+            "Standard": 25.99,
+            "Premium": 33.99
         }
     },
     "NZ": {
@@ -1724,9 +1724,9 @@
         "iso2_code": "NZ",
         "currency": "NZD",
         "og_price": {
-            "Basic": 14.99,
-            "Standard": 20.99,
-            "Premium": 27.99
+            "Basic": 17.99,
+            "Standard": 25.99,
+            "Premium": 33.99
         }
     },
     "OM": {
@@ -2208,9 +2208,9 @@
         "iso2_code": "TK",
         "currency": "NZD",
         "og_price": {
-            "Basic": 14.99,
-            "Standard": 20.99,
-            "Premium": 27.99
+            "Basic": 17.99,
+            "Standard": 25.99,
+            "Premium": 33.99
         }
     },
     "TL": {
