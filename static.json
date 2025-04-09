@@ -285,9 +285,9 @@
         }
     },
     "BO": {
-        "full_name": "Bolivia",
+        "full_name": "Bolivia, Plurinational State of",
         "iso2_code": "BO",
-        "currency": " Plurinational State of",
+        "currency": "USD",
         "og_price": {
             "Basic": 3.99,
             "Standard": 5.99,
@@ -295,9 +295,9 @@
         }
     },
     "BQ": {
-        "full_name": "Bonaire",
+        "full_name": "Bonaire, Sint Eustatius and Saba",
         "iso2_code": "BQ",
-        "currency": " Sint Eustatius and Saba",
+        "currency": "USD",
         "og_price": {
             "Basic": 10.99,
             "Standard": 15.49,
@@ -396,9 +396,9 @@
         }
     },
     "CD": {
-        "full_name": "Congo",
+        "full_name": "Congo, the Democratic Republic of the",
         "iso2_code": "CD",
-        "currency": " the Democratic Republic of the",
+        "currency": "USD",
         "og_price": {
             "Mobile": 2.99,
             "Basic": 3.99,
@@ -725,9 +725,9 @@
         }
     },
     "FM": {
-        "full_name": "Micronesia",
+        "full_name": "Micronesia, Federated States of",
         "iso2_code": "FM",
-        "currency": " Federated States of",
+        "currency": "USD",
         "og_price": {
             "Standard with ads": 7.99,
             "Standard": 17.99,
@@ -1083,9 +1083,9 @@
         }
     },
     "IR": {
-        "full_name": "Iran",
+        "full_name": "Iran, Islamic Republic of",
         "iso2_code": "IR",
-        "currency": " Islamic Republic of",
+        "currency": "USD",
         "og_price": {
             "Basic": 3.99,
             "Standard": 7.99,
@@ -1215,9 +1215,9 @@
         }
     },
     "KR": {
-        "full_name": "Korea",
+        "full_name": "Korea, Republic of",
         "iso2_code": "KR",
-        "currency": " Republic of",
+        "currency": "KRW",
         "og_price": {
             "Standard with ads": 5500,
             "Standard": 13500,
@@ -1387,9 +1387,9 @@
         }
     },
     "MD": {
-        "full_name": "Moldova",
+        "full_name": "Moldova, Republic of",
         "iso2_code": "MD",
-        "currency": " Republic of",
+        "currency": "EUR",
         "og_price": {
             "Basic": 7.99,
             "Standard": 9.99,
@@ -1438,9 +1438,9 @@
         }
     },
     "MK": {
-        "full_name": "Macedonia",
+        "full_name": "Macedonia, the Former Yugoslav Republic of",
         "iso2_code": "MK",
-        "currency": " the Former Yugoslav Republic of",
+        "currency": "EUR",
         "og_price": {
             "Basic": 4.99,
             "Standard": 7.99,
@@ -1842,9 +1842,9 @@
         }
     },
     "PS": {
-        "full_name": "Palestine",
+        "full_name": "Palestine, State of",
         "iso2_code": "PS",
-        "currency": " State of",
+        "currency": "USD",
         "og_price": {
             "Basic": 3.99,
             "Standard": 7.99,
@@ -1994,9 +1994,9 @@
         }
     },
     "SH": {
-        "full_name": "Saint Helena",
+        "full_name": "Saint Helena, Ascension and Tristan da Cunha",
         "iso2_code": "SH",
-        "currency": " Ascension and Tristan da Cunha",
+        "currency": "USD",
         "og_price": {
             "Mobile": 2.99,
             "Basic": 3.99,
@@ -2294,9 +2294,9 @@
         }
     },
     "TZ": {
-        "full_name": "Tanzania",
+        "full_name": "Tanzania, United Republic of",
         "iso2_code": "TZ",
-        "currency": " United Republic of",
+        "currency": "USD",
         "og_price": {
             "Mobile": 2.99,
             "Basic": 3.99,
@@ -2386,9 +2386,9 @@
         }
     },
     "VE": {
-        "full_name": "Venezuela",
+        "full_name": "Venezuela, Bolivarian Republic of",
         "iso2_code": "VE",
-        "currency": " Bolivarian Republic of",
+        "currency": "USD",
         "og_price": {
             "Basic": 3.99,
             "Standard": 5.99,
@@ -2396,9 +2396,9 @@
         }
     },
     "VG": {
-        "full_name": "Virgin Islands",
+        "full_name": "Virgin Islands, British",
         "iso2_code": "VG",
-        "currency": " British",
+        "currency": "USD",
         "og_price": {
             "Basic": 10.99,
             "Standard": 15.49,
@@ -2406,9 +2406,9 @@
         }
     },
     "VI": {
-        "full_name": "Virgin Islands",
+        "full_name": "Virgin Islands, U.S.",
         "iso2_code": "VI",
-        "currency": " U.S.",
+        "currency": "USD",
         "og_price": {
             "Standard with ads": 7.99,
             "Standard": 17.99,
