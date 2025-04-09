@@ -74,7 +74,7 @@ def get_country_codes():
         country_codes = [line.strip().split(',', 1) for line in f.readlines()]
         for i in range(len(country_codes)):
             temp_one_country = country_codes[i]
-            temp_one_country[1]=temp_one_country[1].rsplit(',')
+            temp_one_country[1]=temp_one_country[1].rsplit(',', 1)
             #print(temp_one_country[1])
             country_codes[i] = [temp_one_country[0], temp_one_country[1][0], temp_one_country[1][1]]
         #print(country_codes)
