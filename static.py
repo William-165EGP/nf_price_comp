@@ -31,11 +31,12 @@ def get_current_price(country_codes):
                 standard_plan_name = 'Standard with ads'
 #                emergency_plan_name = 'Emergency Plan'
                 # special case for some countries, currency found south africa
-                if country_code == 'za':
+                if country_code == 'ZA':
                     try:
                         outside_raw_price = soup.select_one(
                             'body > div.global-container > div.global-content > div > div.pane-wrapper > div > div.left-pane > section.kb-article.kb-article-variant.gradient.sprinklr > div > div > div:nth-child(3) > ul > li:nth-child(1) > p').get_text()
                         outside_price = re.sub(r"[^\d.,]", "", outside_raw_price)
+
                         if ',' in outside_price:
                             if len(outside_price[outside_price.index(',') + 1:]) == 2:
                                 outside_price = outside_price.replace(',', '.')
@@ -81,7 +82,7 @@ def get_current_price(country_codes):
                 country_full_info['currency'] = one_country[2]
                 country_full_info['og_price'] = price_plans
                 price_list[country_code] = country_full_info
-#                print(price_list[country_code])
+                print(price_list[country_code])
 
         else:
             print("Request failed.")
