@@ -31,7 +31,7 @@ def get_current_price(country_codes):
                 standard_plan_name = 'Standard with ads'
 #                emergency_plan_name = 'Emergency Plan'
                 # special case for some countries, currency found south africa
-                if one_country[1] == 'ZA':
+                if country_code == 'ZA':
                     try:
                         outside_raw_price = soup.select_one(
                             'div > div > div > div > section > div > ul > li > p').get_text()
