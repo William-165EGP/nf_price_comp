@@ -2481,6 +2481,7 @@
         "iso2_code": "ZA",
         "currency": "ZAR",
         "og_price": {
+            "Mobile": 49,
             "Basic": 99,
             "Standard": 159,
             "Premium": 199
