@@ -34,7 +34,7 @@ def get_current_price(country_codes):
                 if country_code == 'za':
                     try:
                         outside_raw_price = soup.select_one(
-                            'div > div > div > div > section > div > ul > li > p').get_text()
+                            'body > div.global-container > div.global-content > div > div.pane-wrapper > div > div.left-pane > section.kb-article.kb-article-variant.gradient.sprinklr > div > div > div:nth-child(3) > ul > li:nth-child(1) > p').get_text()
                         outside_price = re.sub(r"[^\d.,]", "", outside_raw_price)
                         if ',' in outside_price:
                             if len(outside_price[outside_price.index(',') + 1:]) == 2:
