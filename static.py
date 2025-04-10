@@ -33,7 +33,7 @@ def get_current_price(country_codes):
                 # special case for some countries, currency found south africa
                 if one_country[1] == 'ZA':
                     outside_raw_price = soup.select_one('div > div > div > div > section > div > ul > li > p').get_text()
-                    outside_price = re.sub(r"[^\d.,]", "", raw_price)
+                    outside_price = re.sub(r"[^\d.,]", "", outside_raw_price)
                     if ',' in outside_price:
                         if len(outside_price[outside_price.index(',') + 1:]) == 2:
                             outside_price = outside_price.replace(',', '.')
