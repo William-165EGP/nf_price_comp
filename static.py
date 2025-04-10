@@ -30,6 +30,19 @@ def get_current_price(country_codes):
                 plan_names = []
                 standard_plan_name = 'Standard with ads'
 #                emergency_plan_name = 'Emergency Plan'
+                # special case for some countries, currency found south africa
+                if one_country[1] == 'ZA':
+                    outside_raw_price = soup.select_one('div > div > div > div > section > div > ul > li > p').get_text()
+                    outside_price = re.sub(r"[^\d.,]", "", raw_price)
+                    if ',' in outside_price:
+                        if len(outside_price[outside_price.index(',') + 1:]) == 2:
+                            outside_price = outside_price.replace(',', '.')
+                        else:
+                            outside_price = outside_price.replace(',', '')
+                    if '.' in outside_price:
+                        price_plans['Mobile'] = float(outside_price)
+                    else:
+                        price_plans['Mobile'] = int(outside_price)
                 for i in range(len(pricing_sections)):
                     raw_price = pricing_sections[i]
                     raw_plan_name = pricing_sections[i].find_parent('p').text
