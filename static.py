@@ -82,7 +82,7 @@ def get_current_price(country_codes):
                 country_full_info['currency'] = one_country[2]
                 country_full_info['og_price'] = price_plans
                 price_list[country_code] = country_full_info
-                print(price_list[country_code])
+                # print(price_list[country_code])
 
         else:
             print("Request failed.")
