@@ -34,7 +34,8 @@ with StringIO(csv_data) as csvfile:
     reader = csv.reader(csvfile)
     for row in reader:
 #        print(row)
-        currency_codes[row[1]] = row[2]
+        if row[1] not in currency_codes:
+            currency_codes[row[1]] = row[2]
 
 #print(currency_codes)
 
