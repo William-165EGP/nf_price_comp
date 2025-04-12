@@ -27,6 +27,7 @@ currency_codes = {
     'Thai Baht' : 'THB',
     'Vietnamese Dong' : 'VND',
     'South African Rand' : 'ZAR',
+    'Mexican Peso' : 'MXN',
 }
 
 with StringIO(csv_data) as csvfile:
