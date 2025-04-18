@@ -749,9 +749,9 @@
         "iso2_code": "FR",
         "currency": "EUR",
         "og_price": {
-            "Standard with ads": 5.99,
-            "Standard": 13.49,
-            "Premium": 19.99
+            "Standard with ads": 7.99,
+            "Standard": 14.99,
+            "Premium": 21.99
         }
     },
     "GA": {
@@ -800,9 +800,9 @@
         "iso2_code": "GF",
         "currency": "EUR",
         "og_price": {
-            "Basic": 10.99,
-            "Standard": 13.49,
-            "Premium": 17.99
+            "Basic": 11.99,
+            "Standard": 14.99,
+            "Premium": 21.99
         }
     },
     "GG": {
@@ -873,9 +873,9 @@
         "iso2_code": "GP",
         "currency": "EUR",
         "og_price": {
-            "Basic": 10.99,
-            "Standard": 13.49,
-            "Premium": 17.99
+            "Basic": 11.99,
+            "Standard": 14.99,
+            "Premium": 21.99
         }
     },
     "GQ": {
@@ -1381,9 +1381,9 @@
         "iso2_code": "MC",
         "currency": "EUR",
         "og_price": {
-            "Basic": 10.99,
-            "Standard": 13.49,
-            "Premium": 19.99
+            "Basic": 11.99,
+            "Standard": 14.99,
+            "Premium": 21.99
         }
     },
     "MD": {
@@ -1503,9 +1503,9 @@
         "iso2_code": "MQ",
         "currency": "EUR",
         "og_price": {
-            "Basic": 10.99,
-            "Standard": 13.49,
-            "Premium": 17.99
+            "Basic": 11.99,
+            "Standard": 14.99,
+            "Premium": 21.99
         }
     },
     "MR": {
@@ -1816,9 +1816,9 @@
         "iso2_code": "PM",
         "currency": "EUR",
         "og_price": {
-            "Basic": 10.99,
-            "Standard": 13.49,
-            "Premium": 19.99
+            "Basic": 11.99,
+            "Standard": 14.99,
+            "Premium": 21.99
         }
     },
     "PN": {
@@ -1988,9 +1988,9 @@
         "iso2_code": "SG",
         "currency": "SGD",
         "og_price": {
-            "Basic": 13.98,
-            "Standard": 19.98,
-            "Premium": 25.98
+            "Basic": 15.98,
+            "Standard": 22.98,
+            "Premium": 29.98
         }
     },
     "SH": {
@@ -2166,9 +2166,9 @@
         "iso2_code": "TF",
         "currency": "EUR",
         "og_price": {
-            "Standard with ads": 5.99,
-            "Standard": 13.49,
-            "Premium": 19.99
+            "Standard with ads": 7.99,
+            "Standard": 14.99,
+            "Premium": 21.99
         }
     },
     "TG": {
@@ -2471,9 +2471,9 @@
         "iso2_code": "YT",
         "currency": "EUR",
         "og_price": {
-            "Basic": 10.99,
-            "Standard": 13.49,
-            "Premium": 17.99
+            "Basic": 11.99,
+            "Standard": 14.99,
+            "Premium": 21.99
         }
     },
     "ZA": {
