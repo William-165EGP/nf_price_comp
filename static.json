@@ -1785,10 +1785,10 @@
         "iso2_code": "PH",
         "currency": "PHP",
         "og_price": {
-            "Mobile": 149,
-            "Basic": 249,
-            "Standard": 399,
-            "Premium": 549
+            "Mobile": 169,
+            "Basic": 279,
+            "Standard": 449,
+            "Premium": 619
         }
     },
     "PK": {
