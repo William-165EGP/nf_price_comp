@@ -1219,7 +1219,7 @@
         "iso2_code": "KR",
         "currency": "KRW",
         "og_price": {
-            "Standard with ads": 5500,
+            "Standard with ads": 7000,
             "Standard": 13500,
             "Premium": 17000
         }
@@ -2481,10 +2481,9 @@
         "iso2_code": "ZA",
         "currency": "ZAR",
         "og_price": {
-            "Mobile": 49,
             "Basic": 99,
-            "Standard": 159,
-            "Premium": 199
+            "Standard": 179,
+            "Premium": 229
         }
     },
     "ZM": {
