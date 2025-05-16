@@ -2350,9 +2350,9 @@
         "iso2_code": "UY",
         "currency": "USD",
         "og_price": {
-            "Basic": 9.99,
-            "Standard": 13.99,
-            "Premium": 17.99
+            "Basic": 11.99,
+            "Standard": 16.99,
+            "Premium": 21.99
         }
     },
     "UZ": {
