@@ -1652,10 +1652,10 @@
         "iso2_code": "NG",
         "currency": "NGN",
         "og_price": {
-            "Mobile": 2200,
-            "Basic": 3500,
-            "Standard": 5500,
-            "Premium": 7000
+            "Mobile": 2500,
+            "Basic": 4000,
+            "Standard": 6500,
+            "Premium": 8500
         }
     },
     "NI": {
