@@ -1,4 +1,4 @@
-name: Purge Cloudflare Cache
+name: Purge Cloudflare + Clear R2 Cache
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  purge:
+  purge-cloudflare:
     name: Purge Cloudflare Edge Cache
     runs-on: ubuntu-latest
 
@@ -16,3 +16,31 @@ jobs:
         with:
           cf_zone: ${{ secrets.CLOUDFLARE_ZONE_ID }}
           cf_auth: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+
+  clear-r2:
+    name: Clear R2 Bucket (fullcache/)
+    runs-on: ubuntu-latest
+    needs: purge-cloudflare
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install wrangler
+        run: npm install -g wrangler
+
+      - name: Create Wrangler config
+        run: |
+          echo "name = \"dummy\"" > wrangler.toml
+          echo "account_id = \"${{ secrets.CLOUDFLARE_ACCOUNT_ID }}\"" >> wrangler.toml
+          echo "r2_buckets = [{ binding = \"Netflix-Cache\", bucket_name = \"netflix-cache\" }]" >> wrangler.toml
+
+      - name: Authenticate with Wrangler
+        run: echo "// No login needed with API token from secrets"
+
+      - name: Delete fullcache/* from R2
+        run: |
+          wrangler r2 object list Netflix-Cache --prefix fullcache/ | \
+            jq -r '.[].key' | while read -r key; do
+              wrangler r2 object delete Netflix-Cache "$key"
+            done
