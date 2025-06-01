@@ -1,46 +1,34 @@
-name: Purge Cloudflare + Clear R2 Cache
+name: Purge Cloudflare R2 Cache
 
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
 
 jobs:
-  purge-cloudflare:
-    name: Purge Cloudflare Edge Cache
+  purge-r2:
     runs-on: ubuntu-latest
-
-    steps:
-      - name: Purge cache from Cloudflare by URL prefix
-        uses: nathanvaughn/actions-cloudflare-purge@master
-        with:
-          cf_zone: ${{ secrets.CLOUDFLARE_ZONE_ID }}
-          cf_auth: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-
-  clear-r2:
-    name: Clear R2 Bucket (fullcache/)
-    runs-on: ubuntu-latest
-    needs: purge-cloudflare
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
-      - name: Install wrangler
+      - name: Set up Wrangler
         run: npm install -g wrangler
 
-      - name: Create Wrangler config
-        run: |
-          echo "name = \"dummy\"" > wrangler.toml
-          echo "account_id = \"${{ secrets.CLOUDFLARE_ACCOUNT_ID }}\"" >> wrangler.toml
-          echo "r2_buckets = [{ binding = \"Netflix-Cache\", bucket_name = \"netflix-cache\" }]" >> wrangler.toml
-
       - name: Authenticate with Wrangler
-        run: echo "// No login needed with API token from secrets"
+        run: wrangler whoami
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
 
-      - name: Delete fullcache/* from R2
+      - name: List and delete R2 objects under fullcache/
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
         run: |
-          wrangler r2 object list Netflix-Cache --prefix fullcache/ | \
-            jq -r '.[].key' | while read -r key; do
-              wrangler r2 object delete Netflix-Cache "$key"
-            done
+          export BUCKET="Netflix-Cache"
+          wrangler r2 object list $BUCKET --json > objects.json
+          
+          cat objects.json | jq -r '.[] | select(.key | startswith("fullcache/")) | .key' > keys.txt
+
+          while read -r key; do
+            echo "Deleting: $key"
+            wrangler r2 object delete $BUCKET "$key"
+          done < keys.txt
