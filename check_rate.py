@@ -17,9 +17,10 @@ def load_last_rates():
             return data.get("twd", {})
     return {}
 
-def save_current_rates(rates):
+def save_current_rates():
+    response = requests.get(API_URL, timeout=5).json()
     with open(CACHE_FILE, "w") as f:
-        json.dump({ "twd": rates }, f)
+        json.dump(response, f)
 
 def has_significant_change(new_rates, old_rates, threshold=0.1):
     for k in new_rates:
@@ -50,7 +51,7 @@ if __name__ == "__main__":
 
     if has_significant_change(current, last):
         print("Significant rate change detected, committing new data")
-        save_current_rates(current)
+        save_current_rates()
         commit_and_push()
     else:
         print("No significant change in exchange rates")
