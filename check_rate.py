@@ -18,9 +18,9 @@ def load_last_rates():
     return {}
 
 def save_current_rates():
-    response = requests.get(API_URL, timeout=5).json()
-    with open(CACHE_FILE, "w") as f:
-        json.dump(response, f)
+    response = requests.get(API_URL, timeout=5)
+    with open(CACHE_FILE, "w", encoding="utf-8") as f:
+        f.write(response.text)
 
 def has_significant_change(new_rates, old_rates, threshold=0.1):
     for k in new_rates:
