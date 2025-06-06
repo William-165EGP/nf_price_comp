@@ -4,6 +4,8 @@ from bs4 import BeautifulSoup
 import re
 import json
 import os
+from datetime import datetime
+import csv
 
 def get_current_price(country_codes):
     price_list = {}
@@ -100,16 +102,75 @@ def get_country_codes():
     return country_codes
 
 def comparison(prev_price_list, cur_price_list):
-    msg = ''
-    if prev_price_list == cur_price_list:
-       return msg
-    else:
-        msg += 'List of different price:'
-        for key, value in prev_price_list.items():
-            if value != cur_price_list.get(key):
-                msg += '\nPrice of {} is different.'.format(key) + ' Fxxk you Netflix!!'
+    diffcsv_define = {
+        'Mobile': '_mobile',
+        'Basic': '_basic',
+        'Standard': '_standard',
+        'Standard with ads': '_standard_ads',
+        'Premium': '_premium',
+        'currency': '_currency',
+    }
 
+    now = datetime.now()
+    today = f"{now.year}-{now.month:02d}-{now.day:02d}"
+    msg = ''
+
+    for code in prev_price_list:
+        if code not in cur_price_list:
+            continue
+
+        prev_entry = prev_price_list[code]
+        cur_entry = cur_price_list[code]
+
+        prev_prices = prev_entry.get("og_price", {})
+        cur_prices = cur_entry.get("og_price", {})
+        prev_currency = prev_entry.get("currency")
+        cur_currency = cur_entry.get("currency")
+
+
+        if prev_prices == cur_prices and prev_currency == cur_currency:
+            continue
+
+        msg += f'\n[{code}] List of different price:'
+
+
+        row_data = {
+            'date': today,
+            'country_code': prev_entry.get("iso2_code", code),
+            'country_name': prev_entry.get("full_name", ""),
+            'old_mobile': '',
+            'old_basic': '',
+            'old_standard_ads': '',
+            'old_standard': '',
+            'old_premium': '',
+            'new_mobile': '',
+            'new_basic': '',
+            'new_standard_ads': '',
+            'new_standard': '',
+            'new_premium': '',
+            'old_currency': prev_currency,
+            'new_currency': cur_currency,
+        }
+
+        for key, suffix in diffcsv_define.items():
+            old_val = prev_prices.get(key) if key != 'currency' else prev_currency
+            new_val = cur_prices.get(key) if key != 'currency' else cur_currency
+
+            if old_val != new_val:
+                msg += f'\nPrice of {key} is different. Fxxk you Netflix!!'
+
+            old_col = 'old' + suffix
+            new_col = 'new' + suffix
+            row_data[old_col] = old_val
+            row_data[new_col] = new_val
+
+
+        with open("diffs.csv", mode='a', newline='', encoding='utf-8') as f:
+            writer = csv.DictWriter(f, fieldnames=row_data.keys())
+            writer.writerow(row_data)
+    # print(msg)
     return msg
+
 
 def sendMSG(token, msg):
     if not msg:
