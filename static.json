@@ -125,9 +125,9 @@
         "iso2_code": "AU",
         "currency": "AUD",
         "og_price": {
-            "Standard with ads": 7.99,
-            "Standard": 18.99,
-            "Premium": 25.99
+            "Standard with ads": 9.99,
+            "Standard": 20.99,
+            "Premium": 28.99
         }
     },
     "AW": {
