@@ -433,9 +433,9 @@
         "iso2_code": "CH",
         "currency": "CHF",
         "og_price": {
-            "Basic": 12.9,
-            "Standard": 20.9,
-            "Premium": 27.9
+            "Basic": 14.9,
+            "Standard": 22.9,
+            "Premium": 29.9
         }
     },
     "CI": {
@@ -1289,9 +1289,9 @@
         "iso2_code": "LI",
         "currency": "CHF",
         "og_price": {
-            "Basic": 12.9,
-            "Standard": 20.9,
-            "Premium": 27.9
+            "Basic": 14.9,
+            "Standard": 22.9,
+            "Premium": 29.9
         }
     },
     "LK": {
