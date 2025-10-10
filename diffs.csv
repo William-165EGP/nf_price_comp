@@ -353,3 +353,5 @@ date,country_code,country_name,old_mobile,old_basic,old_standard_ads,old_standar
 2025-06-04,TR,Turkey,,149.99,,229.99,299.99,,189.99,,289.99,379.99,TRY,TRY
 2025-07-05,AR,Argentina,,5999,,9999,13499,,7199,,11999,15999,ARS,ARS
 2025-08-08,AU,Australia,,,7.99,18.99,25.99,,,9.99,20.99,28.99,AUD,AUD
+2025-10-10,CH,Switzerland,,12.9,,20.9,27.9,,14.9,,22.9,29.9,CHF,CHF
+2025-10-10,LI,Liechtenstein,,12.9,,20.9,27.9,,14.9,,22.9,29.9,CHF,CHF
