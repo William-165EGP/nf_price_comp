@@ -95,9 +95,9 @@
         "iso2_code": "AR",
         "currency": "ARS",
         "og_price": {
-            "Basic": 7199,
-            "Standard": 11999,
-            "Premium": 15999
+            "Basic": 8999,
+            "Standard": 14999,
+            "Premium": 19999
         }
     },
     "AS": {
@@ -185,6 +185,7 @@
         "iso2_code": "BD",
         "currency": "USD",
         "og_price": {
+            "Mobile": 2.99,
             "Basic": 3.99,
             "Standard": 7.99,
             "Premium": 9.99
@@ -329,6 +330,7 @@
         "iso2_code": "BT",
         "currency": "USD",
         "og_price": {
+            "Mobile": 2.99,
             "Basic": 3.99,
             "Standard": 7.99,
             "Premium": 9.99
@@ -709,6 +711,7 @@
         "iso2_code": "FJ",
         "currency": "USD",
         "og_price": {
+            "Mobile": 2.99,
             "Basic": 3.99,
             "Standard": 7.99,
             "Premium": 9.99
@@ -1178,6 +1181,7 @@
         "iso2_code": "KH",
         "currency": "USD",
         "og_price": {
+            "Mobile": 2.99,
             "Basic": 3.99,
             "Standard": 7.99,
             "Premium": 9.99
@@ -1188,6 +1192,7 @@
         "iso2_code": "KI",
         "currency": "USD",
         "og_price": {
+            "Mobile": 2.99,
             "Basic": 3.99,
             "Standard": 7.99,
             "Premium": 9.99
@@ -1259,6 +1264,7 @@
         "iso2_code": "LA",
         "currency": "USD",
         "og_price": {
+            "Mobile": 2.99,
             "Basic": 3.99,
             "Standard": 7.99,
             "Premium": 9.99
@@ -1299,6 +1305,7 @@
         "iso2_code": "LK",
         "currency": "USD",
         "og_price": {
+            "Mobile": 2.99,
             "Basic": 3.99,
             "Standard": 7.99,
             "Premium": 9.99
@@ -1463,6 +1470,7 @@
         "iso2_code": "MM",
         "currency": "USD",
         "og_price": {
+            "Mobile": 2.99,
             "Basic": 3.99,
             "Standard": 7.99,
             "Premium": 9.99
@@ -1473,6 +1481,7 @@
         "iso2_code": "MN",
         "currency": "USD",
         "og_price": {
+            "Mobile": 2.99,
             "Basic": 3.99,
             "Standard": 7.99,
             "Premium": 9.99
@@ -1688,16 +1697,6 @@
             "Premium": 189
         }
     },
-    "NP": {
-        "full_name": "Nepal",
-        "iso2_code": "NP",
-        "currency": "USD",
-        "og_price": {
-            "Basic": 3.99,
-            "Standard": 7.99,
-            "Premium": 9.99
-        }
-    },
     "NR": {
         "full_name": "Nauru",
         "iso2_code": "NR",
@@ -1775,6 +1774,7 @@
         "iso2_code": "PG",
         "currency": "USD",
         "og_price": {
+            "Mobile": 2.99,
             "Basic": 3.99,
             "Standard": 7.99,
             "Premium": 9.99
@@ -1826,6 +1826,7 @@
         "iso2_code": "PN",
         "currency": "USD",
         "og_price": {
+            "Mobile": 2.99,
             "Basic": 3.99,
             "Standard": 7.99,
             "Premium": 9.99
@@ -1947,6 +1948,7 @@
         "iso2_code": "SB",
         "currency": "USD",
         "og_price": {
+            "Mobile": 2.99,
             "Basic": 3.99,
             "Standard": 7.99,
             "Premium": 9.99
@@ -2218,6 +2220,7 @@
         "iso2_code": "TL",
         "currency": "USD",
         "og_price": {
+            "Mobile": 2.99,
             "Basic": 3.99,
             "Standard": 7.99,
             "Premium": 9.99
@@ -2248,6 +2251,7 @@
         "iso2_code": "TO",
         "currency": "USD",
         "og_price": {
+            "Mobile": 2.99,
             "Basic": 3.99,
             "Standard": 7.99,
             "Premium": 9.99
@@ -2278,6 +2282,7 @@
         "iso2_code": "TV",
         "currency": "USD",
         "og_price": {
+            "Mobile": 2.99,
             "Basic": 3.99,
             "Standard": 7.99,
             "Premium": 9.99
@@ -2431,6 +2436,7 @@
         "iso2_code": "VU",
         "currency": "USD",
         "og_price": {
+            "Mobile": 2.99,
             "Basic": 3.99,
             "Standard": 7.99,
             "Premium": 9.99
@@ -2441,6 +2447,7 @@
         "iso2_code": "WF",
         "currency": "USD",
         "og_price": {
+            "Mobile": 2.99,
             "Basic": 3.99,
             "Standard": 7.99,
             "Premium": 9.99
@@ -2451,6 +2458,7 @@
         "iso2_code": "WS",
         "currency": "USD",
         "og_price": {
+            "Mobile": 2.99,
             "Basic": 3.99,
             "Standard": 7.99,
             "Premium": 9.99
