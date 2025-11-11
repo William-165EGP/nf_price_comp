@@ -374,3 +374,6 @@ date,country_code,country_name,old_mobile,old_basic,old_standard_ads,old_standar
 2025-11-08,VU,Vanuatu,,3.99,,7.99,9.99,2.99,3.99,,7.99,9.99,USD,USD
 2025-11-08,WF,Wallis and Futuna,,3.99,,7.99,9.99,2.99,3.99,,7.99,9.99,USD,USD
 2025-11-08,WS,Samoa,,3.99,,7.99,9.99,2.99,3.99,,7.99,9.99,USD,USD
+2025-11-11,BE,Belgium,,9.99,,14.99,19.99,,10.99,,16.99,21.99,EUR,EUR
+2025-11-11,LU,Luxembourg,,9.99,,14.99,19.99,,10.99,,16.99,21.99,EUR,EUR
+2025-11-11,NL,Netherlands,,8.99,,13.99,18.99,,9.99,,15.99,20.99,EUR,EUR
