@@ -196,9 +196,9 @@
         "iso2_code": "BE",
         "currency": "EUR",
         "og_price": {
-            "Basic": 9.99,
-            "Standard": 14.99,
-            "Premium": 19.99
+            "Basic": 10.99,
+            "Standard": 16.99,
+            "Premium": 21.99
         }
     },
     "BF": {
@@ -1348,9 +1348,9 @@
         "iso2_code": "LU",
         "currency": "EUR",
         "og_price": {
-            "Basic": 9.99,
-            "Standard": 14.99,
-            "Premium": 19.99
+            "Basic": 10.99,
+            "Standard": 16.99,
+            "Premium": 21.99
         }
     },
     "LV": {
@@ -1682,9 +1682,9 @@
         "iso2_code": "NL",
         "currency": "EUR",
         "og_price": {
-            "Basic": 8.99,
-            "Standard": 13.99,
-            "Premium": 18.99
+            "Basic": 9.99,
+            "Standard": 15.99,
+            "Premium": 20.99
         }
     },
     "NO": {
