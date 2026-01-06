@@ -3,15 +3,18 @@ name: Tests
 on:
   schedule:
     - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   tests:
     name: Run integration tests
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      # … whatever other steps you need to run your tests
+      # … run your tests here
 
   workflow-keepalive:
+    name: Keep workflow alive
     if: github.event_name == 'schedule'
     runs-on: ubuntu-latest
     permissions:
