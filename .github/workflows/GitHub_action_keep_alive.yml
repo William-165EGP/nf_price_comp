@@ -1,0 +1,20 @@
+name: Tests
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  tests:
+    name: Run integration tests
+    steps:
+      - uses: actions/checkout@v3
+      # … whatever other steps you need to run your tests
+
+  workflow-keepalive:
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+    steps:
+      - uses: liskin/gh-workflow-keepalive@v1
