@@ -1697,6 +1697,17 @@
             "Premium": 189
         }
     },
+    "NP": {
+        "full_name": "Nepal",
+        "iso2_code": "NP",
+        "currency": "USD",
+        "og_price": {
+            "Mobile": 2.99,
+            "Basic": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
+    },
     "NR": {
         "full_name": "Nauru",
         "iso2_code": "NR",
