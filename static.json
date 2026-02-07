@@ -497,9 +497,9 @@
         "iso2_code": "CR",
         "currency": "USD",
         "og_price": {
-            "Basic": 8.99,
-            "Standard": 12.99,
-            "Premium": 15.99
+            "Basic": 9.99,
+            "Standard": 14.99,
+            "Premium": 17.99
         }
     },
     "CU": {
@@ -917,9 +917,9 @@
         "iso2_code": "GT",
         "currency": "USD",
         "og_price": {
-            "Basic": 5.99,
-            "Standard": 8.99,
-            "Premium": 12.49
+            "Basic": 6.99,
+            "Standard": 9.99,
+            "Premium": 13.99
         }
     },
     "GU": {
@@ -2127,9 +2127,9 @@
         "iso2_code": "SV",
         "currency": "USD",
         "og_price": {
-            "Basic": 5.99,
-            "Standard": 8.99,
-            "Premium": 12.49
+            "Basic": 6.99,
+            "Standard": 9.99,
+            "Premium": 13.99
         }
     },
     "SX": {
