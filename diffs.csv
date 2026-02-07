@@ -377,3 +377,6 @@ date,country_code,country_name,old_mobile,old_basic,old_standard_ads,old_standar
 2025-11-11,BE,Belgium,,9.99,,14.99,19.99,,10.99,,16.99,21.99,EUR,EUR
 2025-11-11,LU,Luxembourg,,9.99,,14.99,19.99,,10.99,,16.99,21.99,EUR,EUR
 2025-11-11,NL,Netherlands,,8.99,,13.99,18.99,,9.99,,15.99,20.99,EUR,EUR
+2026-02-07,CR,Costa Rica,,8.99,,12.99,15.99,,9.99,,14.99,17.99,USD,USD
+2026-02-07,GT,Guatemala,,5.99,,8.99,12.49,,6.99,,9.99,13.99,USD,USD
+2026-02-07,SV,El Salvador,,5.99,,8.99,12.49,,6.99,,9.99,13.99,USD,USD
