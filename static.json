@@ -217,9 +217,9 @@
         "iso2_code": "BG",
         "currency": "EUR",
         "og_price": {
-            "Basic": 4.99,
-            "Standard": 7.99,
-            "Premium": 9.99
+            "Basic": 5.99,
+            "Standard": 8.99,
+            "Premium": 10.99
         }
     },
     "BH": {
@@ -558,9 +558,9 @@
         "iso2_code": "CZ",
         "currency": "CZK",
         "og_price": {
-            "Basic": 239.0,
-            "Standard": 309.0,
-            "Premium": 379.0
+            "Basic": 259.0,
+            "Standard": 339.0,
+            "Premium": 419.0
         }
     },
     "DE": {
@@ -1008,9 +1008,9 @@
         "iso2_code": "HU",
         "currency": "HUF",
         "og_price": {
-            "Basic": 2890,
-            "Standard": 3990,
-            "Premium": 5090
+            "Basic": 3190,
+            "Standard": 4490,
+            "Premium": 5690
         }
     },
     "ID": {
@@ -1338,9 +1338,9 @@
         "iso2_code": "LT",
         "currency": "EUR",
         "og_price": {
-            "Basic": 7.99,
-            "Standard": 9.99,
-            "Premium": 11.99
+            "Basic": 8.99,
+            "Standard": 10.99,
+            "Premium": 13.99
         }
     },
     "LU": {
@@ -1928,9 +1928,9 @@
         "iso2_code": "RS",
         "currency": "EUR",
         "og_price": {
-            "Basic": 4.99,
-            "Standard": 7.99,
-            "Premium": 9.99
+            "Basic": 5.99,
+            "Standard": 8.99,
+            "Premium": 10.99
         }
     },
     "RW": {
@@ -2022,9 +2022,9 @@
         "iso2_code": "SI",
         "currency": "EUR",
         "og_price": {
-            "Basic": 4.99,
-            "Standard": 7.99,
-            "Premium": 9.99
+            "Basic": 5.99,
+            "Standard": 8.99,
+            "Premium": 10.99
         }
     },
     "SJ": {
