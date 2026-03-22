@@ -381,3 +381,9 @@ date,country_code,country_name,old_mobile,old_basic,old_standard_ads,old_standar
 2026-02-07,GT,Guatemala,,5.99,,8.99,12.49,,6.99,,9.99,13.99,USD,USD
 2026-02-07,SV,El Salvador,,5.99,,8.99,12.49,,6.99,,9.99,13.99,USD,USD
 2026-03-13,MX,Mexico,,,119,249,329,,,139,269,369,MXN,MXN
+2026-03-22,BG,Bulgaria,,4.99,,7.99,9.99,,5.99,,8.99,10.99,EUR,EUR
+2026-03-22,CZ,Czech Republic,,239.0,,309.0,379.0,,259.0,,339.0,419.0,CZK,CZK
+2026-03-22,HU,Hungary,,2890,,3990,5090,,3190,,4490,5690,HUF,HUF
+2026-03-22,LT,Lithuania,,7.99,,9.99,11.99,,8.99,,10.99,13.99,EUR,EUR
+2026-03-22,RS,Serbia,,4.99,,7.99,9.99,,5.99,,8.99,10.99,EUR,EUR
+2026-03-22,SI,Slovenia,,4.99,,7.99,9.99,,5.99,,8.99,10.99,EUR,EUR
