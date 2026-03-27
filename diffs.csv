@@ -387,3 +387,16 @@ date,country_code,country_name,old_mobile,old_basic,old_standard_ads,old_standar
 2026-03-22,LT,Lithuania,,7.99,,9.99,11.99,,8.99,,10.99,13.99,EUR,EUR
 2026-03-22,RS,Serbia,,4.99,,7.99,9.99,,5.99,,8.99,10.99,EUR,EUR
 2026-03-22,SI,Slovenia,,4.99,,7.99,9.99,,5.99,,8.99,10.99,EUR,EUR
+2026-03-27,AS,American Samoa,,,7.99,17.99,24.99,,,8.99,19.99,26.99,USD,USD
+2026-03-27,FK,Falkland Islands (Malvinas),,11.99,,17.99,24.99,,12.99,,19.99,26.99,USD,USD
+2026-03-27,FM,"Micronesia, Federated States of",,,7.99,17.99,24.99,,,8.99,19.99,26.99,USD,USD
+2026-03-27,GS,South Georgia and the South Sandwich Islands,,11.99,,17.99,24.99,,12.99,,19.99,26.99,USD,USD
+2026-03-27,GU,Guam,,,7.99,17.99,24.99,,,8.99,19.99,26.99,USD,USD
+2026-03-27,HM,Heard Island and McDonald Islands,,11.99,,17.99,24.99,,12.99,,19.99,26.99,USD,USD
+2026-03-27,MH,Marshall Islands,,,7.99,17.99,24.99,,,8.99,19.99,26.99,USD,USD
+2026-03-27,MP,Northern Mariana Islands,,,7.99,17.99,24.99,,,8.99,19.99,26.99,USD,USD
+2026-03-27,PR,Puerto Rico,,,7.99,17.99,24.99,,,8.99,19.99,26.99,USD,USD
+2026-03-27,PW,Palau,,,7.99,17.99,24.99,,,8.99,19.99,26.99,USD,USD
+2026-03-27,UM,United States Minor Outlying Islands,,11.99,,17.99,24.99,,12.99,,19.99,26.99,USD,USD
+2026-03-27,US,United States,,,7.99,17.99,24.99,,,8.99,19.99,26.99,USD,USD
+2026-03-27,VI,"Virgin Islands, U.S.",,,7.99,17.99,24.99,,,8.99,19.99,26.99,USD,USD
