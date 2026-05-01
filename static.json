@@ -1817,9 +1817,9 @@
         "iso2_code": "PL",
         "currency": "PLN",
         "og_price": {
-            "Basic": 33,
-            "Standard": 49,
-            "Premium": 67
+            "Basic": 37,
+            "Standard": 55,
+            "Premium": 75
         }
     },
     "PM": {
