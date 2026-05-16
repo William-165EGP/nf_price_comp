@@ -405,3 +405,11 @@ date,country_code,country_name,old_mobile,old_basic,old_standard_ads,old_standar
 2026-04-17,ES,Spain,,,6.99,13.99,19.99,,,8.99,14.99,21.99,EUR,EUR
 2026-04-17,GI,Gibraltar,,8.99,,13.99,19.99,,9.99,,14.99,21.99,EUR,EUR
 2026-05-01,PL,Poland,,33,,49,67,,37,,55,75,PLN,PLN
+2026-05-16,BV,Bouvet Island,,7.99,,9.99,11.99,,9.49,,11.49,13.49,USD,USD
+2026-05-16,DK,Denmark,,89,,129,169,,109,,149,189,DKK,DKK
+2026-05-16,FO,Faroe Islands,,89,,129,169,,109,,149,189,DKK,DKK
+2026-05-16,GL,Greenland,,89,,129,169,,109,,149,189,DKK,DKK
+2026-05-16,IS,Iceland,,9.99,,14.99,20.99,,11.99,,16.99,23.99,EUR,EUR
+2026-05-16,NO,Norway,,99,,129,189,,119,,149,219,NOK,NOK
+2026-05-16,SE,Sweden,,109,,149,199,,129,,169,219,SEK,SEK
+2026-05-16,SJ,Svalbard and Jan Mayen,,99,,129,189,,119,,149,,NOK,NOK
