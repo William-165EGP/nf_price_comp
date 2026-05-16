@@ -341,9 +341,9 @@
         "iso2_code": "BV",
         "currency": "USD",
         "og_price": {
-            "Basic": 7.99,
-            "Standard": 9.99,
-            "Premium": 11.99
+            "Basic": 9.49,
+            "Standard": 11.49,
+            "Premium": 13.49
         }
     },
     "BW": {
@@ -589,9 +589,9 @@
         "iso2_code": "DK",
         "currency": "DKK",
         "og_price": {
-            "Basic": 89,
-            "Standard": 129,
-            "Premium": 169
+            "Basic": 109,
+            "Standard": 149,
+            "Premium": 189
         }
     },
     "DM": {
@@ -742,9 +742,9 @@
         "iso2_code": "FO",
         "currency": "DKK",
         "og_price": {
-            "Basic": 89,
-            "Standard": 129,
-            "Premium": 169
+            "Basic": 109,
+            "Standard": 149,
+            "Premium": 189
         }
     },
     "FR": {
@@ -844,9 +844,9 @@
         "iso2_code": "GL",
         "currency": "DKK",
         "og_price": {
-            "Basic": 89,
-            "Standard": 129,
-            "Premium": 169
+            "Basic": 109,
+            "Standard": 149,
+            "Premium": 189
         }
     },
     "GM": {
@@ -1100,9 +1100,9 @@
         "iso2_code": "IS",
         "currency": "EUR",
         "og_price": {
-            "Basic": 9.99,
-            "Standard": 14.99,
-            "Premium": 20.99
+            "Basic": 11.99,
+            "Standard": 16.99,
+            "Premium": 23.99
         }
     },
     "IT": {
@@ -1692,9 +1692,9 @@
         "iso2_code": "NO",
         "currency": "NOK",
         "og_price": {
-            "Basic": 99,
-            "Standard": 129,
-            "Premium": 189
+            "Basic": 119,
+            "Standard": 149,
+            "Premium": 219
         }
     },
     "NP": {
@@ -1991,9 +1991,9 @@
         "iso2_code": "SE",
         "currency": "SEK",
         "og_price": {
-            "Basic": 109,
-            "Standard": 149,
-            "Premium": 199
+            "Basic": 129,
+            "Standard": 169,
+            "Premium": 219
         }
     },
     "SG": {
@@ -2032,9 +2032,8 @@
         "iso2_code": "SJ",
         "currency": "NOK",
         "og_price": {
-            "Basic": 99,
-            "Standard": 129,
-            "Premium": 189
+            "Basic": 119,
+            "Standard": 149
         }
     },
     "SK": {
