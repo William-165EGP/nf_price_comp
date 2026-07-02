@@ -1548,6 +1548,17 @@
             "Premium": 19.99
         }
     },
+    "MU": {
+        "full_name": "Mauritius",
+        "iso2_code": "MU",
+        "currency": "USD",
+        "og_price": {
+            "Mobile": 2.99,
+            "Basic": 3.99,
+            "Standard": 7.99,
+            "Premium": 9.99
+        }
+    },
     "MV": {
         "full_name": "Maldives",
         "iso2_code": "MV",
