@@ -413,3 +413,9 @@ date,country_code,country_name,old_mobile,old_basic,old_standard_ads,old_standar
 2026-05-16,NO,Norway,,99,,129,189,,119,,149,219,NOK,NOK
 2026-05-16,SE,Sweden,,109,,149,199,,129,,169,219,SEK,SEK
 2026-05-16,SJ,Svalbard and Jan Mayen,,99,,129,189,,119,,149,,NOK,NOK
+2026-07-04,AX,Åland Islands,,9.49,,13.99,17.99,,10.99,,15.99,19.99,EUR,EUR
+2026-07-04,EG,Egypt,,100,,170,240,,110,,190,270,EGP,EGP
+2026-07-04,FI,Finland,,9.49,,13.99,17.99,,10.99,,15.99,19.99,EUR,EUR
+2026-07-04,MA,Morocco,,35,,65,95,,45,,80,115,MAD,MAD
+2026-07-04,MU,Mauritius,2.99,3.99,,7.99,9.99,2.99,4.99,,8.99,11.99,USD,USD
+2026-07-04,RE,Réunion,,10.99,,13.49,17.99,,12.99,,15.99,20.99,EUR,EUR
