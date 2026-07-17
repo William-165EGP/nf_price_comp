@@ -1672,9 +1672,9 @@
         "iso2_code": "NI",
         "currency": "USD",
         "og_price": {
-            "Basic": 4.99,
-            "Standard": 6.99,
-            "Premium": 9.99
+            "Basic": 5.99,
+            "Standard": 7.99,
+            "Premium": 10.99
         }
     },
     "NL": {
@@ -1888,9 +1888,9 @@
         "iso2_code": "PY",
         "currency": "USD",
         "og_price": {
-            "Basic": 3.99,
-            "Standard": 5.99,
-            "Premium": 7.99
+            "Basic": 4.99,
+            "Standard": 6.99,
+            "Premium": 8.99
         }
     },
     "QA": {
@@ -2282,9 +2282,9 @@
         "iso2_code": "TT",
         "currency": "USD",
         "og_price": {
-            "Basic": 10.99,
-            "Standard": 15.49,
-            "Premium": 19.99
+            "Basic": 11.99,
+            "Standard": 16.99,
+            "Premium": 22.99
         }
     },
     "TV": {
