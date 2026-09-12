@@ -1596,10 +1596,10 @@
         "iso2_code": "MY",
         "currency": "MYR",
         "og_price": {
-            "Mobile": 18.9,
-            "Basic": 29.9,
-            "Standard": 49.9,
-            "Premium": 62.9
+            "Mobile": 19.9,
+            "Basic": 33.9,
+            "Standard": 55.9,
+            "Premium": 69.9
         }
     },
     "MZ": {
