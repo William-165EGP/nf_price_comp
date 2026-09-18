@@ -290,9 +290,9 @@
         "iso2_code": "BO",
         "currency": "USD",
         "og_price": {
-            "Basic": 3.99,
-            "Standard": 5.99,
-            "Premium": 7.99
+            "Basic": 4.99,
+            "Standard": 6.99,
+            "Premium": 8.99
         }
     },
     "BQ": {
@@ -1130,9 +1130,9 @@
         "iso2_code": "JM",
         "currency": "USD",
         "og_price": {
-            "Basic": 4.99,
-            "Standard": 6.99,
-            "Premium": 9.99
+            "Basic": 5.99,
+            "Standard": 7.99,
+            "Premium": 10.99
         }
     },
     "JO": {
