@@ -488,8 +488,8 @@
         "currency": "COP",
         "og_price": {
             "Basic": 18900,
-            "Standard": 29900,
-            "Premium": 44900
+            "Standard": 32900,
+            "Premium": 50900
         }
     },
     "CR": {
@@ -2405,9 +2405,9 @@
         "iso2_code": "VE",
         "currency": "USD",
         "og_price": {
-            "Basic": 3.99,
-            "Standard": 5.99,
-            "Premium": 7.99
+            "Basic": 4.99,
+            "Standard": 6.99,
+            "Premium": 8.99
         }
     },
     "VG": {
