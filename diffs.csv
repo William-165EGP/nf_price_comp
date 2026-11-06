@@ -438,3 +438,7 @@ date,country_code,country_name,old_mobile,old_basic,old_standard_ads,old_standar
 2026-10-10,VE,"Venezuela, Bolivarian Republic of",,3.99,,5.99,7.99,,4.99,,6.99,8.99,USD,USD
 2026-10-16,BR,Brazil,,,20.9,44.9,59.9,,,25.9,51.9,71.9,BRL,BRL
 2026-11-03,HR,Croatia,,5.99,,9.99,12.99,,6.99,,11.99,14.99,EUR,EUR
+2026-11-06,IT,Italy,,,6.99,13.99,19.99,,,7.99,14.99,21.99,EUR,EUR
+2026-11-06,MT,Malta,,8.99,,13.99,19.99,,9.99,,14.99,21.99,EUR,EUR
+2026-11-06,SM,San Marino,,,6.99,13.99,19.99,,,7.99,14.99,21.99,EUR,EUR
+2026-11-06,VA,Holy See (Vatican City State),,,6.99,13.99,19.99,,,7.99,14.99,21.99,EUR,EUR
