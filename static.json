@@ -1110,9 +1110,9 @@
         "iso2_code": "IT",
         "currency": "EUR",
         "og_price": {
-            "Standard with ads": 6.99,
-            "Standard": 13.99,
-            "Premium": 19.99
+            "Standard with ads": 7.99,
+            "Standard": 14.99,
+            "Premium": 21.99
         }
     },
     "JE": {
@@ -1543,9 +1543,9 @@
         "iso2_code": "MT",
         "currency": "EUR",
         "og_price": {
-            "Basic": 8.99,
-            "Standard": 13.99,
-            "Premium": 19.99
+            "Basic": 9.99,
+            "Standard": 14.99,
+            "Premium": 21.99
         }
     },
     "MU": {
@@ -2062,9 +2062,9 @@
         "iso2_code": "SM",
         "currency": "EUR",
         "og_price": {
-            "Standard with ads": 6.99,
-            "Standard": 13.99,
-            "Premium": 19.99
+            "Standard with ads": 7.99,
+            "Standard": 14.99,
+            "Premium": 21.99
         }
     },
     "SN": {
@@ -2385,9 +2385,9 @@
         "iso2_code": "VA",
         "currency": "EUR",
         "og_price": {
-            "Standard with ads": 6.99,
-            "Standard": 13.99,
-            "Premium": 19.99
+            "Standard with ads": 7.99,
+            "Standard": 14.99,
+            "Premium": 21.99
         }
     },
     "VC": {
